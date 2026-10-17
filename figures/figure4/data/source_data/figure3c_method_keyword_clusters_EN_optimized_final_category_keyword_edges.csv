@@ -1,0 +1,65 @@
+﻿category_cn,category_en,keyword_cn,keyword_en,count,category_total,share_within_category
+混合方法,Mixed methods,文献档案,Literature and archives,46,55,0.8363636363636363
+混合方法,Mixed methods,指标评价,Indicator evaluation,42,55,0.7636363636363637
+混合方法,Mixed methods,问卷访谈,Questionnaires and interviews,42,55,0.7636363636363637
+混合方法,Mixed methods,空间形态,Spatial morphology,38,55,0.6909090909090909
+混合方法,Mixed methods,历史图像,Historical imagery,14,55,0.2545454545454545
+混合方法,Mixed methods,三维建模,Three-dimensional modeling,14,55,0.2545454545454545
+混合方法,Mixed methods,遥感分析,Remote sensing analysis,13,55,0.23636363636363636
+混合方法,Mixed methods,情景模拟,Scenario simulation,10,55,0.18181818181818182
+混合方法,Mixed methods,点云测绘,Point-cloud surveying,9,55,0.16363636363636364
+混合方法,Mixed methods,结构环境检测,Structural-environmental testing,9,55,0.16363636363636364
+模型评价,Model-based evaluation,指标评价,Indicator evaluation,35,35,1.0
+模型评价,Model-based evaluation,文献档案,Literature and archives,26,35,0.7428571428571429
+模型评价,Model-based evaluation,问卷访谈,Questionnaires and interviews,26,35,0.7428571428571429
+模型评价,Model-based evaluation,空间形态,Spatial morphology,19,35,0.5428571428571428
+模型评价,Model-based evaluation,情景模拟,Scenario simulation,14,35,0.4
+模型评价,Model-based evaluation,遥感分析,Remote sensing analysis,11,35,0.3142857142857143
+模型评价,Model-based evaluation,结构环境检测,Structural-environmental testing,9,35,0.2571428571428571
+模型评价,Model-based evaluation,机器学习,Machine learning,5,35,0.14285714285714285
+模型评价,Model-based evaluation,材料检测,Material testing,4,35,0.11428571428571428
+模型评价,Model-based evaluation,三维建模,Three-dimensional modeling,4,35,0.11428571428571428
+空间分析,Spatial analysis,空间形态,Spatial morphology,18,20,0.9
+空间分析,Spatial analysis,文献档案,Literature and archives,17,20,0.85
+空间分析,Spatial analysis,指标评价,Indicator evaluation,14,20,0.7
+空间分析,Spatial analysis,问卷访谈,Questionnaires and interviews,11,20,0.55
+空间分析,Spatial analysis,遥感分析,Remote sensing analysis,7,20,0.35
+空间分析,Spatial analysis,历史图像,Historical imagery,5,20,0.25
+空间分析,Spatial analysis,情景模拟,Scenario simulation,4,20,0.2
+空间分析,Spatial analysis,三维建模,Three-dimensional modeling,3,20,0.15
+空间分析,Spatial analysis,点云测绘,Point-cloud surveying,2,20,0.1
+空间分析,Spatial analysis,参与式调查,Participatory survey,1,20,0.05
+历史档案,Historical archives,文献档案,Literature and archives,12,12,1.0
+历史档案,Historical archives,历史图像,Historical imagery,8,12,0.6666666666666666
+历史档案,Historical archives,空间形态,Spatial morphology,5,12,0.4166666666666667
+历史档案,Historical archives,问卷访谈,Questionnaires and interviews,2,12,0.16666666666666666
+历史档案,Historical archives,遥感分析,Remote sensing analysis,2,12,0.16666666666666666
+历史档案,Historical archives,三维建模,Three-dimensional modeling,2,12,0.16666666666666666
+历史档案,Historical archives,指标评价,Indicator evaluation,1,12,0.08333333333333333
+历史档案,Historical archives,点云测绘,Point-cloud surveying,1,12,0.08333333333333333
+数字建模,Digital modeling,三维建模,Three-dimensional modeling,8,8,1.0
+数字建模,Digital modeling,点云测绘,Point-cloud surveying,7,8,0.875
+数字建模,Digital modeling,空间形态,Spatial morphology,6,8,0.75
+数字建模,Digital modeling,文献档案,Literature and archives,5,8,0.625
+数字建模,Digital modeling,指标评价,Indicator evaluation,4,8,0.5
+数字建模,Digital modeling,遥感分析,Remote sensing analysis,4,8,0.5
+数字建模,Digital modeling,情景模拟,Scenario simulation,4,8,0.5
+数字建模,Digital modeling,历史图像,Historical imagery,2,8,0.25
+数字建模,Digital modeling,机器学习,Machine learning,2,8,0.25
+数字建模,Digital modeling,结构环境检测,Structural-environmental testing,2,8,0.25
+社会调查,Social survey,问卷访谈,Questionnaires and interviews,7,7,1.0
+社会调查,Social survey,文献档案,Literature and archives,5,7,0.7142857142857143
+社会调查,Social survey,指标评价,Indicator evaluation,2,7,0.2857142857142857
+社会调查,Social survey,机器学习,Machine learning,2,7,0.2857142857142857
+社会调查,Social survey,参与式调查,Participatory survey,2,7,0.2857142857142857
+社会调查,Social survey,空间形态,Spatial morphology,1,7,0.14285714285714285
+实验检测,Experimental testing,材料检测,Material testing,4,4,1.0
+实验检测,Experimental testing,情景模拟,Scenario simulation,3,4,0.75
+实验检测,Experimental testing,结构环境检测,Structural-environmental testing,3,4,0.75
+实验检测,Experimental testing,文献档案,Literature and archives,2,4,0.5
+实验检测,Experimental testing,指标评价,Indicator evaluation,1,4,0.25
+智能计算,Intelligent computing,指标评价,Indicator evaluation,1,1,1.0
+智能计算,Intelligent computing,机器学习,Machine learning,1,1,1.0
+智能计算,Intelligent computing,遥感分析,Remote sensing analysis,1,1,1.0
+智能计算,Intelligent computing,空间形态,Spatial morphology,1,1,1.0
+智能计算,Intelligent computing,三维建模,Three-dimensional modeling,1,1,1.0

@@ -1,0 +1,39 @@
+﻿node_id,node_type,label_cn,label_en,count,x,y
+object::建筑遗产,object,建筑遗产,Architectural heritage,36,-1.92,0.8
+object::工业遗产,object,工业遗产,Industrial heritage,29,-1.92,0.582857142857143
+object::文化景观与线性遗产,object,文化景观与线性遗产,Cultural landscapes and linear heritage,28,-1.92,0.36571428571428577
+object::综合,object,综合,Integrated,19,-1.92,0.14857142857142858
+object::乡村与农业遗产,object,乡村与农业遗产,Rural and agricultural heritage,12,-1.92,-0.0685714285714285
+object::自然遗产,object,自然遗产,Natural heritage,11,-1.92,-0.2857142857142856
+object::非物质与活态遗产,object,非物质与活态遗产,Intangible and living heritage,6,-1.92,-0.5028571428571429
+object::考古遗产,object,考古遗产,Archaeological heritage,1,-1.92,-0.72
+turn::本体保护转向,turn,本体保护转向,Object-conservation turn,11,-0.62,0.82
+turn::数字计算转向,turn,数字计算转向,Digital-computational turn,19,-0.62,0.5566666666666666
+turn::空间活化转向,turn,空间活化转向,Spatial activation turn,46,-0.62,0.2933333333333332
+turn::社会文化转向,turn,社会文化转向,Socio-cultural turn,44,-0.62,0.029999999999999916
+turn::风险韧性转向,turn,风险韧性转向,Risk-resilience turn,9,-0.62,-0.2333333333333335
+turn::混合转向,turn,混合转向,Hybrid turn,12,-0.62,-0.4966666666666669
+turn::传统延续,turn,传统延续,Traditional continuity,1,-0.62,-0.76
+method::混合方法,method,混合方法,Mixed methods,55,0.56,0.86
+method::模型评价,method,模型评价,Model-based evaluation,35,0.56,0.7714285714285715
+method::空间分析,method,空间分析,Spatial analysis,20,0.56,0.6828571428571428
+method::历史档案,method,历史档案,Historical archives,12,0.56,0.5942857142857143
+method::数字建模,method,数字建模,Digital modeling,8,0.56,0.5057142857142858
+method::社会调查,method,社会调查,Social survey,7,0.56,0.41714285714285715
+method::实验检测,method,实验检测,Experimental testing,4,0.56,0.3285714285714286
+method::智能计算,method,智能计算,Intelligent computing,1,0.56,0.24
+function::干预决策,function,干预决策,Intervention and decision,46,0.58,0.04
+function::机制解释,function,机制解释,Mechanism explanation,28,0.58,-0.08571428571428572
+function::诊断评价,function,诊断评价,Diagnosis and evaluation,23,0.58,-0.21142857142857144
+function::意义阐释,function,意义阐释,Meaning interpretation,16,0.58,-0.3371428571428572
+function::工具平台,function,工具平台,Tools and platforms,14,0.58,-0.4628571428571429
+function::综合,function,综合,Integrated function,12,0.58,-0.5885714285714285
+function::预测模拟,function,预测模拟,Prediction and simulation,2,0.58,-0.7142857142857143
+function::记录描述,function,记录描述,Recording and description,1,0.58,-0.84
+application::价值阐释,application,价值阐释,Value interpretation,128,1.86,0.8
+application::保护干预,application,保护干预,Conservation intervention,105,1.86,0.5366666666666666
+application::数字平台,application,数字平台,Digital platforming,80,1.86,0.2733333333333333
+application::空间治理,application,空间治理,Spatial governance,135,1.86,0.010000000000000009
+application::社区参与,application,社区参与,Community participation,114,1.86,-0.2533333333333334
+application::文旅融合,application,文旅融合,Culture-tourism integration,112,1.86,-0.5166666666666668
+application::风险适应,application,风险适应,Risk adaptation,55,1.86,-0.78

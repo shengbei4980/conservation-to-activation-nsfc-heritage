@@ -1,0 +1,3 @@
+﻿figure,panel,description,source_data
+figure4_annual_research_orientation_stacked_bar_EN,main,Annual stacked counts of NSFC heritage research orientations by project start year,source_data/figure4_annual_research_orientation_counts.csv
+figure4_annual_research_orientation_stacked_bar_EN,main,Annual total number of NSFC heritage research projects,source_data/figure4_annual_total_project_counts.csv

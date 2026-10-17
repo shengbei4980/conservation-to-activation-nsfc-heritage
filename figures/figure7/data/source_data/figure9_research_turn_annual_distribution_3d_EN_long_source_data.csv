@@ -1,0 +1,106 @@
+﻿start_year,research_turn_cn,research_turn_en,annual_count,annual_total,annual_share,plotted_value,plotted_value_unit
+2008,传统延续,Traditional continuity,0,2,0.0,0,project_count
+2008,混合转向,Hybrid turn,0,2,0.0,0,project_count
+2008,本体保护转向,Object-conservation turn,0,2,0.0,0,project_count
+2008,风险韧性转向,Risk-resilience turn,0,2,0.0,0,project_count
+2008,数字计算转向,Digital-computational turn,1,2,0.5,1,project_count
+2008,社会文化转向,Socio-cultural turn,1,2,0.5,1,project_count
+2008,空间活化转向,Spatial activation turn,0,2,0.0,0,project_count
+2009,传统延续,Traditional continuity,0,1,0.0,0,project_count
+2009,混合转向,Hybrid turn,0,1,0.0,0,project_count
+2009,本体保护转向,Object-conservation turn,0,1,0.0,0,project_count
+2009,风险韧性转向,Risk-resilience turn,1,1,1.0,1,project_count
+2009,数字计算转向,Digital-computational turn,0,1,0.0,0,project_count
+2009,社会文化转向,Socio-cultural turn,0,1,0.0,0,project_count
+2009,空间活化转向,Spatial activation turn,0,1,0.0,0,project_count
+2010,传统延续,Traditional continuity,0,8,0.0,0,project_count
+2010,混合转向,Hybrid turn,1,8,0.125,1,project_count
+2010,本体保护转向,Object-conservation turn,0,8,0.0,0,project_count
+2010,风险韧性转向,Risk-resilience turn,1,8,0.125,1,project_count
+2010,数字计算转向,Digital-computational turn,0,8,0.0,0,project_count
+2010,社会文化转向,Socio-cultural turn,4,8,0.5,4,project_count
+2010,空间活化转向,Spatial activation turn,2,8,0.25,2,project_count
+2011,传统延续,Traditional continuity,0,5,0.0,0,project_count
+2011,混合转向,Hybrid turn,0,5,0.0,0,project_count
+2011,本体保护转向,Object-conservation turn,2,5,0.4,2,project_count
+2011,风险韧性转向,Risk-resilience turn,0,5,0.0,0,project_count
+2011,数字计算转向,Digital-computational turn,0,5,0.0,0,project_count
+2011,社会文化转向,Socio-cultural turn,1,5,0.2,1,project_count
+2011,空间活化转向,Spatial activation turn,2,5,0.4,2,project_count
+2012,传统延续,Traditional continuity,0,6,0.0,0,project_count
+2012,混合转向,Hybrid turn,1,6,0.16666666666666666,1,project_count
+2012,本体保护转向,Object-conservation turn,0,6,0.0,0,project_count
+2012,风险韧性转向,Risk-resilience turn,1,6,0.16666666666666666,1,project_count
+2012,数字计算转向,Digital-computational turn,1,6,0.16666666666666666,1,project_count
+2012,社会文化转向,Socio-cultural turn,2,6,0.3333333333333333,2,project_count
+2012,空间活化转向,Spatial activation turn,1,6,0.16666666666666666,1,project_count
+2013,传统延续,Traditional continuity,0,13,0.0,0,project_count
+2013,混合转向,Hybrid turn,0,13,0.0,0,project_count
+2013,本体保护转向,Object-conservation turn,1,13,0.07692307692307693,1,project_count
+2013,风险韧性转向,Risk-resilience turn,2,13,0.15384615384615385,2,project_count
+2013,数字计算转向,Digital-computational turn,0,13,0.0,0,project_count
+2013,社会文化转向,Socio-cultural turn,2,13,0.15384615384615385,2,project_count
+2013,空间活化转向,Spatial activation turn,8,13,0.6153846153846154,8,project_count
+2014,传统延续,Traditional continuity,1,13,0.07692307692307693,1,project_count
+2014,混合转向,Hybrid turn,0,13,0.0,0,project_count
+2014,本体保护转向,Object-conservation turn,1,13,0.07692307692307693,1,project_count
+2014,风险韧性转向,Risk-resilience turn,1,13,0.07692307692307693,1,project_count
+2014,数字计算转向,Digital-computational turn,2,13,0.15384615384615385,2,project_count
+2014,社会文化转向,Socio-cultural turn,2,13,0.15384615384615385,2,project_count
+2014,空间活化转向,Spatial activation turn,6,13,0.46153846153846156,6,project_count
+2015,传统延续,Traditional continuity,0,15,0.0,0,project_count
+2015,混合转向,Hybrid turn,1,15,0.06666666666666667,1,project_count
+2015,本体保护转向,Object-conservation turn,1,15,0.06666666666666667,1,project_count
+2015,风险韧性转向,Risk-resilience turn,1,15,0.06666666666666667,1,project_count
+2015,数字计算转向,Digital-computational turn,2,15,0.13333333333333333,2,project_count
+2015,社会文化转向,Socio-cultural turn,5,15,0.3333333333333333,5,project_count
+2015,空间活化转向,Spatial activation turn,5,15,0.3333333333333333,5,project_count
+2016,传统延续,Traditional continuity,0,10,0.0,0,project_count
+2016,混合转向,Hybrid turn,1,10,0.1,1,project_count
+2016,本体保护转向,Object-conservation turn,0,10,0.0,0,project_count
+2016,风险韧性转向,Risk-resilience turn,0,10,0.0,0,project_count
+2016,数字计算转向,Digital-computational turn,2,10,0.2,2,project_count
+2016,社会文化转向,Socio-cultural turn,3,10,0.3,3,project_count
+2016,空间活化转向,Spatial activation turn,4,10,0.4,4,project_count
+2017,传统延续,Traditional continuity,0,10,0.0,0,project_count
+2017,混合转向,Hybrid turn,0,10,0.0,0,project_count
+2017,本体保护转向,Object-conservation turn,1,10,0.1,1,project_count
+2017,风险韧性转向,Risk-resilience turn,0,10,0.0,0,project_count
+2017,数字计算转向,Digital-computational turn,2,10,0.2,2,project_count
+2017,社会文化转向,Socio-cultural turn,3,10,0.3,3,project_count
+2017,空间活化转向,Spatial activation turn,4,10,0.4,4,project_count
+2018,传统延续,Traditional continuity,0,15,0.0,0,project_count
+2018,混合转向,Hybrid turn,2,15,0.13333333333333333,2,project_count
+2018,本体保护转向,Object-conservation turn,1,15,0.06666666666666667,1,project_count
+2018,风险韧性转向,Risk-resilience turn,0,15,0.0,0,project_count
+2018,数字计算转向,Digital-computational turn,4,15,0.26666666666666666,4,project_count
+2018,社会文化转向,Socio-cultural turn,3,15,0.2,3,project_count
+2018,空间活化转向,Spatial activation turn,5,15,0.3333333333333333,5,project_count
+2019,传统延续,Traditional continuity,0,14,0.0,0,project_count
+2019,混合转向,Hybrid turn,3,14,0.21428571428571427,3,project_count
+2019,本体保护转向,Object-conservation turn,2,14,0.14285714285714285,2,project_count
+2019,风险韧性转向,Risk-resilience turn,0,14,0.0,0,project_count
+2019,数字计算转向,Digital-computational turn,2,14,0.14285714285714285,2,project_count
+2019,社会文化转向,Socio-cultural turn,5,14,0.35714285714285715,5,project_count
+2019,空间活化转向,Spatial activation turn,2,14,0.14285714285714285,2,project_count
+2020,传统延续,Traditional continuity,0,10,0.0,0,project_count
+2020,混合转向,Hybrid turn,1,10,0.1,1,project_count
+2020,本体保护转向,Object-conservation turn,0,10,0.0,0,project_count
+2020,风险韧性转向,Risk-resilience turn,2,10,0.2,2,project_count
+2020,数字计算转向,Digital-computational turn,0,10,0.0,0,project_count
+2020,社会文化转向,Socio-cultural turn,5,10,0.5,5,project_count
+2020,空间活化转向,Spatial activation turn,2,10,0.2,2,project_count
+2021,传统延续,Traditional continuity,0,16,0.0,0,project_count
+2021,混合转向,Hybrid turn,2,16,0.125,2,project_count
+2021,本体保护转向,Object-conservation turn,1,16,0.0625,1,project_count
+2021,风险韧性转向,Risk-resilience turn,0,16,0.0,0,project_count
+2021,数字计算转向,Digital-computational turn,3,16,0.1875,3,project_count
+2021,社会文化转向,Socio-cultural turn,5,16,0.3125,5,project_count
+2021,空间活化转向,Spatial activation turn,5,16,0.3125,5,project_count
+2022,传统延续,Traditional continuity,0,4,0.0,0,project_count
+2022,混合转向,Hybrid turn,0,4,0.0,0,project_count
+2022,本体保护转向,Object-conservation turn,1,4,0.25,1,project_count
+2022,风险韧性转向,Risk-resilience turn,0,4,0.0,0,project_count
+2022,数字计算转向,Digital-computational turn,0,4,0.0,0,project_count
+2022,社会文化转向,Socio-cultural turn,3,4,0.75,3,project_count
+2022,空间活化转向,Spatial activation turn,0,4,0.0,0,project_count

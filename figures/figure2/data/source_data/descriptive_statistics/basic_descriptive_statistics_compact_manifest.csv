@@ -1,0 +1,5 @@
+﻿figure,panel,description,source_data
+NSFC_heritage_basic_descriptive_statistics_compact_EN,Project type,Compact vertical bar chart of NSFC project types,source_data/basic_stats_project_type_counts_compact.csv
+NSFC_heritage_basic_descriptive_statistics_compact_EN,Application code,Compact vertical bar chart of NSFC application codes,source_data/basic_stats_discipline_code_counts_compact.csv
+NSFC_heritage_project_type_compact_EN,single,Single compact vertical bar chart of NSFC project types,source_data/basic_stats_project_type_counts_compact.csv
+NSFC_heritage_application_code_compact_EN,single,Single compact vertical bar chart of NSFC application codes,source_data/basic_stats_discipline_code_counts_compact.csv

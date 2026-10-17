@@ -1,4 +1,6 @@
-outputs/
+/outputs/
+/figures/**/outputs/reproduced/
+node_modules/
 .env
 .env.*
 !.env.example

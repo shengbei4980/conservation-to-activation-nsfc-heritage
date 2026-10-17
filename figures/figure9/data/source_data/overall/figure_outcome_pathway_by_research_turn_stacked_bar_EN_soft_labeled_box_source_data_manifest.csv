@@ -1,0 +1,3 @@
+﻿figure,panel,source_data,description
+figure_outcome_pathway_by_research_turn_stacked_bar_EN_soft_labeled_box,single,source_data/figure_outcome_pathway_by_research_turn_stacked_bar_EN_soft_labeled_box_long.csv,"Project-level output-type presence by research turn. Structured publication, monograph and award outputs use final-report counts; application-oriented outputs use coded output-pathway labels."
+figure_outcome_pathway_by_research_turn_stacked_bar_EN_soft_labeled_box,single,source_data/figure_outcome_pathway_by_research_turn_stacked_bar_EN_soft_labeled_box_matrix.csv,Matrix used for Figure 9a stacked bars. Values are project-level output-type hits rather than total output quantities.

@@ -1,0 +1,29 @@
+﻿mapping_level,variable_name,chinese_label,english_label
+dimension,heritage_object,heritage_object,Heritage object
+dimension,research_orientation,research_orientation,Research orientation
+dimension,method_orientation,method_orientation,Methodological orientation
+column,count,count,Number of projects
+column,percent,percent,Percentage
+category,heritage_object,建筑遗产,Architectural heritage
+category,heritage_object,工业遗产,Industrial heritage
+category,heritage_object,文化景观与线性遗产,Cultural landscapes and linear heritage
+category,heritage_object,综合,Integrated
+category,heritage_object,乡村与农业遗产,Rural and agricultural heritage
+category,heritage_object,自然遗产,Natural heritage
+category,heritage_object,非物质与活态遗产,Intangible and living heritage
+category,heritage_object,考古遗产,Archaeological heritage
+category,research_orientation,治理参与,Governance and participation
+category,research_orientation,价值识别,Value identification
+category,research_orientation,活化再生,Revitalization and regeneration
+category,research_orientation,保护监测,Conservation and monitoring
+category,research_orientation,数字记录,Digital documentation
+category,research_orientation,综合,Integrated
+category,research_orientation,风险韧性,Risk and resilience
+category,method_orientation,混合方法,Mixed methods
+category,method_orientation,模型评价,Model-based evaluation
+category,method_orientation,空间分析,Spatial analysis
+category,method_orientation,历史档案,Historical archives
+category,method_orientation,数字建模,Digital modeling
+category,method_orientation,社会调查,Social survey
+category,method_orientation,实验检测,Experimental testing
+category,method_orientation,智能计算,Intelligent computing

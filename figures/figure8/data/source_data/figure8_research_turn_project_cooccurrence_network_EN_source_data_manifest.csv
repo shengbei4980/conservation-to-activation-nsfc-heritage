@@ -1,0 +1,4 @@
+﻿figure,panel,source_data,description
+figure8_research_turn_project_cooccurrence_network_EN,b,source_data/figure8_research_turn_project_cooccurrence_network_EN_nodes.csv,Node table with coding-framework labels and plotted coordinates.
+figure8_research_turn_project_cooccurrence_network_EN,b,source_data/figure8_research_turn_project_cooccurrence_network_EN_edges.csv,Directed project-level co-occurrence edges; strength is normalized within each source node.
+figure8_research_turn_project_cooccurrence_network_EN,b,source_data/figure8_research_turn_project_cooccurrence_network_EN_application_context_rules.csv,Rules used to derive application contexts from LLM-coded project tags.

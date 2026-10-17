@@ -1,0 +1,73 @@
+﻿node_type,category_cn,category_en,keyword_cn,keyword_en,count
+category,混合方法,Mixed methods,,,55
+category,模型评价,Model-based evaluation,,,35
+category,空间分析,Spatial analysis,,,20
+category,历史档案,Historical archives,,,12
+category,数字建模,Digital modeling,,,8
+category,社会调查,Social survey,,,7
+category,实验检测,Experimental testing,,,4
+category,智能计算,Intelligent computing,,,1
+keyword,混合方法,Mixed methods,文献档案,Literature and archives,46
+keyword,混合方法,Mixed methods,指标评价,Indicator evaluation,42
+keyword,混合方法,Mixed methods,问卷访谈,Questionnaires and interviews,42
+keyword,混合方法,Mixed methods,空间形态,Spatial morphology,38
+keyword,混合方法,Mixed methods,历史图像,Historical imagery,14
+keyword,混合方法,Mixed methods,三维建模,Three-dimensional modeling,14
+keyword,混合方法,Mixed methods,遥感分析,Remote sensing analysis,13
+keyword,混合方法,Mixed methods,情景模拟,Scenario simulation,10
+keyword,混合方法,Mixed methods,点云测绘,Point-cloud surveying,9
+keyword,混合方法,Mixed methods,结构环境检测,Structural-environmental testing,9
+keyword,模型评价,Model-based evaluation,指标评价,Indicator evaluation,35
+keyword,模型评价,Model-based evaluation,文献档案,Literature and archives,26
+keyword,模型评价,Model-based evaluation,问卷访谈,Questionnaires and interviews,26
+keyword,模型评价,Model-based evaluation,空间形态,Spatial morphology,19
+keyword,模型评价,Model-based evaluation,情景模拟,Scenario simulation,14
+keyword,模型评价,Model-based evaluation,遥感分析,Remote sensing analysis,11
+keyword,模型评价,Model-based evaluation,结构环境检测,Structural-environmental testing,9
+keyword,模型评价,Model-based evaluation,机器学习,Machine learning,5
+keyword,模型评价,Model-based evaluation,材料检测,Material testing,4
+keyword,模型评价,Model-based evaluation,三维建模,Three-dimensional modeling,4
+keyword,空间分析,Spatial analysis,空间形态,Spatial morphology,18
+keyword,空间分析,Spatial analysis,文献档案,Literature and archives,17
+keyword,空间分析,Spatial analysis,指标评价,Indicator evaluation,14
+keyword,空间分析,Spatial analysis,问卷访谈,Questionnaires and interviews,11
+keyword,空间分析,Spatial analysis,遥感分析,Remote sensing analysis,7
+keyword,空间分析,Spatial analysis,历史图像,Historical imagery,5
+keyword,空间分析,Spatial analysis,情景模拟,Scenario simulation,4
+keyword,空间分析,Spatial analysis,三维建模,Three-dimensional modeling,3
+keyword,空间分析,Spatial analysis,点云测绘,Point-cloud surveying,2
+keyword,空间分析,Spatial analysis,参与式调查,Participatory survey,1
+keyword,历史档案,Historical archives,文献档案,Literature and archives,12
+keyword,历史档案,Historical archives,历史图像,Historical imagery,8
+keyword,历史档案,Historical archives,空间形态,Spatial morphology,5
+keyword,历史档案,Historical archives,问卷访谈,Questionnaires and interviews,2
+keyword,历史档案,Historical archives,遥感分析,Remote sensing analysis,2
+keyword,历史档案,Historical archives,三维建模,Three-dimensional modeling,2
+keyword,历史档案,Historical archives,指标评价,Indicator evaluation,1
+keyword,历史档案,Historical archives,点云测绘,Point-cloud surveying,1
+keyword,数字建模,Digital modeling,三维建模,Three-dimensional modeling,8
+keyword,数字建模,Digital modeling,点云测绘,Point-cloud surveying,7
+keyword,数字建模,Digital modeling,空间形态,Spatial morphology,6
+keyword,数字建模,Digital modeling,文献档案,Literature and archives,5
+keyword,数字建模,Digital modeling,指标评价,Indicator evaluation,4
+keyword,数字建模,Digital modeling,遥感分析,Remote sensing analysis,4
+keyword,数字建模,Digital modeling,情景模拟,Scenario simulation,4
+keyword,数字建模,Digital modeling,历史图像,Historical imagery,2
+keyword,数字建模,Digital modeling,机器学习,Machine learning,2
+keyword,数字建模,Digital modeling,结构环境检测,Structural-environmental testing,2
+keyword,社会调查,Social survey,问卷访谈,Questionnaires and interviews,7
+keyword,社会调查,Social survey,文献档案,Literature and archives,5
+keyword,社会调查,Social survey,指标评价,Indicator evaluation,2
+keyword,社会调查,Social survey,机器学习,Machine learning,2
+keyword,社会调查,Social survey,参与式调查,Participatory survey,2
+keyword,社会调查,Social survey,空间形态,Spatial morphology,1
+keyword,实验检测,Experimental testing,材料检测,Material testing,4
+keyword,实验检测,Experimental testing,情景模拟,Scenario simulation,3
+keyword,实验检测,Experimental testing,结构环境检测,Structural-environmental testing,3
+keyword,实验检测,Experimental testing,文献档案,Literature and archives,2
+keyword,实验检测,Experimental testing,指标评价,Indicator evaluation,1
+keyword,智能计算,Intelligent computing,指标评价,Indicator evaluation,1
+keyword,智能计算,Intelligent computing,机器学习,Machine learning,1
+keyword,智能计算,Intelligent computing,遥感分析,Remote sensing analysis,1
+keyword,智能计算,Intelligent computing,空间形态,Spatial morphology,1
+keyword,智能计算,Intelligent computing,三维建模,Three-dimensional modeling,1

@@ -18,6 +18,10 @@ The source collection contains **144 project records**. The supplied coding tabl
 | `metadata/archive_manifest.csv` | All 6,521 original archive entries, renamed member paths, and payload checksums |
 | `metadata/release_assets.csv` | Download URLs, sizes, checksums, and counts for the three image archives |
 
+## Manuscript figures
+
+[Browse Figures 1-9](figures/README.md) for per-figure data, code, final artwork and verification notes. The original-file manifest is available in [metadata/figure_file_manifest.csv](metadata/figure_file_manifest.csv).
+
 ## Report-page images
 
 Download the three ZIP assets from [Release v1.0.0](https://github.com/shengbei4980/conservation-to-activation-nsfc-heritage/releases/tag/v1.0.0). Each is independently extractable and contains complete project directories. Extract all three into the same directory to obtain `final_report_images/<approval_no>/`.
@@ -62,6 +66,6 @@ Actual coding sends report text and metadata to the configured API and may incur
 
 ## Verification and reuse
 
-The publication copy was checked for matching project IDs across both tables, the corpus, and the image archives; 142/2 inclusion counts; English paths and path uniqueness; unchanged data-file hashes; unchanged archive-member payload hashes; and offline code execution. These checks establish packaging integrity and correspondence. LLM outputs are model-assisted annotations and may require human review. Rerunning an external model may produce different labels. This repository contains the supplied raw-data collection and coding program; it does not include the manuscript's complete downstream figure-generation pipeline.
+The publication copy was checked for matching project IDs across both tables, the corpus, and the image archives; 142/2 inclusion counts; English paths and path uniqueness; unchanged data-file hashes; unchanged archive-member payload hashes; and offline code execution. These checks establish packaging integrity and correspondence. LLM outputs are model-assisted annotations and may require human review. Rerunning an external model may produce different labels. The supplied downstream plotting programs and submitted artwork are organized in [Figures 1-9](figures/README.md). The figure documentation distinguishes computational outputs, manually edited artwork, and the known Figure 6/7 discrepancies.
 
 Use `CITATION.cff` when citing this repository. The source reports and project information originate from the NSFC Knowledge Discovery platform (`kd.nsfc.cn`). Original source and third-party rights remain applicable; this repository does not grant a new blanket license to third-party reports.

@@ -1,0 +1,24 @@
+﻿dimension_variable,dimension_en,category_cn,category_en,count,percent
+heritage_object,Heritage object,建筑遗产,Architectural heritage,36,25.352112676056336
+heritage_object,Heritage object,工业遗产,Industrial heritage,29,20.422535211267608
+heritage_object,Heritage object,文化景观与线性遗产,Cultural landscapes and linear heritage,28,19.718309859154928
+heritage_object,Heritage object,综合,Integrated,19,13.380281690140844
+heritage_object,Heritage object,乡村与农业遗产,Rural and agricultural heritage,12,8.450704225352112
+heritage_object,Heritage object,自然遗产,Natural heritage,11,7.746478873239436
+heritage_object,Heritage object,非物质与活态遗产,Intangible and living heritage,6,4.225352112676056
+heritage_object,Heritage object,考古遗产,Archaeological heritage,1,0.7042253521126761
+research_orientation,Research orientation,治理参与,Governance and participation,33,23.239436619718308
+research_orientation,Research orientation,价值识别,Value identification,31,21.83098591549296
+research_orientation,Research orientation,活化再生,Revitalization and regeneration,28,19.718309859154928
+research_orientation,Research orientation,保护监测,Conservation and monitoring,18,12.676056338028168
+research_orientation,Research orientation,数字记录,Digital documentation,12,8.450704225352112
+research_orientation,Research orientation,综合,Integrated,11,7.746478873239436
+research_orientation,Research orientation,风险韧性,Risk and resilience,9,6.338028169014084
+method_orientation,Methodological orientation,混合方法,Mixed methods,55,38.732394366197184
+method_orientation,Methodological orientation,模型评价,Model-based evaluation,35,24.647887323943664
+method_orientation,Methodological orientation,空间分析,Spatial analysis,20,14.084507042253522
+method_orientation,Methodological orientation,历史档案,Historical archives,12,8.450704225352112
+method_orientation,Methodological orientation,数字建模,Digital modeling,8,5.633802816901409
+method_orientation,Methodological orientation,社会调查,Social survey,7,4.929577464788732
+method_orientation,Methodological orientation,实验检测,Experimental testing,4,2.8169014084507045
+method_orientation,Methodological orientation,智能计算,Intelligent computing,1,0.7042253521126761

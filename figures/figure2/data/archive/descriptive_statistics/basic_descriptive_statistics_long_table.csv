@@ -1,0 +1,21 @@
+﻿panel,dimension,category,category_en,count,percent
+a,Project type,青年科学基金项目,Young Scientists Fund,66,46.478873239436616
+a,Project type,面上项目,General Program,62,43.66197183098591
+a,Project type,地区科学基金项目,Regional Science Fund,13,9.15492957746479
+a,Project type,重点项目,Key Program,1,0.7042253521126761
+b,Application code,E08,"E08
+Architecture and Civil Engineering",88,61.97183098591549
+b,Application code,D01,"D01
+Geography",41,28.87323943661972
+b,Application code,C16,"C16
+Forestry and Grassland Science",4,2.8169014084507045
+b,Application code,G04,"G04
+Macro-Management and Policy",3,2.112676056338028
+b,Application code,D07,"D07
+Environmental Geosciences",2,1.4084507042253522
+b,Application code,G03,"G03
+Economic Sciences",2,1.4084507042253522
+b,Application code,C03,"C03
+Ecology",1,0.7042253521126761
+b,Application code,F02,"F02
+Computer Science",1,0.7042253521126761

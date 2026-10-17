@@ -1,0 +1,190 @@
+﻿source,target,edge_type,weight,source_type,source_label_cn,source_label_en,target_type,target_label_cn,target_label_en,strength
+object::自然遗产,turn::风险韧性转向,object_to_turn,4,object,自然遗产,Natural heritage,turn,风险韧性转向,Risk-resilience turn,1.0
+turn::风险韧性转向,method::模型评价,turn_to_method,7,turn,风险韧性转向,Risk-resilience turn,method,模型评价,Model-based evaluation,1.0
+turn::风险韧性转向,function::预测模拟,turn_to_function,1,turn,风险韧性转向,Risk-resilience turn,function,预测模拟,Prediction and simulation,0.14285714285714285
+method::模型评价,application::价值阐释,method_to_application,32,method,模型评价,Model-based evaluation,application,价值阐释,Value interpretation,0.9696969696969697
+function::预测模拟,application::价值阐释,function_to_application,1,function,预测模拟,Prediction and simulation,application,价值阐释,Value interpretation,0.5
+method::模型评价,application::数字平台,method_to_application,15,method,模型评价,Model-based evaluation,application,数字平台,Digital platforming,0.45454545454545453
+function::预测模拟,application::数字平台,function_to_application,1,function,预测模拟,Prediction and simulation,application,数字平台,Digital platforming,0.5
+method::模型评价,application::空间治理,method_to_application,33,method,模型评价,Model-based evaluation,application,空间治理,Spatial governance,1.0
+function::预测模拟,application::空间治理,function_to_application,1,function,预测模拟,Prediction and simulation,application,空间治理,Spatial governance,0.5
+method::模型评价,application::社区参与,method_to_application,29,method,模型评价,Model-based evaluation,application,社区参与,Community participation,0.8787878787878788
+function::预测模拟,application::社区参与,function_to_application,1,function,预测模拟,Prediction and simulation,application,社区参与,Community participation,0.5
+method::模型评价,application::文旅融合,method_to_application,31,method,模型评价,Model-based evaluation,application,文旅融合,Culture-tourism integration,0.9393939393939394
+function::预测模拟,application::文旅融合,function_to_application,1,function,预测模拟,Prediction and simulation,application,文旅融合,Culture-tourism integration,0.5
+method::模型评价,application::风险适应,method_to_application,19,method,模型评价,Model-based evaluation,application,风险适应,Risk adaptation,0.5757575757575758
+function::预测模拟,application::风险适应,function_to_application,2,function,预测模拟,Prediction and simulation,application,风险适应,Risk adaptation,1.0
+object::文化景观与线性遗产,turn::数字计算转向,object_to_turn,3,object,文化景观与线性遗产,Cultural landscapes and linear heritage,turn,数字计算转向,Digital-computational turn,0.25
+turn::数字计算转向,method::空间分析,turn_to_method,6,turn,数字计算转向,Digital-computational turn,method,空间分析,Spatial analysis,0.42857142857142855
+turn::数字计算转向,function::机制解释,turn_to_function,1,turn,数字计算转向,Digital-computational turn,function,机制解释,Mechanism explanation,0.07142857142857142
+method::空间分析,application::价值阐释,method_to_application,17,method,空间分析,Spatial analysis,application,价值阐释,Value interpretation,0.85
+function::机制解释,application::价值阐释,function_to_application,25,function,机制解释,Mechanism explanation,application,价值阐释,Value interpretation,0.9259259259259259
+method::空间分析,application::保护干预,method_to_application,16,method,空间分析,Spatial analysis,application,保护干预,Conservation intervention,0.8
+function::机制解释,application::保护干预,function_to_application,12,function,机制解释,Mechanism explanation,application,保护干预,Conservation intervention,0.4444444444444444
+method::空间分析,application::数字平台,method_to_application,15,method,空间分析,Spatial analysis,application,数字平台,Digital platforming,0.75
+function::机制解释,application::数字平台,function_to_application,8,function,机制解释,Mechanism explanation,application,数字平台,Digital platforming,0.2962962962962963
+method::空间分析,application::空间治理,method_to_application,20,method,空间分析,Spatial analysis,application,空间治理,Spatial governance,1.0
+function::机制解释,application::空间治理,function_to_application,27,function,机制解释,Mechanism explanation,application,空间治理,Spatial governance,1.0
+method::空间分析,application::社区参与,method_to_application,15,method,空间分析,Spatial analysis,application,社区参与,Community participation,0.75
+function::机制解释,application::社区参与,function_to_application,26,function,机制解释,Mechanism explanation,application,社区参与,Community participation,0.9629629629629629
+method::空间分析,application::文旅融合,method_to_application,16,method,空间分析,Spatial analysis,application,文旅融合,Culture-tourism integration,0.8
+function::机制解释,application::文旅融合,function_to_application,27,function,机制解释,Mechanism explanation,application,文旅融合,Culture-tourism integration,1.0
+object::文化景观与线性遗产,turn::混合转向,object_to_turn,4,object,文化景观与线性遗产,Cultural landscapes and linear heritage,turn,混合转向,Hybrid turn,0.3333333333333333
+turn::混合转向,method::空间分析,turn_to_method,1,turn,混合转向,Hybrid turn,method,空间分析,Spatial analysis,0.14285714285714285
+turn::混合转向,function::综合,turn_to_function,5,turn,混合转向,Hybrid turn,function,综合,Integrated function,0.7142857142857143
+function::综合,application::价值阐释,function_to_application,11,function,综合,Integrated function,application,价值阐释,Value interpretation,1.0
+function::综合,application::保护干预,function_to_application,9,function,综合,Integrated function,application,保护干预,Conservation intervention,0.8181818181818182
+function::综合,application::数字平台,function_to_application,8,function,综合,Integrated function,application,数字平台,Digital platforming,0.7272727272727273
+function::综合,application::空间治理,function_to_application,11,function,综合,Integrated function,application,空间治理,Spatial governance,1.0
+function::综合,application::社区参与,function_to_application,10,function,综合,Integrated function,application,社区参与,Community participation,0.9090909090909091
+function::综合,application::文旅融合,function_to_application,10,function,综合,Integrated function,application,文旅融合,Culture-tourism integration,0.9090909090909091
+turn::混合转向,method::模型评价,turn_to_method,3,turn,混合转向,Hybrid turn,method,模型评价,Model-based evaluation,0.42857142857142855
+turn::混合转向,function::诊断评价,turn_to_function,2,turn,混合转向,Hybrid turn,function,诊断评价,Diagnosis and evaluation,0.2857142857142857
+function::诊断评价,application::价值阐释,function_to_application,20,function,诊断评价,Diagnosis and evaluation,application,价值阐释,Value interpretation,0.9523809523809523
+method::模型评价,application::保护干预,method_to_application,23,method,模型评价,Model-based evaluation,application,保护干预,Conservation intervention,0.696969696969697
+function::诊断评价,application::保护干预,function_to_application,15,function,诊断评价,Diagnosis and evaluation,application,保护干预,Conservation intervention,0.7142857142857143
+function::诊断评价,application::数字平台,function_to_application,11,function,诊断评价,Diagnosis and evaluation,application,数字平台,Digital platforming,0.5238095238095238
+function::诊断评价,application::空间治理,function_to_application,21,function,诊断评价,Diagnosis and evaluation,application,空间治理,Spatial governance,1.0
+function::诊断评价,application::社区参与,function_to_application,20,function,诊断评价,Diagnosis and evaluation,application,社区参与,Community participation,0.9523809523809523
+function::诊断评价,application::文旅融合,function_to_application,18,function,诊断评价,Diagnosis and evaluation,application,文旅融合,Culture-tourism integration,0.8571428571428571
+turn::混合转向,method::混合方法,turn_to_method,7,turn,混合转向,Hybrid turn,method,混合方法,Mixed methods,1.0
+method::混合方法,application::价值阐释,method_to_application,51,method,混合方法,Mixed methods,application,价值阐释,Value interpretation,0.9622641509433962
+method::混合方法,application::保护干预,method_to_application,40,method,混合方法,Mixed methods,application,保护干预,Conservation intervention,0.7547169811320755
+method::混合方法,application::空间治理,method_to_application,53,method,混合方法,Mixed methods,application,空间治理,Spatial governance,1.0
+method::混合方法,application::社区参与,method_to_application,51,method,混合方法,Mixed methods,application,社区参与,Community participation,0.9622641509433962
+method::混合方法,application::文旅融合,method_to_application,47,method,混合方法,Mixed methods,application,文旅融合,Culture-tourism integration,0.8867924528301887
+method::混合方法,application::风险适应,method_to_application,18,method,混合方法,Mixed methods,application,风险适应,Risk adaptation,0.33962264150943394
+function::综合,application::风险适应,function_to_application,7,function,综合,Integrated function,application,风险适应,Risk adaptation,0.6363636363636364
+object::自然遗产,turn::本体保护转向,object_to_turn,1,object,自然遗产,Natural heritage,turn,本体保护转向,Object-conservation turn,0.25
+turn::本体保护转向,method::实验检测,turn_to_method,4,turn,本体保护转向,Object-conservation turn,method,实验检测,Experimental testing,0.8
+turn::本体保护转向,function::机制解释,turn_to_function,2,turn,本体保护转向,Object-conservation turn,function,机制解释,Mechanism explanation,0.4
+method::实验检测,application::保护干预,method_to_application,4,method,实验检测,Experimental testing,application,保护干预,Conservation intervention,1.0
+method::实验检测,application::空间治理,method_to_application,2,method,实验检测,Experimental testing,application,空间治理,Spatial governance,0.5
+method::实验检测,application::文旅融合,method_to_application,1,method,实验检测,Experimental testing,application,文旅融合,Culture-tourism integration,0.25
+method::实验检测,application::风险适应,method_to_application,4,method,实验检测,Experimental testing,application,风险适应,Risk adaptation,1.0
+function::机制解释,application::风险适应,function_to_application,6,function,机制解释,Mechanism explanation,application,风险适应,Risk adaptation,0.2222222222222222
+object::综合,turn::社会文化转向,object_to_turn,10,object,综合,Integrated,turn,社会文化转向,Socio-cultural turn,1.0
+turn::社会文化转向,method::历史档案,turn_to_method,11,turn,社会文化转向,Socio-cultural turn,method,历史档案,Historical archives,0.6111111111111112
+turn::社会文化转向,function::意义阐释,turn_to_function,15,turn,社会文化转向,Socio-cultural turn,function,意义阐释,Meaning interpretation,0.8333333333333334
+method::历史档案,application::价值阐释,method_to_application,12,method,历史档案,Historical archives,application,价值阐释,Value interpretation,1.0
+function::意义阐释,application::价值阐释,function_to_application,16,function,意义阐释,Meaning interpretation,application,价值阐释,Value interpretation,1.0
+method::历史档案,application::保护干预,method_to_application,11,method,历史档案,Historical archives,application,保护干预,Conservation intervention,0.9166666666666666
+function::意义阐释,application::保护干预,function_to_application,12,function,意义阐释,Meaning interpretation,application,保护干预,Conservation intervention,0.75
+method::历史档案,application::空间治理,method_to_application,11,method,历史档案,Historical archives,application,空间治理,Spatial governance,0.9166666666666666
+function::意义阐释,application::空间治理,function_to_application,15,function,意义阐释,Meaning interpretation,application,空间治理,Spatial governance,0.9375
+method::历史档案,application::社区参与,method_to_application,7,method,历史档案,Historical archives,application,社区参与,Community participation,0.5833333333333334
+function::意义阐释,application::社区参与,function_to_application,10,function,意义阐释,Meaning interpretation,application,社区参与,Community participation,0.625
+method::历史档案,application::文旅融合,method_to_application,8,method,历史档案,Historical archives,application,文旅融合,Culture-tourism integration,0.6666666666666666
+function::意义阐释,application::文旅融合,function_to_application,10,function,意义阐释,Meaning interpretation,application,文旅融合,Culture-tourism integration,0.625
+object::工业遗产,turn::社会文化转向,object_to_turn,9,object,工业遗产,Industrial heritage,turn,社会文化转向,Socio-cultural turn,0.6923076923076923
+turn::社会文化转向,method::模型评价,turn_to_method,6,turn,社会文化转向,Socio-cultural turn,method,模型评价,Model-based evaluation,0.3333333333333333
+turn::社会文化转向,function::诊断评价,turn_to_function,8,turn,社会文化转向,Socio-cultural turn,function,诊断评价,Diagnosis and evaluation,0.4444444444444444
+object::工业遗产,turn::空间活化转向,object_to_turn,13,object,工业遗产,Industrial heritage,turn,空间活化转向,Spatial activation turn,1.0
+turn::空间活化转向,method::空间分析,turn_to_method,10,turn,空间活化转向,Spatial activation turn,method,空间分析,Spatial analysis,0.3125
+turn::空间活化转向,function::干预决策,turn_to_function,32,turn,空间活化转向,Spatial activation turn,function,干预决策,Intervention and decision,1.0
+function::干预决策,application::价值阐释,function_to_application,45,function,干预决策,Intervention and decision,application,价值阐释,Value interpretation,1.0
+function::干预决策,application::保护干预,function_to_application,42,function,干预决策,Intervention and decision,application,保护干预,Conservation intervention,0.9333333333333333
+function::干预决策,application::空间治理,function_to_application,45,function,干预决策,Intervention and decision,application,空间治理,Spatial governance,1.0
+function::干预决策,application::文旅融合,function_to_application,41,function,干预决策,Intervention and decision,application,文旅融合,Culture-tourism integration,0.9111111111111111
+turn::社会文化转向,method::混合方法,turn_to_method,18,turn,社会文化转向,Socio-cultural turn,method,混合方法,Mixed methods,1.0
+turn::社会文化转向,function::机制解释,turn_to_function,16,turn,社会文化转向,Socio-cultural turn,function,机制解释,Mechanism explanation,0.8888888888888888
+method::混合方法,application::数字平台,method_to_application,33,method,混合方法,Mixed methods,application,数字平台,Digital platforming,0.6226415094339622
+object::综合,turn::空间活化转向,object_to_turn,5,object,综合,Integrated,turn,空间活化转向,Spatial activation turn,0.5
+turn::空间活化转向,method::混合方法,turn_to_method,20,turn,空间活化转向,Spatial activation turn,method,混合方法,Mixed methods,0.625
+turn::空间活化转向,function::机制解释,turn_to_function,8,turn,空间活化转向,Spatial activation turn,function,机制解释,Mechanism explanation,0.25
+turn::风险韧性转向,function::诊断评价,turn_to_function,6,turn,风险韧性转向,Risk-resilience turn,function,诊断评价,Diagnosis and evaluation,0.8571428571428571
+function::诊断评价,application::风险适应,function_to_application,10,function,诊断评价,Diagnosis and evaluation,application,风险适应,Risk adaptation,0.47619047619047616
+object::自然遗产,turn::社会文化转向,object_to_turn,1,object,自然遗产,Natural heritage,turn,社会文化转向,Socio-cultural turn,0.25
+turn::社会文化转向,method::社会调查,turn_to_method,6,turn,社会文化转向,Socio-cultural turn,method,社会调查,Social survey,0.3333333333333333
+turn::社会文化转向,function::干预决策,turn_to_function,3,turn,社会文化转向,Socio-cultural turn,function,干预决策,Intervention and decision,0.16666666666666666
+method::社会调查,application::价值阐释,method_to_application,7,method,社会调查,Social survey,application,价值阐释,Value interpretation,1.0
+method::社会调查,application::空间治理,method_to_application,7,method,社会调查,Social survey,application,空间治理,Spatial governance,1.0
+method::社会调查,application::社区参与,method_to_application,7,method,社会调查,Social survey,application,社区参与,Community participation,1.0
+function::干预决策,application::社区参与,function_to_application,38,function,干预决策,Intervention and decision,application,社区参与,Community participation,0.8444444444444444
+method::社会调查,application::文旅融合,method_to_application,7,method,社会调查,Social survey,application,文旅融合,Culture-tourism integration,1.0
+method::社会调查,application::风险适应,method_to_application,2,method,社会调查,Social survey,application,风险适应,Risk adaptation,0.2857142857142857
+function::干预决策,application::风险适应,function_to_application,21,function,干预决策,Intervention and decision,application,风险适应,Risk adaptation,0.4666666666666667
+object::乡村与农业遗产,turn::风险韧性转向,object_to_turn,3,object,乡村与农业遗产,Rural and agricultural heritage,turn,风险韧性转向,Risk-resilience turn,0.6
+turn::风险韧性转向,method::混合方法,turn_to_method,2,turn,风险韧性转向,Risk-resilience turn,method,混合方法,Mixed methods,0.2857142857142857
+turn::风险韧性转向,function::机制解释,turn_to_function,1,turn,风险韧性转向,Risk-resilience turn,function,机制解释,Mechanism explanation,0.14285714285714285
+object::自然遗产,turn::空间活化转向,object_to_turn,4,object,自然遗产,Natural heritage,turn,空间活化转向,Spatial activation turn,1.0
+turn::空间活化转向,method::模型评价,turn_to_method,15,turn,空间活化转向,Spatial activation turn,method,模型评价,Model-based evaluation,0.46875
+object::文化景观与线性遗产,turn::风险韧性转向,object_to_turn,1,object,文化景观与线性遗产,Cultural landscapes and linear heritage,turn,风险韧性转向,Risk-resilience turn,0.08333333333333333
+object::文化景观与线性遗产,turn::空间活化转向,object_to_turn,12,object,文化景观与线性遗产,Cultural landscapes and linear heritage,turn,空间活化转向,Spatial activation turn,1.0
+method::空间分析,application::风险适应,method_to_application,6,method,空间分析,Spatial analysis,application,风险适应,Risk adaptation,0.3
+turn::风险韧性转向,function::干预决策,turn_to_function,1,turn,风险韧性转向,Risk-resilience turn,function,干预决策,Intervention and decision,0.14285714285714285
+object::自然遗产,turn::传统延续,object_to_turn,1,object,自然遗产,Natural heritage,turn,传统延续,Traditional continuity,0.25
+turn::传统延续,method::模型评价,turn_to_method,1,turn,传统延续,Traditional continuity,method,模型评价,Model-based evaluation,1.0
+turn::传统延续,function::诊断评价,turn_to_function,1,turn,传统延续,Traditional continuity,function,诊断评价,Diagnosis and evaluation,1.0
+function::干预决策,application::数字平台,function_to_application,27,function,干预决策,Intervention and decision,application,数字平台,Digital platforming,0.6
+method::社会调查,application::保护干预,method_to_application,2,method,社会调查,Social survey,application,保护干预,Conservation intervention,0.2857142857142857
+method::社会调查,application::数字平台,method_to_application,2,method,社会调查,Social survey,application,数字平台,Digital platforming,0.2857142857142857
+object::综合,turn::混合转向,object_to_turn,3,object,综合,Integrated,turn,混合转向,Hybrid turn,0.3
+object::非物质与活态遗产,turn::社会文化转向,object_to_turn,3,object,非物质与活态遗产,Intangible and living heritage,turn,社会文化转向,Socio-cultural turn,1.0
+turn::社会文化转向,method::空间分析,turn_to_method,3,turn,社会文化转向,Socio-cultural turn,method,空间分析,Spatial analysis,0.16666666666666666
+object::文化景观与线性遗产,turn::社会文化转向,object_to_turn,8,object,文化景观与线性遗产,Cultural landscapes and linear heritage,turn,社会文化转向,Socio-cultural turn,0.6666666666666666
+object::建筑遗产,turn::社会文化转向,object_to_turn,10,object,建筑遗产,Architectural heritage,turn,社会文化转向,Socio-cultural turn,1.0
+object::考古遗产,turn::本体保护转向,object_to_turn,1,object,考古遗产,Archaeological heritage,turn,本体保护转向,Object-conservation turn,1.0
+method::实验检测,application::价值阐释,method_to_application,2,method,实验检测,Experimental testing,application,价值阐释,Value interpretation,0.5
+object::建筑遗产,turn::数字计算转向,object_to_turn,8,object,建筑遗产,Architectural heritage,turn,数字计算转向,Digital-computational turn,0.8
+turn::数字计算转向,function::工具平台,turn_to_function,14,turn,数字计算转向,Digital-computational turn,function,工具平台,Tools and platforms,1.0
+function::工具平台,application::保护干预,function_to_application,13,function,工具平台,Tools and platforms,application,保护干预,Conservation intervention,0.9285714285714286
+function::工具平台,application::数字平台,function_to_application,14,function,工具平台,Tools and platforms,application,数字平台,Digital platforming,1.0
+function::工具平台,application::空间治理,function_to_application,14,function,工具平台,Tools and platforms,application,空间治理,Spatial governance,1.0
+function::工具平台,application::社区参与,function_to_application,8,function,工具平台,Tools and platforms,application,社区参与,Community participation,0.5714285714285714
+function::工具平台,application::文旅融合,function_to_application,4,function,工具平台,Tools and platforms,application,文旅融合,Culture-tourism integration,0.2857142857142857
+function::工具平台,application::风险适应,function_to_application,7,function,工具平台,Tools and platforms,application,风险适应,Risk adaptation,0.5
+object::乡村与农业遗产,turn::空间活化转向,object_to_turn,5,object,乡村与农业遗产,Rural and agricultural heritage,turn,空间活化转向,Spatial activation turn,1.0
+object::乡村与农业遗产,turn::社会文化转向,object_to_turn,3,object,乡村与农业遗产,Rural and agricultural heritage,turn,社会文化转向,Socio-cultural turn,0.6
+turn::空间活化转向,function::综合,turn_to_function,3,turn,空间活化转向,Spatial activation turn,function,综合,Integrated function,0.09375
+turn::空间活化转向,function::诊断评价,turn_to_function,3,turn,空间活化转向,Spatial activation turn,function,诊断评价,Diagnosis and evaluation,0.09375
+object::工业遗产,turn::数字计算转向,object_to_turn,5,object,工业遗产,Industrial heritage,turn,数字计算转向,Digital-computational turn,0.38461538461538464
+turn::数字计算转向,method::模型评价,turn_to_method,1,turn,数字计算转向,Digital-computational turn,method,模型评价,Model-based evaluation,0.07142857142857142
+turn::数字计算转向,function::诊断评价,turn_to_function,1,turn,数字计算转向,Digital-computational turn,function,诊断评价,Diagnosis and evaluation,0.07142857142857142
+turn::混合转向,function::干预决策,turn_to_function,5,turn,混合转向,Hybrid turn,function,干预决策,Intervention and decision,0.7142857142857143
+method::历史档案,application::数字平台,method_to_application,6,method,历史档案,Historical archives,application,数字平台,Digital platforming,0.5
+function::意义阐释,application::数字平台,function_to_application,10,function,意义阐释,Meaning interpretation,application,数字平台,Digital platforming,0.625
+object::建筑遗产,turn::空间活化转向,object_to_turn,5,object,建筑遗产,Architectural heritage,turn,空间活化转向,Spatial activation turn,0.5
+object::建筑遗产,turn::本体保护转向,object_to_turn,9,object,建筑遗产,Architectural heritage,turn,本体保护转向,Object-conservation turn,0.9
+turn::本体保护转向,function::干预决策,turn_to_function,4,turn,本体保护转向,Object-conservation turn,function,干预决策,Intervention and decision,0.8
+object::建筑遗产,turn::混合转向,object_to_turn,3,object,建筑遗产,Architectural heritage,turn,混合转向,Hybrid turn,0.3
+object::乡村与农业遗产,turn::数字计算转向,object_to_turn,1,object,乡村与农业遗产,Rural and agricultural heritage,turn,数字计算转向,Digital-computational turn,0.2
+turn::数字计算转向,method::数字建模,turn_to_method,8,turn,数字计算转向,Digital-computational turn,method,数字建模,Digital modeling,0.5714285714285714
+turn::数字计算转向,function::干预决策,turn_to_function,1,turn,数字计算转向,Digital-computational turn,function,干预决策,Intervention and decision,0.07142857142857142
+method::数字建模,application::价值阐释,method_to_application,6,method,数字建模,Digital modeling,application,价值阐释,Value interpretation,0.75
+method::数字建模,application::保护干预,method_to_application,8,method,数字建模,Digital modeling,application,保护干预,Conservation intervention,1.0
+method::数字建模,application::数字平台,method_to_application,8,method,数字建模,Digital modeling,application,数字平台,Digital platforming,1.0
+method::数字建模,application::空间治理,method_to_application,8,method,数字建模,Digital modeling,application,空间治理,Spatial governance,1.0
+method::数字建模,application::社区参与,method_to_application,5,method,数字建模,Digital modeling,application,社区参与,Community participation,0.625
+method::数字建模,application::文旅融合,method_to_application,2,method,数字建模,Digital modeling,application,文旅融合,Culture-tourism integration,0.25
+method::数字建模,application::风险适应,method_to_application,6,method,数字建模,Digital modeling,application,风险适应,Risk adaptation,0.75
+turn::本体保护转向,method::混合方法,turn_to_method,5,turn,本体保护转向,Object-conservation turn,method,混合方法,Mixed methods,1.0
+turn::本体保护转向,function::诊断评价,turn_to_function,2,turn,本体保护转向,Object-conservation turn,function,诊断评价,Diagnosis and evaluation,0.4
+turn::数字计算转向,method::混合方法,turn_to_method,3,turn,数字计算转向,Digital-computational turn,method,混合方法,Mixed methods,0.21428571428571427
+turn::数字计算转向,function::记录描述,turn_to_function,1,turn,数字计算转向,Digital-computational turn,function,记录描述,Recording and description,0.07142857142857142
+function::记录描述,application::价值阐释,function_to_application,1,function,记录描述,Recording and description,application,价值阐释,Value interpretation,1.0
+function::记录描述,application::保护干预,function_to_application,1,function,记录描述,Recording and description,application,保护干预,Conservation intervention,1.0
+function::记录描述,application::数字平台,function_to_application,1,function,记录描述,Recording and description,application,数字平台,Digital platforming,1.0
+function::记录描述,application::空间治理,function_to_application,1,function,记录描述,Recording and description,application,空间治理,Spatial governance,1.0
+function::记录描述,application::社区参与,function_to_application,1,function,记录描述,Recording and description,application,社区参与,Community participation,1.0
+function::记录描述,application::文旅融合,function_to_application,1,function,记录描述,Recording and description,application,文旅融合,Culture-tourism integration,1.0
+function::工具平台,application::价值阐释,function_to_application,9,function,工具平台,Tools and platforms,application,价值阐释,Value interpretation,0.6428571428571429
+turn::本体保护转向,function::综合,turn_to_function,2,turn,本体保护转向,Object-conservation turn,function,综合,Integrated function,0.4
+turn::本体保护转向,method::模型评价,turn_to_method,2,turn,本体保护转向,Object-conservation turn,method,模型评价,Model-based evaluation,0.4
+turn::空间活化转向,method::社会调查,turn_to_method,1,turn,空间活化转向,Spatial activation turn,method,社会调查,Social survey,0.03125
+turn::数字计算转向,method::智能计算,turn_to_method,1,turn,数字计算转向,Digital-computational turn,method,智能计算,Intelligent computing,0.07142857142857142
+method::智能计算,application::价值阐释,method_to_application,1,method,智能计算,Intelligent computing,application,价值阐释,Value interpretation,1.0
+method::智能计算,application::保护干预,method_to_application,1,method,智能计算,Intelligent computing,application,保护干预,Conservation intervention,1.0
+method::智能计算,application::数字平台,method_to_application,1,method,智能计算,Intelligent computing,application,数字平台,Digital platforming,1.0
+method::智能计算,application::空间治理,method_to_application,1,method,智能计算,Intelligent computing,application,空间治理,Spatial governance,1.0
+object::工业遗产,turn::混合转向,object_to_turn,2,object,工业遗产,Industrial heritage,turn,混合转向,Hybrid turn,0.15384615384615385
+turn::社会文化转向,function::综合,turn_to_function,2,turn,社会文化转向,Socio-cultural turn,function,综合,Integrated function,0.1111111111111111
+turn::混合转向,method::历史档案,turn_to_method,1,turn,混合转向,Hybrid turn,method,历史档案,Historical archives,0.14285714285714285
+object::建筑遗产,turn::风险韧性转向,object_to_turn,1,object,建筑遗产,Architectural heritage,turn,风险韧性转向,Risk-resilience turn,0.1
+function::意义阐释,application::风险适应,function_to_application,2,function,意义阐释,Meaning interpretation,application,风险适应,Risk adaptation,0.125
+turn::数字计算转向,function::意义阐释,turn_to_function,1,turn,数字计算转向,Digital-computational turn,function,意义阐释,Meaning interpretation,0.07142857142857142
+turn::本体保护转向,function::预测模拟,turn_to_function,1,turn,本体保护转向,Object-conservation turn,function,预测模拟,Prediction and simulation,0.2
+function::预测模拟,application::保护干预,function_to_application,1,function,预测模拟,Prediction and simulation,application,保护干预,Conservation intervention,0.5
+object::综合,turn::数字计算转向,object_to_turn,1,object,综合,Integrated,turn,数字计算转向,Digital-computational turn,0.1
+object::非物质与活态遗产,turn::空间活化转向,object_to_turn,2,object,非物质与活态遗产,Intangible and living heritage,turn,空间活化转向,Spatial activation turn,0.6666666666666666
+object::非物质与活态遗产,turn::数字计算转向,object_to_turn,1,object,非物质与活态遗产,Intangible and living heritage,turn,数字计算转向,Digital-computational turn,0.3333333333333333

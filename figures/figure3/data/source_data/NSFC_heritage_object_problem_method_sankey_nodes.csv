@@ -1,0 +1,24 @@
+﻿node_id,node_label,dimension,count,x0,x1,y0,y1
+object::Architectural heritage,Architectural heritage,object,36,0.095,0.111,0.7320281690140845,0.91
+object::Industrial heritage,Industrial heritage,object,29,0.095,0.111,0.5746619718309859,0.7180281690140845
+object::Cultural landscapes and linear heritage,Cultural landscapes and linear heritage,object,28,0.095,0.111,0.42223943661971824,0.5606619718309859
+object::Integrated,Integrated,object,19,0.095,0.111,0.3143098591549295,0.40823943661971823
+object::Rural and agricultural heritage,Rural and agricultural heritage,object,12,0.095,0.111,0.24098591549295761,0.30030985915492947
+object::Natural heritage,Natural heritage,object,11,0.095,0.111,0.17260563380281674,0.2269859154929576
+object::Intangible and living heritage,Intangible and living heritage,object,6,0.095,0.111,0.1289436619718308,0.15860563380281673
+object::Archaeological heritage,Archaeological heritage,object,1,0.095,0.111,0.1099999999999998,0.1149436619718308
+problem::Governance and participation,Governance and participation,problem,33,0.505,0.521,0.743605633802817,0.91
+problem::Value identification,Value identification,problem,31,0.505,0.521,0.5732957746478873,0.729605633802817
+problem::Revitalization and regeneration,Revitalization and regeneration,problem,28,0.505,0.521,0.41811267605633795,0.5592957746478873
+problem::Conservation and monitoring,Conservation and monitoring,problem,18,0.505,0.521,0.3133521126760562,0.40411267605633794
+problem::Digital documentation,Digital documentation,problem,12,0.505,0.521,0.23884507042253508,0.2993521126760562
+problem::Integrated,Integrated,problem,11,0.505,0.521,0.1693802816901407,0.22484507042253507
+problem::Risk and resilience,Risk and resilience,problem,9,0.505,0.521,0.10999999999999982,0.15538028169014068
+method::Mixed methods,Mixed methods,method,55,0.915,0.931,0.6380985915492958,0.91
+method::Model-based evaluation,Model-based evaluation,method,35,0.915,0.931,0.4510704225352113,0.6240985915492958
+method::Spatial analysis,Spatial analysis,method,20,0.915,0.931,0.33819718309859154,0.4370704225352113
+method::Historical archives,Historical archives,method,12,0.915,0.931,0.26487323943661967,0.3241971830985915
+method::Digital modeling,Digital modeling,method,8,0.915,0.931,0.21132394366197177,0.25087323943661965
+method::Social survey,Social survey,method,7,0.915,0.931,0.16271830985915486,0.19732394366197176
+method::Experimental testing,Experimental testing,method,4,0.915,0.931,0.1289436619718309,0.14871830985915485
+method::Intelligent computing,Intelligent computing,method,1,0.915,0.931,0.10999999999999992,0.11494366197183091

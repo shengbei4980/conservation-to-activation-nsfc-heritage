@@ -1,0 +1,4 @@
+﻿zone_id,zone_label,x,y,rationale
+conservation_value,Conservation and value knowledge base,-0.82,0.86,"Heritage problems dominated by value identification, conservation monitoring and knowledge-base construction."
+use_inspired_science,Use-inspired heritage science,0.82,0.86,"A conceptual area adapted from use-inspired basic research, where practical heritage concerns are translated into scientific questions."
+governance_regeneration,Governance and regeneration orientation,0.82,-0.82,"Heritage problems more strongly connected with regeneration, governance participation, management and practice-oriented application."

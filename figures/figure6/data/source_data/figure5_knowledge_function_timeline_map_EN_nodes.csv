@@ -1,0 +1,941 @@
+﻿node_id,stage_cn,stage_en,start_year,knowledge_function_cn,knowledge_function_en,tag_cn,tag_en,count,rank_within_year_function,x,y,color,tag_total_count,tag_active_years,tag_function_count,tag_first_year,tag_last_year,max_count_in_node_table,display_score,display_rank_in_cell,is_displayed,is_high_centrality_candidate,bridge_count_contrib,display_cell_node_count,display_cell_total_count,display_cell_max_count,display_cell_tag_total,display_cell_bridge_count,display_cell_bridge_total_count,display_cell_top_tag_cn,display_cell_top_tag_en,is_collapsed_cell,is_collapsed_bridge_cell,draw_x,draw_y,visual_count,visual_node_id,ordinary_visual_weight,is_ringed_node,is_recurrent_tag,is_bridge_tag,is_bridge_visual,label_score,should_label,label_rank_stage_function,label_reason
+2008|记录描述|数字采集,议程形成期,"Agenda formation
+stage",2008,记录描述,Recording and description,数字采集,Digital acquisition,1,1,2008.0,6.68,#D65F5F,42,13,1,2008,2021,13,21.873036977771005,2,True,False,0.0,2.0,2.0,1.0,155.0,0.0,0.0,,,False,False,2008.0,6.68,1.0,2008|记录描述|数字采集,1.0,False,False,False,False,20.97688883808943,False,,
+2008|记录描述|文献档案,议程形成期,"Agenda formation
+stage",2008,记录描述,Recording and description,文献档案,Literature and archives,1,2,2007.58,6.68,#D65F5F,113,14,1,2008,2022,13,28.332204137828512,1,True,False,0.0,2.0,2.0,1.0,155.0,0.0,0.0,,,False,False,2007.58,6.68,1.0,2008|记录描述|文献档案,1.0,False,False,False,False,26.65617497528158,False,,
+2008|意义阐释|公众感知,议程形成期,"Agenda formation
+stage",2008,意义阐释,Meaning interpretation,公众感知,Public perception,1,1,2008.0,5.68,#E68A2E,63,15,1,2008,2022,13,25.21215550647128,3,True,False,0.0,3.0,3.0,1.0,242.0,0.0,0.0,,,False,False,2008.0,5.68,1.0,2008|意义阐释|公众感知,1.0,False,False,False,False,24.124704719832526,False,,
+2008|意义阐释|意义阐释,议程形成期,"Agenda formation
+stage",2008,意义阐释,Meaning interpretation,意义阐释,Meaning interpretation,1,2,2007.58,5.68,#E68A2E,101,14,1,2008,2022,13,27.519825869569246,1,True,False,0.0,3.0,3.0,1.0,242.0,0.0,0.0,,,False,False,2007.58,5.68,1.0,2008|意义阐释|意义阐释,1.0,False,False,False,False,25.959850745345065,False,,
+2008|意义阐释|理论阐释,议程形成期,"Agenda formation
+stage",2008,意义阐释,Meaning interpretation,理论阐释,Theoretical interpretation,1,3,2008.42,5.68,#E68A2E,78,14,1,2008,2022,13,25.814465212858984,2,True,False,0.0,3.0,3.0,1.0,242.0,0.0,0.0,,,False,False,2008.42,5.68,1.0,2008|意义阐释|理论阐释,1.0,False,False,False,False,24.498113039593413,False,,
+2008|诊断评价|价值评价,议程形成期,"Agenda formation
+stage",2008,诊断评价,Diagnosis and evaluation,价值评价,Value assessment,2,1,2008.0,4.68,#D7C600,91,15,1,2008,2022,13,31.05514881983724,2,True,False,0.0,2.0,4.0,2.0,191.0,0.0,0.0,,,False,False,2008.0,4.68,2.0,2008|诊断评价|价值评价,2.0,False,True,False,False,29.247270417003346,False,,
+2008|诊断评价|指标评价,议程形成期,"Agenda formation
+stage",2008,诊断评价,Diagnosis and evaluation,指标评价,Indicator evaluation,2,2,2007.58,4.68,#D7C600,100,15,1,2008,2022,13,31.7,1,True,False,0.0,2.0,4.0,2.0,191.0,0.0,0.0,,,False,False,2007.58,4.68,2.0,2008|诊断评价|指标评价,2.0,False,True,False,False,29.799999999999997,False,,
+2008|机制解释|公众参与,议程形成期,"Agenda formation
+stage",2008,机制解释,Mechanism explanation,公众参与,Public participation,1,1,2008.0,3.68,#3DAA3D,80,15,1,2008,2022,13,26.621980673998824,2,True,False,0.0,4.0,4.0,1.0,261.0,0.0,0.0,,,False,False,2008.0,3.68,1.0,2008|机制解释|公众参与,1.0,False,False,False,False,25.33312629199899,False,,
+2008|机制解释|工业更新,议程形成期,"Agenda formation
+stage",2008,机制解释,Mechanism explanation,工业更新,Industrial renewal,1,2,2008.0,4.32,#3DAA3D,28,10,1,2008,2021,13,18.25810367098085,4,True,False,0.0,4.0,4.0,1.0,261.0,0.0,0.0,,,False,False,2008.0,4.32,1.0,2008|机制解释|工业更新,1.0,False,False,False,False,17.449803146555016,False,,
+2008|机制解释|社区治理,议程形成期,"Agenda formation
+stage",2008,机制解释,Mechanism explanation,社区治理,Community governance,1,3,2007.58,3.68,#3DAA3D,65,15,1,2008,2022,13,25.38716084761797,3,True,False,0.0,4.0,4.0,1.0,261.0,0.0,0.0,,,False,False,2007.58,3.68,1.0,2008|机制解释|社区治理,1.0,False,False,False,False,24.274709297958257,False,,
+2008|机制解释|问卷访谈,议程形成期,"Agenda formation
+stage",2008,机制解释,Mechanism explanation,问卷访谈,Questionnaires and interviews,1,4,2008.42,3.68,#3DAA3D,88,15,1,2008,2022,13,27.233164127505603,1,True,False,0.0,4.0,4.0,1.0,261.0,0.0,0.0,,,False,False,2008.42,3.68,1.0,2008|机制解释|问卷访谈,1.0,False,False,False,False,25.85699782357623,False,,
+2008|预测模拟|机器学习,议程形成期,"Agenda formation
+stage",2008,预测模拟,Prediction and simulation,机器学习,Machine learning,1,1,2008.0,3.0,#10B981,14,11,1,2008,2022,13,16.73832034148352,1,True,False,0.0,1.0,1.0,1.0,14.0,0.0,0.0,,,False,False,2008.0,3.0,1.0,2008|预测模拟|机器学习,1.0,False,False,False,False,16.289988864128727,False,,
+2008|干预决策|保护修复,议程形成期,"Agenda formation
+stage",2008,干预决策,Intervention and decision,保护修复,Conservation and restoration,2,1,2008.0,1.68,#1BA6C9,97,14,1,2008,2022,13,30.838400922514545,2,True,False,0.0,2.0,4.0,2.0,199.0,0.0,0.0,,,False,False,2008.0,1.68,2.0,2008|干预决策|保护修复,2.0,False,True,False,False,28.918629362155322,False,,
+2008|干预决策|活化利用,议程形成期,"Agenda formation
+stage",2008,干预决策,Intervention and decision,活化利用,Revitalization and use,2,2,2007.58,1.68,#1BA6C9,102,15,1,2008,2022,13,31.839306913706906,1,True,False,0.0,2.0,4.0,2.0,199.0,0.0,0.0,,,False,False,2007.58,1.68,2.0,2008|干预决策|活化利用,2.0,False,True,False,False,29.919405926034493,False,,
+2008|工具平台|信息平台,议程形成期,"Agenda formation
+stage",2008,工具平台,Tools and platforms,信息平台,Information platform,2,1,2008.0,0.6799999999999999,#2E73D2,61,12,1,2008,2021,13,26.684349546269317,1,True,False,0.0,2.0,3.0,2.0,86.0,0.0,0.0,,,False,False,2008.0,0.6799999999999999,2.0,2008|工具平台|信息平台,2.0,False,True,False,False,25.07229961108798,False,,
+2008|工具平台|智能识别,议程形成期,"Agenda formation
+stage",2008,工具平台,Tools and platforms,智能识别,Intelligent recognition,1,2,2007.58,0.6799999999999999,#2E73D2,25,13,1,2008,2022,13,19.8,2,True,False,0.0,2.0,3.0,2.0,86.0,0.0,0.0,,,False,False,2007.58,0.6799999999999999,1.0,2008|工具平台|智能识别,1.0,False,False,False,False,19.199999999999996,True,2,top_tag_within_stage_function
+2009|记录描述|数字采集,议程形成期,"Agenda formation
+stage",2009,记录描述,Recording and description,数字采集,Digital acquisition,1,1,2009.0,6.68,#D65F5F,42,13,1,2008,2021,13,21.873036977771005,1,True,False,0.0,2.0,2.0,1.0,80.0,0.0,0.0,,,False,False,2009.0,6.68,1.0,2009|记录描述|数字采集,1.0,False,False,False,False,20.97688883808943,False,,
+2009|记录描述|遥感分析,议程形成期,"Agenda formation
+stage",2009,记录描述,Recording and description,遥感分析,Remote sensing,1,2,2008.58,6.68,#D65F5F,38,13,1,2009,2021,13,21.430179604156567,2,True,False,0.0,2.0,2.0,1.0,80.0,0.0,0.0,,,False,False,2008.58,6.68,1.0,2009|记录描述|遥感分析,1.0,False,False,False,False,20.59729680356277,False,,
+2009|意义阐释|公众感知,议程形成期,"Agenda formation
+stage",2009,意义阐释,Meaning interpretation,公众感知,Public perception,1,1,2009.0,6.0,#E68A2E,63,15,1,2008,2022,13,25.21215550647128,1,True,False,0.0,1.0,1.0,1.0,63.0,0.0,0.0,,,False,False,2009.0,6.0,1.0,2009|意义阐释|公众感知,1.0,False,False,False,False,24.124704719832526,False,,
+2009|诊断评价|价值评价,议程形成期,"Agenda formation
+stage",2009,诊断评价,Diagnosis and evaluation,价值评价,Value assessment,1,1,2009.0,4.68,#D7C600,91,15,1,2008,2022,13,27.455148819837238,2,True,False,0.0,3.0,3.0,1.0,223.0,0.0,0.0,,,False,False,2009.0,4.68,1.0,2009|诊断评价|价值评价,1.0,False,False,False,False,26.047270417003347,False,,
+2009|诊断评价|指标评价,议程形成期,"Agenda formation
+stage",2009,诊断评价,Diagnosis and evaluation,指标评价,Indicator evaluation,1,2,2008.58,4.68,#D7C600,100,15,1,2008,2022,13,28.1,1,True,False,0.0,3.0,3.0,1.0,223.0,0.0,0.0,,,False,False,2008.58,4.68,1.0,2009|诊断评价|指标评价,1.0,False,False,False,False,26.599999999999998,False,,
+2009|诊断评价|风险评价,议程形成期,"Agenda formation
+stage",2009,诊断评价,Diagnosis and evaluation,风险评价,Risk assessment,1,3,2009.42,4.68,#D7C600,32,14,1,2009,2022,13,21.369595949289334,3,True,False,0.0,3.0,3.0,1.0,223.0,0.0,0.0,,,False,False,2009.42,4.68,1.0,2009|诊断评价|风险评价,1.0,False,False,False,False,20.688225099390856,False,,
+2009|机制解释|公众参与,议程形成期,"Agenda formation
+stage",2009,机制解释,Mechanism explanation,公众参与,Public participation,1,1,2009.14,4.0,#3DAA3D,80,15,1,2008,2022,13,26.621980673998824,2,True,False,0.0,9.0,9.0,1.0,502.0,0.0,0.0,,,True,False,2009.0,4.0,9.0,2009|机制解释|__aggregate__,1.0,False,False,False,False,25.33312629199899,False,,
+2009|机制解释|参与式调查,议程形成期,"Agenda formation
+stage",2009,机制解释,Mechanism explanation,参与式调查,Participatory survey,1,2,2008.86,4.0,#3DAA3D,11,8,1,2009,2022,13,14.193274706497558,8,True,False,0.0,9.0,9.0,1.0,502.0,0.0,0.0,,,True,False,2009.0,4.0,9.0,2009|机制解释|__aggregate__,1.0,False,False,False,False,13.679949748426479,False,,
+2009|机制解释|文旅融合,议程形成期,"Agenda formation
+stage",2009,机制解释,Mechanism explanation,文旅融合,Culture-tourism integration,1,3,2009.14,3.68,#3DAA3D,62,14,1,2009,2022,13,24.473611023616535,6,True,False,0.0,9.0,9.0,1.0,502.0,0.0,0.0,,,True,False,2009.0,4.0,9.0,2009|机制解释|__aggregate__,1.0,False,False,False,False,23.348809448814173,False,,
+2009|机制解释|生态安全,议程形成期,"Agenda formation
+stage",2009,机制解释,Mechanism explanation,生态安全,Ecological security,1,4,2009.14,4.32,#3DAA3D,17,11,1,2009,2021,13,17.272347875864725,7,True,False,0.0,9.0,9.0,1.0,502.0,0.0,0.0,,,True,False,2009.0,4.0,9.0,2009|机制解释|__aggregate__,1.0,False,False,False,False,16.74772675074119,False,,
+2009|机制解释|社区治理,议程形成期,"Agenda formation
+stage",2009,机制解释,Mechanism explanation,社区治理,Community governance,1,5,2008.86,3.68,#3DAA3D,65,15,1,2008,2022,13,25.38716084761797,5,True,False,0.0,9.0,9.0,1.0,502.0,0.0,0.0,,,True,False,2009.0,4.0,9.0,2009|机制解释|__aggregate__,1.0,False,False,False,False,24.274709297958257,False,,
+2009|机制解释|空间形态,议程形成期,"Agenda formation
+stage",2009,机制解释,Mechanism explanation,空间形态,Spatial morphology,1,6,2008.86,4.32,#3DAA3D,88,14,1,2009,2022,13,26.583164127505604,3,True,False,0.0,9.0,9.0,1.0,502.0,0.0,0.0,,,True,False,2009.0,4.0,9.0,2009|机制解释|__aggregate__,1.0,False,False,False,False,25.156997823576226,False,,
+2009|机制解释|空间治理,议程形成期,"Agenda formation
+stage",2009,机制解释,Mechanism explanation,空间治理,Spatial governance,1,7,2008.58,4.0,#3DAA3D,80,14,1,2009,2022,13,25.97198067399882,4,True,False,0.0,9.0,9.0,1.0,502.0,0.0,0.0,,,True,False,2009.0,4.0,9.0,2009|机制解释|__aggregate__,1.0,False,False,False,False,24.63312629199899,False,,
+2009|机制解释|问卷访谈,议程形成期,"Agenda formation
+stage",2009,机制解释,Mechanism explanation,问卷访谈,Questionnaires and interviews,1,8,2009.42,4.0,#3DAA3D,88,15,1,2008,2022,13,27.233164127505603,1,True,False,0.0,9.0,9.0,1.0,502.0,0.0,0.0,,,True,False,2009.0,4.0,9.0,2009|机制解释|__aggregate__,1.0,False,False,False,False,25.85699782357623,False,,
+2009|机制解释|韧性适应,议程形成期,"Agenda formation
+stage",2009,机制解释,Mechanism explanation,韧性适应,Resilience adaptation,1,9,2008.58,3.68,#3DAA3D,11,8,1,2009,2021,13,14.193274706497558,9,True,False,0.0,9.0,9.0,1.0,502.0,0.0,0.0,,,True,False,2009.0,4.0,9.0,2009|机制解释|__aggregate__,1.0,False,False,False,False,13.679949748426479,False,,
+2009|预测模拟|情景模拟,议程形成期,"Agenda formation
+stage",2009,预测模拟,Prediction and simulation,情景模拟,Scenario simulation,1,1,2009.0,2.68,#10B981,35,14,1,2009,2022,13,21.73251169633946,1,True,False,0.0,4.0,4.0,1.0,87.0,0.0,0.0,,,False,False,2009.0,2.68,1.0,2009|预测模拟|情景模拟,1.0,False,False,False,False,20.999295739719535,False,,
+2009|预测模拟|机器学习,议程形成期,"Agenda formation
+stage",2009,预测模拟,Prediction and simulation,机器学习,Machine learning,1,2,2009.0,3.32,#10B981,14,11,1,2008,2022,13,16.73832034148352,3,True,False,0.0,4.0,4.0,1.0,87.0,0.0,0.0,,,False,False,2009.0,3.32,1.0,2009|预测模拟|机器学习,1.0,False,False,False,False,16.289988864128727,False,,
+2009|预测模拟|预警机制,议程形成期,"Agenda formation
+stage",2009,预测模拟,Prediction and simulation,预警机制,Early-warning mechanism,1,3,2008.58,2.68,#10B981,10,6,1,2009,2018,13,12.677188724235732,4,True,False,0.0,4.0,4.0,1.0,87.0,0.0,0.0,,,False,False,2008.58,2.68,1.0,2009|预测模拟|预警机制,1.0,False,False,False,False,12.094733192202055,False,,
+2009|预测模拟|风险预警,议程形成期,"Agenda formation
+stage",2009,预测模拟,Prediction and simulation,风险预警,Risk warning,1,4,2009.42,2.68,#10B981,28,12,1,2009,2022,13,19.558103670980856,2,True,False,0.0,4.0,4.0,1.0,87.0,0.0,0.0,,,False,False,2009.42,2.68,1.0,2009|预测模拟|风险预警,1.0,False,False,False,False,18.849803146555015,False,,
+2009|干预决策|区域保护,议程形成期,"Agenda formation
+stage",2009,干预决策,Intervention and decision,区域保护,Regional conservation,1,1,2009.0,1.68,#1BA6C9,60,14,1,2009,2022,13,24.294353369380765,2,True,False,0.0,2.0,2.0,1.0,162.0,0.0,0.0,,,False,False,2009.0,1.68,1.0,2009|干预决策|区域保护,1.0,False,False,False,False,23.195160030897796,False,,
+2009|干预决策|活化利用,议程形成期,"Agenda formation
+stage",2009,干预决策,Intervention and decision,活化利用,Revitalization and use,1,2,2008.58,1.68,#1BA6C9,102,15,1,2008,2022,13,28.23930691370691,1,True,False,0.0,2.0,2.0,1.0,162.0,0.0,0.0,,,False,False,2008.58,1.68,1.0,2009|干预决策|活化利用,1.0,False,False,False,False,26.71940592603449,False,,
+2009|工具平台|智能识别,议程形成期,"Agenda formation
+stage",2009,工具平台,Tools and platforms,智能识别,Intelligent recognition,1,1,2009.0,1.0,#2E73D2,25,13,1,2008,2022,13,19.8,1,True,False,0.0,1.0,1.0,1.0,25.0,0.0,0.0,,,False,False,2009.0,1.0,1.0,2009|工具平台|智能识别,1.0,False,False,False,False,19.199999999999996,False,,
+2010|记录描述|文献档案,议程形成期,"Agenda formation
+stage",2010,记录描述,Recording and description,文献档案,Literature and archives,8,1,2010.0,6.68,#D65F5F,113,14,1,2008,2022,13,53.53220413782851,1,True,True,8.0,4.0,14.0,8.0,222.0,1.0,8.0,文献档案,Literature and archives,False,False,2010.0,6.68,8.0,2010|记录描述|文献档案,8.0,True,True,True,True,49.05617497528158,True,1,top_tag_within_stage_function
+2010|记录描述|历史图像,议程形成期,"Agenda formation
+stage",2010,记录描述,Recording and description,历史图像,Historical imagery,2,2,2010.0,7.32,#D65F5F,29,11,1,2010,2022,13,22.639230729988306,4,True,False,0.0,4.0,14.0,8.0,222.0,1.0,8.0,文献档案,Literature and archives,False,False,2010.0,7.32,2.0,2010|记录描述|历史图像,2.0,False,True,False,False,21.462197768561403,False,,
+2010|记录描述|数字采集,议程形成期,"Agenda formation
+stage",2010,记录描述,Recording and description,数字采集,Digital acquisition,2,3,2009.58,6.68,#D65F5F,42,13,1,2008,2021,13,25.473036977771002,2,True,False,0.0,4.0,14.0,8.0,222.0,1.0,8.0,文献档案,Literature and archives,False,False,2009.58,6.68,2.0,2010|记录描述|数字采集,2.0,False,True,False,False,24.176888838089432,False,,
+2010|记录描述|遥感分析,议程形成期,"Agenda formation
+stage",2010,记录描述,Recording and description,遥感分析,Remote sensing,2,4,2010.42,6.68,#D65F5F,38,13,1,2009,2021,13,25.030179604156565,3,True,False,0.0,4.0,14.0,8.0,222.0,1.0,8.0,文献档案,Literature and archives,False,False,2010.42,6.68,2.0,2010|记录描述|遥感分析,2.0,False,True,False,False,23.79729680356277,False,,
+2010|意义阐释|意义阐释,议程形成期,"Agenda formation
+stage",2010,意义阐释,Meaning interpretation,意义阐释,Meaning interpretation,6,1,2010.0,5.68,#E68A2E,101,14,1,2008,2022,13,45.519825869569246,1,True,True,6.0,3.0,15.0,6.0,242.0,3.0,15.0,意义阐释,Meaning interpretation,False,False,2010.0,5.68,6.0,2010|意义阐释|意义阐释,6.0,True,True,True,True,41.959850745345065,True,2,top_tag_within_stage_function
+2010|意义阐释|理论阐释,议程形成期,"Agenda formation
+stage",2010,意义阐释,Meaning interpretation,理论阐释,Theoretical interpretation,6,2,2009.58,5.68,#E68A2E,78,14,1,2008,2022,13,43.81446521285899,2,True,True,6.0,3.0,15.0,6.0,242.0,3.0,15.0,意义阐释,Meaning interpretation,False,False,2009.58,5.68,6.0,2010|意义阐释|理论阐释,6.0,True,True,True,True,40.49811303959341,True,1,top_tag_within_stage_function
+2010|意义阐释|公众感知,议程形成期,"Agenda formation
+stage",2010,意义阐释,Meaning interpretation,公众感知,Public perception,3,3,2010.42,5.68,#E68A2E,63,15,1,2008,2022,13,32.41215550647128,3,True,True,3.0,3.0,15.0,6.0,242.0,3.0,15.0,意义阐释,Meaning interpretation,False,False,2010.42,5.68,3.0,2010|意义阐释|公众感知,3.0,True,True,True,True,30.524704719832528,False,,
+2010|诊断评价|价值评价,议程形成期,"Agenda formation
+stage",2010,诊断评价,Diagnosis and evaluation,价值评价,Value assessment,6,1,2010.14,4.68,#D7C600,91,15,1,2008,2022,13,45.45514881983724,1,True,True,6.0,7.0,20.0,6.0,312.0,3.0,15.0,价值评价,Value assessment,True,True,2010.0,5.0,20.0,2010|诊断评价|__aggregate__,6.0,True,True,True,True,42.04727041700335,True,1,top_tag_within_stage_function
+2010|诊断评价|指标评价,议程形成期,"Agenda formation
+stage",2010,诊断评价,Diagnosis and evaluation,指标评价,Indicator evaluation,5,2,2010.14,5.32,#D7C600,100,15,1,2008,2022,13,42.5,2,True,True,5.0,7.0,20.0,6.0,312.0,3.0,15.0,价值评价,Value assessment,True,True,2010.0,5.0,20.0,2010|诊断评价|__aggregate__,5.0,True,True,True,True,39.4,True,2,top_tag_within_stage_function
+2010|诊断评价|风险评价,议程形成期,"Agenda formation
+stage",2010,诊断评价,Diagnosis and evaluation,风险评价,Risk assessment,4,3,2009.86,4.68,#D7C600,32,14,1,2009,2022,13,32.16959594928933,3,True,True,4.0,7.0,20.0,6.0,312.0,3.0,15.0,价值评价,Value assessment,True,True,2010.0,5.0,20.0,2010|诊断评价|__aggregate__,4.0,True,True,True,True,30.288225099390857,False,,
+2010|诊断评价|病害监测,议程形成期,"Agenda formation
+stage",2010,诊断评价,Diagnosis and evaluation,病害监测,Deterioration monitoring,2,4,2009.86,5.32,#D7C600,26,12,1,2010,2022,13,22.8886273190299,4,True,False,0.0,7.0,20.0,6.0,312.0,3.0,15.0,价值评价,Value assessment,True,True,2010.0,5.0,20.0,2010|诊断评价|__aggregate__,2.0,False,True,False,True,21.81882341631134,False,,
+2010|诊断评价|本体安全,议程形成期,"Agenda formation
+stage",2010,诊断评价,Diagnosis and evaluation,本体安全,Fabric safety,1,5,2009.58,4.68,#D7C600,23,13,1,2010,2022,13,19.51416413263781,5,True,False,0.0,7.0,20.0,6.0,312.0,3.0,15.0,价值评价,Value assessment,True,True,2010.0,5.0,20.0,2010|诊断评价|__aggregate__,1.0,False,False,False,True,18.954997827975262,False,,
+2010|诊断评价|材料检测,议程形成期,"Agenda formation
+stage",2010,诊断评价,Diagnosis and evaluation,材料检测,Material testing,1,6,2010.42,4.68,#D7C600,16,12,1,2010,2022,13,17.75,7,True,False,0.0,7.0,20.0,6.0,312.0,3.0,15.0,价值评价,Value assessment,True,True,2010.0,5.0,20.0,2010|诊断评价|__aggregate__,1.0,False,False,False,True,17.299999999999997,False,,
+2010|诊断评价|结构环境检测,议程形成期,"Agenda formation
+stage",2010,诊断评价,Diagnosis and evaluation,结构环境检测,Structural-environmental testing,1,7,2009.58,5.32,#D7C600,24,12,1,2010,2022,13,19.008571279792896,6,True,False,0.0,7.0,20.0,6.0,312.0,3.0,15.0,价值评价,Value assessment,True,True,2010.0,5.0,20.0,2010|诊断评价|__aggregate__,1.0,False,False,False,True,18.378775382679624,False,,
+2010|机制解释|公众参与,议程形成期,"Agenda formation
+stage",2010,机制解释,Mechanism explanation,公众参与,Public participation,4,1,2010.14,3.68,#3DAA3D,80,15,1,2008,2022,13,37.421980673998824,2,True,True,4.0,8.0,25.0,4.0,491.0,6.0,22.0,问卷访谈,Questionnaires and interviews,True,True,2010.0,4.0,25.0,2010|机制解释|__aggregate__,4.0,True,True,True,True,34.93312629199899,True,1,top_tag_within_stage_function
+2010|机制解释|空间形态,议程形成期,"Agenda formation
+stage",2010,机制解释,Mechanism explanation,空间形态,Spatial morphology,4,2,2010.14,4.32,#3DAA3D,88,14,1,2009,2022,13,37.3831641275056,3,True,True,4.0,8.0,25.0,4.0,491.0,6.0,22.0,问卷访谈,Questionnaires and interviews,True,True,2010.0,4.0,25.0,2010|机制解释|__aggregate__,4.0,True,True,True,True,34.75699782357623,False,,
+2010|机制解释|空间治理,议程形成期,"Agenda formation
+stage",2010,机制解释,Mechanism explanation,空间治理,Spatial governance,4,3,2009.86,3.68,#3DAA3D,80,14,1,2009,2022,13,36.771980673998826,4,True,True,4.0,8.0,25.0,4.0,491.0,6.0,22.0,问卷访谈,Questionnaires and interviews,True,True,2010.0,4.0,25.0,2010|机制解释|__aggregate__,4.0,True,True,True,True,34.233126291998985,True,2,top_tag_within_stage_function
+2010|机制解释|问卷访谈,议程形成期,"Agenda formation
+stage",2010,机制解释,Mechanism explanation,问卷访谈,Questionnaires and interviews,4,4,2009.86,4.32,#3DAA3D,88,15,1,2008,2022,13,38.0331641275056,1,True,True,4.0,8.0,25.0,4.0,491.0,6.0,22.0,问卷访谈,Questionnaires and interviews,True,True,2010.0,4.0,25.0,2010|机制解释|__aggregate__,4.0,True,True,True,True,35.45699782357623,False,,
+2010|机制解释|文旅融合,议程形成期,"Agenda formation
+stage",2010,机制解释,Mechanism explanation,文旅融合,Culture-tourism integration,3,5,2009.58,3.68,#3DAA3D,62,14,1,2009,2022,13,31.673611023616537,6,True,True,3.0,8.0,25.0,4.0,491.0,6.0,22.0,问卷访谈,Questionnaires and interviews,True,True,2010.0,4.0,25.0,2010|机制解释|__aggregate__,3.0,True,True,True,True,29.74880944881417,False,,
+2010|机制解释|社区治理,议程形成期,"Agenda formation
+stage",2010,机制解释,Mechanism explanation,社区治理,Community governance,3,6,2010.42,3.68,#3DAA3D,65,15,1,2008,2022,13,32.587160847617966,5,True,True,3.0,8.0,25.0,4.0,491.0,6.0,22.0,问卷访谈,Questionnaires and interviews,True,True,2010.0,4.0,25.0,2010|机制解释|__aggregate__,3.0,True,True,True,True,30.67470929795826,False,,
+2010|机制解释|生态安全,议程形成期,"Agenda formation
+stage",2010,机制解释,Mechanism explanation,生态安全,Ecological security,2,7,2009.58,4.32,#3DAA3D,17,11,1,2009,2021,13,20.872347875864726,7,True,False,0.0,8.0,25.0,4.0,491.0,6.0,22.0,问卷访谈,Questionnaires and interviews,True,True,2010.0,4.0,25.0,2010|机制解释|__aggregate__,2.0,False,True,False,True,19.94772675074119,False,,
+2010|机制解释|韧性适应,议程形成期,"Agenda formation
+stage",2010,机制解释,Mechanism explanation,韧性适应,Resilience adaptation,1,8,2010.42,4.32,#3DAA3D,11,8,1,2009,2021,13,14.193274706497558,8,True,False,0.0,8.0,25.0,4.0,491.0,6.0,22.0,问卷访谈,Questionnaires and interviews,True,True,2010.0,4.0,25.0,2010|机制解释|__aggregate__,1.0,False,False,False,True,13.679949748426479,False,,
+2010|预测模拟|风险预警,议程形成期,"Agenda formation
+stage",2010,预测模拟,Prediction and simulation,风险预警,Risk warning,4,1,2010.0,2.68,#10B981,28,12,1,2009,2022,13,30.358103670980856,1,True,True,4.0,2.0,6.0,4.0,63.0,1.0,4.0,风险预警,Risk warning,False,False,2010.0,2.68,4.0,2010|预测模拟|风险预警,4.0,True,True,True,True,28.449803146555016,True,1,top_tag_within_stage_function
+2010|预测模拟|情景模拟,议程形成期,"Agenda formation
+stage",2010,预测模拟,Prediction and simulation,情景模拟,Scenario simulation,2,2,2009.58,2.68,#10B981,35,14,1,2009,2022,13,25.33251169633946,2,True,False,0.0,2.0,6.0,4.0,63.0,1.0,4.0,风险预警,Risk warning,False,False,2009.58,2.68,2.0,2010|预测模拟|情景模拟,2.0,False,True,False,False,24.19929573971954,True,2,top_tag_within_stage_function
+2010|干预决策|保护修复,议程形成期,"Agenda formation
+stage",2010,干预决策,Intervention and decision,保护修复,Conservation and restoration,5,1,2010.0,1.68,#1BA6C9,97,14,1,2008,2022,13,41.63840092251454,2,True,True,5.0,4.0,15.0,5.0,286.0,3.0,14.0,活化利用,Revitalization and use,False,False,2010.0,1.68,5.0,2010|干预决策|保护修复,5.0,True,True,True,True,38.51862936215532,True,2,top_tag_within_stage_function
+2010|干预决策|活化利用,议程形成期,"Agenda formation
+stage",2010,干预决策,Intervention and decision,活化利用,Revitalization and use,5,2,2010.0,2.32,#1BA6C9,102,15,1,2008,2022,13,42.6393069137069,1,True,True,5.0,4.0,15.0,5.0,286.0,3.0,14.0,活化利用,Revitalization and use,False,False,2010.0,2.32,5.0,2010|干预决策|活化利用,5.0,True,True,True,True,39.51940592603449,False,,
+2010|干预决策|区域保护,议程形成期,"Agenda formation
+stage",2010,干预决策,Intervention and decision,区域保护,Regional conservation,4,3,2009.58,1.68,#1BA6C9,60,14,1,2009,2022,13,35.09435336938077,3,True,True,4.0,4.0,15.0,5.0,286.0,3.0,14.0,活化利用,Revitalization and use,False,False,2009.58,1.68,4.0,2010|干预决策|区域保护,4.0,True,True,True,True,32.7951600308978,False,,
+2010|干预决策|预防保护,议程形成期,"Agenda formation
+stage",2010,干预决策,Intervention and decision,预防保护,Preventive conservation,1,4,2010.42,1.68,#1BA6C9,27,13,1,2010,2022,13,20.074613391789285,4,True,False,0.0,4.0,15.0,5.0,286.0,3.0,14.0,活化利用,Revitalization and use,False,False,2010.42,1.68,1.0,2010|干预决策|预防保护,1.0,False,False,False,False,19.435382907247956,False,,
+2010|工具平台|信息平台,议程形成期,"Agenda formation
+stage",2010,工具平台,Tools and platforms,信息平台,Information platform,4,1,2010.0,0.6799999999999999,#2E73D2,61,12,1,2008,2021,13,33.88434954626932,1,True,True,4.0,2.0,5.0,4.0,86.0,1.0,4.0,信息平台,Information platform,False,False,2010.0,0.6799999999999999,4.0,2010|工具平台|信息平台,4.0,True,True,True,True,31.472299611087983,True,1,top_tag_within_stage_function
+2010|工具平台|智能识别,议程形成期,"Agenda formation
+stage",2010,工具平台,Tools and platforms,智能识别,Intelligent recognition,1,2,2009.58,0.6799999999999999,#2E73D2,25,13,1,2008,2022,13,19.8,2,True,False,0.0,2.0,5.0,4.0,86.0,1.0,4.0,信息平台,Information platform,False,False,2009.58,0.6799999999999999,1.0,2010|工具平台|智能识别,1.0,False,False,False,False,19.199999999999996,False,,
+2011|记录描述|文献档案,议程形成期,"Agenda formation
+stage",2011,记录描述,Recording and description,文献档案,Literature and archives,1,1,2011.0,6.68,#D65F5F,113,14,1,2008,2022,13,28.332204137828512,1,True,False,0.0,2.0,2.0,1.0,151.0,0.0,0.0,,,False,False,2011.0,6.68,1.0,2011|记录描述|文献档案,1.0,False,False,False,False,26.65617497528158,False,,
+2011|记录描述|遥感分析,议程形成期,"Agenda formation
+stage",2011,记录描述,Recording and description,遥感分析,Remote sensing,1,2,2010.58,6.68,#D65F5F,38,13,1,2009,2021,13,21.430179604156567,2,True,False,0.0,2.0,2.0,1.0,151.0,0.0,0.0,,,False,False,2010.58,6.68,1.0,2011|记录描述|遥感分析,1.0,False,False,False,False,20.59729680356277,False,,
+2011|意义阐释|理论阐释,议程形成期,"Agenda formation
+stage",2011,意义阐释,Meaning interpretation,理论阐释,Theoretical interpretation,2,1,2011.0,5.68,#E68A2E,78,14,1,2008,2022,13,29.414465212858985,1,True,False,0.0,3.0,4.0,2.0,242.0,0.0,0.0,,,False,False,2011.0,5.68,2.0,2011|意义阐释|理论阐释,2.0,False,True,False,False,27.698113039593416,False,,
+2011|意义阐释|公众感知,议程形成期,"Agenda formation
+stage",2011,意义阐释,Meaning interpretation,公众感知,Public perception,1,2,2010.58,5.68,#E68A2E,63,15,1,2008,2022,13,25.21215550647128,3,True,False,0.0,3.0,4.0,2.0,242.0,0.0,0.0,,,False,False,2010.58,5.68,1.0,2011|意义阐释|公众感知,1.0,False,False,False,False,24.124704719832526,False,,
+2011|意义阐释|意义阐释,议程形成期,"Agenda formation
+stage",2011,意义阐释,Meaning interpretation,意义阐释,Meaning interpretation,1,3,2011.42,5.68,#E68A2E,101,14,1,2008,2022,13,27.519825869569246,2,True,False,0.0,3.0,4.0,2.0,242.0,0.0,0.0,,,False,False,2011.42,5.68,1.0,2011|意义阐释|意义阐释,1.0,False,False,False,False,25.959850745345065,False,,
+2011|诊断评价|价值评价,议程形成期,"Agenda formation
+stage",2011,诊断评价,Diagnosis and evaluation,价值评价,Value assessment,2,1,2011.14,4.68,#D7C600,91,15,1,2008,2022,13,31.05514881983724,2,True,False,0.0,8.0,13.0,2.0,313.0,0.0,0.0,,,True,False,2011.0,5.0,13.0,2011|诊断评价|__aggregate__,2.0,False,True,False,False,29.247270417003346,False,,
+2011|诊断评价|指标评价,议程形成期,"Agenda formation
+stage",2011,诊断评价,Diagnosis and evaluation,指标评价,Indicator evaluation,2,2,2011.14,5.32,#D7C600,100,15,1,2008,2022,13,31.7,1,True,False,0.0,8.0,13.0,2.0,313.0,0.0,0.0,,,True,False,2011.0,5.0,13.0,2011|诊断评价|__aggregate__,2.0,False,True,False,False,29.799999999999997,False,,
+2011|诊断评价|本体安全,议程形成期,"Agenda formation
+stage",2011,诊断评价,Diagnosis and evaluation,本体安全,Fabric safety,2,3,2010.86,4.68,#D7C600,23,13,1,2010,2022,13,23.11416413263781,4,True,False,0.0,8.0,13.0,2.0,313.0,0.0,0.0,,,True,False,2011.0,5.0,13.0,2011|诊断评价|__aggregate__,2.0,False,True,False,False,22.15499782797526,False,,
+2011|诊断评价|材料检测,议程形成期,"Agenda formation
+stage",2011,诊断评价,Diagnosis and evaluation,材料检测,Material testing,2,4,2010.86,5.32,#D7C600,16,12,1,2010,2022,13,21.35,5,True,False,0.0,8.0,13.0,2.0,313.0,0.0,0.0,,,True,False,2011.0,5.0,13.0,2011|诊断评价|__aggregate__,2.0,False,True,False,False,20.499999999999996,False,,
+2011|诊断评价|风险评价,议程形成期,"Agenda formation
+stage",2011,诊断评价,Diagnosis and evaluation,风险评价,Risk assessment,2,5,2010.58,4.68,#D7C600,32,14,1,2009,2022,13,24.969595949289335,3,True,False,0.0,8.0,13.0,2.0,313.0,0.0,0.0,,,True,False,2011.0,5.0,13.0,2011|诊断评价|__aggregate__,2.0,False,True,False,False,23.88822509939085,False,,
+2011|诊断评价|信息不足,议程形成期,"Agenda formation
+stage",2011,诊断评价,Diagnosis and evaluation,信息不足,Insufficient information,1,6,2011.42,4.68,#D7C600,1,1,1,2011,2011,13,6.4,8,True,False,0.0,8.0,13.0,2.0,313.0,0.0,0.0,,,True,False,2011.0,5.0,13.0,2011|诊断评价|__aggregate__,1.0,False,False,False,False,6.000000000000001,False,,
+2011|诊断评价|病害监测,议程形成期,"Agenda formation
+stage",2011,诊断评价,Diagnosis and evaluation,病害监测,Deterioration monitoring,1,7,2010.58,5.32,#D7C600,26,12,1,2010,2022,13,19.2886273190299,6,True,False,0.0,8.0,13.0,2.0,313.0,0.0,0.0,,,True,False,2011.0,5.0,13.0,2011|诊断评价|__aggregate__,1.0,False,False,False,False,18.618823416311336,False,,
+2011|诊断评价|结构环境检测,议程形成期,"Agenda formation
+stage",2011,诊断评价,Diagnosis and evaluation,结构环境检测,Structural-environmental testing,1,8,2011.42,5.32,#D7C600,24,12,1,2010,2022,13,19.008571279792896,7,True,False,0.0,8.0,13.0,2.0,313.0,0.0,0.0,,,True,False,2011.0,5.0,13.0,2011|诊断评价|__aggregate__,1.0,False,False,False,False,18.378775382679624,False,,
+2011|机制解释|社区治理,议程形成期,"Agenda formation
+stage",2011,机制解释,Mechanism explanation,社区治理,Community governance,3,1,2011.0,3.68,#3DAA3D,65,15,1,2008,2022,13,32.587160847617966,2,True,True,3.0,6.0,14.0,3.0,463.0,2.0,6.0,空间治理,Spatial governance,True,True,2011.0,4.0,14.0,2011|机制解释|__aggregate__,3.0,True,True,True,True,30.67470929795826,False,,
+2011|机制解释|空间治理,议程形成期,"Agenda formation
+stage",2011,机制解释,Mechanism explanation,空间治理,Spatial governance,3,2,2011.0,4.32,#3DAA3D,80,14,1,2009,2022,13,33.171980673998824,1,True,True,3.0,6.0,14.0,3.0,463.0,2.0,6.0,空间治理,Spatial governance,True,True,2011.0,4.0,14.0,2011|机制解释|__aggregate__,3.0,True,True,True,True,31.03312629199899,False,,
+2011|机制解释|公众参与,议程形成期,"Agenda formation
+stage",2011,机制解释,Mechanism explanation,公众参与,Public participation,2,3,2010.58,3.68,#3DAA3D,80,15,1,2008,2022,13,30.22198067399882,4,True,False,0.0,6.0,14.0,3.0,463.0,2.0,6.0,空间治理,Spatial governance,True,True,2011.0,4.0,14.0,2011|机制解释|__aggregate__,2.0,False,True,False,True,28.53312629199899,False,,
+2011|机制解释|文旅融合,议程形成期,"Agenda formation
+stage",2011,机制解释,Mechanism explanation,文旅融合,Culture-tourism integration,2,4,2011.42,3.68,#3DAA3D,62,14,1,2009,2022,13,28.073611023616536,6,True,False,0.0,6.0,14.0,3.0,463.0,2.0,6.0,空间治理,Spatial governance,True,True,2011.0,4.0,14.0,2011|机制解释|__aggregate__,2.0,False,True,False,True,26.54880944881417,False,,
+2011|机制解释|空间形态,议程形成期,"Agenda formation
+stage",2011,机制解释,Mechanism explanation,空间形态,Spatial morphology,2,5,2010.58,4.32,#3DAA3D,88,14,1,2009,2022,13,30.183164127505606,5,True,False,0.0,6.0,14.0,3.0,463.0,2.0,6.0,空间治理,Spatial governance,True,True,2011.0,4.0,14.0,2011|机制解释|__aggregate__,2.0,False,True,False,True,28.35699782357623,False,,
+2011|机制解释|问卷访谈,议程形成期,"Agenda formation
+stage",2011,机制解释,Mechanism explanation,问卷访谈,Questionnaires and interviews,2,6,2011.42,4.32,#3DAA3D,88,15,1,2008,2022,13,30.833164127505604,3,True,False,0.0,6.0,14.0,3.0,463.0,2.0,6.0,空间治理,Spatial governance,True,True,2011.0,4.0,14.0,2011|机制解释|__aggregate__,2.0,False,True,False,True,29.056997823576232,False,,
+2011|预测模拟|情景模拟,议程形成期,"Agenda formation
+stage",2011,预测模拟,Prediction and simulation,情景模拟,Scenario simulation,1,1,2011.0,2.68,#10B981,35,14,1,2009,2022,13,21.73251169633946,1,True,False,0.0,2.0,2.0,1.0,49.0,0.0,0.0,,,False,False,2011.0,2.68,1.0,2011|预测模拟|情景模拟,1.0,False,False,False,False,20.999295739719535,False,,
+2011|预测模拟|机器学习,议程形成期,"Agenda formation
+stage",2011,预测模拟,Prediction and simulation,机器学习,Machine learning,1,2,2010.58,2.68,#10B981,14,11,1,2008,2022,13,16.73832034148352,2,True,False,0.0,2.0,2.0,1.0,49.0,0.0,0.0,,,False,False,2010.58,2.68,1.0,2011|预测模拟|机器学习,1.0,False,False,False,False,16.289988864128727,False,,
+2011|干预决策|保护修复,议程形成期,"Agenda formation
+stage",2011,干预决策,Intervention and decision,保护修复,Conservation and restoration,3,1,2011.0,1.68,#1BA6C9,97,14,1,2008,2022,13,34.438400922514546,1,True,True,3.0,4.0,8.0,3.0,286.0,1.0,3.0,保护修复,Conservation and restoration,False,False,2011.0,1.68,3.0,2011|干预决策|保护修复,3.0,True,True,True,True,32.118629362155325,False,,
+2011|干预决策|区域保护,议程形成期,"Agenda formation
+stage",2011,干预决策,Intervention and decision,区域保护,Regional conservation,2,2,2011.0,2.32,#1BA6C9,60,14,1,2009,2022,13,27.894353369380767,3,True,False,0.0,4.0,8.0,3.0,286.0,1.0,3.0,保护修复,Conservation and restoration,False,False,2011.0,2.32,2.0,2011|干预决策|区域保护,2.0,False,True,False,False,26.3951600308978,False,,
+2011|干预决策|活化利用,议程形成期,"Agenda formation
+stage",2011,干预决策,Intervention and decision,活化利用,Revitalization and use,2,3,2010.58,1.68,#1BA6C9,102,15,1,2008,2022,13,31.839306913706906,2,True,False,0.0,4.0,8.0,3.0,286.0,1.0,3.0,保护修复,Conservation and restoration,False,False,2010.58,1.68,2.0,2011|干预决策|活化利用,2.0,False,True,False,False,29.919405926034493,False,,
+2011|干预决策|预防保护,议程形成期,"Agenda formation
+stage",2011,干预决策,Intervention and decision,预防保护,Preventive conservation,1,4,2011.42,1.68,#1BA6C9,27,13,1,2010,2022,13,20.074613391789285,4,True,False,0.0,4.0,8.0,3.0,286.0,1.0,3.0,保护修复,Conservation and restoration,False,False,2011.42,1.68,1.0,2011|干预决策|预防保护,1.0,False,False,False,False,19.435382907247956,False,,
+2012|记录描述|三维建模,议程形成期,"Agenda formation
+stage",2012,记录描述,Recording and description,三维建模,3D modeling,3,1,2012.0,6.68,#D65F5F,32,9,1,2012,2021,13,25.319595949289337,3,True,True,3.0,6.0,13.0,3.0,273.0,3.0,9.0,文献档案,Literature and archives,True,True,2012.0,7.0,13.0,2012|记录描述|__aggregate__,3.0,True,True,True,True,23.588225099390858,False,,
+2012|记录描述|数字采集,议程形成期,"Agenda formation
+stage",2012,记录描述,Recording and description,数字采集,Digital acquisition,3,2,2012.0,7.32,#D65F5F,42,13,1,2008,2021,13,29.073036977771004,2,True,True,3.0,6.0,13.0,3.0,273.0,3.0,9.0,文献档案,Literature and archives,True,True,2012.0,7.0,13.0,2012|记录描述|__aggregate__,3.0,True,True,True,True,27.376888838089435,True,2,top_tag_within_stage_function
+2012|记录描述|文献档案,议程形成期,"Agenda formation
+stage",2012,记录描述,Recording and description,文献档案,Literature and archives,3,3,2011.58,6.68,#D65F5F,113,14,1,2008,2022,13,35.53220413782851,1,True,True,3.0,6.0,13.0,3.0,273.0,3.0,9.0,文献档案,Literature and archives,True,True,2012.0,7.0,13.0,2012|记录描述|__aggregate__,3.0,True,True,True,True,33.05617497528158,False,,
+2012|记录描述|点云测绘,议程形成期,"Agenda formation
+stage",2012,记录描述,Recording and description,点云测绘,Point-cloud surveying,2,4,2012.42,6.68,#D65F5F,19,7,1,2012,2021,13,18.602458520956944,6,True,False,0.0,6.0,13.0,3.0,273.0,3.0,9.0,文献档案,Literature and archives,True,True,2012.0,7.0,13.0,2012|记录描述|__aggregate__,2.0,False,True,False,True,17.430678732248808,False,,
+2012|记录描述|历史图像,议程形成期,"Agenda formation
+stage",2012,记录描述,Recording and description,历史图像,Historical imagery,1,5,2011.58,7.32,#D65F5F,29,11,1,2010,2022,13,19.039230729988304,5,True,False,0.0,6.0,13.0,3.0,273.0,3.0,9.0,文献档案,Literature and archives,True,True,2012.0,7.0,13.0,2012|记录描述|__aggregate__,1.0,False,False,False,True,18.262197768561403,False,,
+2012|记录描述|遥感分析,议程形成期,"Agenda formation
+stage",2012,记录描述,Recording and description,遥感分析,Remote sensing,1,6,2012.42,7.32,#D65F5F,38,13,1,2009,2021,13,21.430179604156567,4,True,False,0.0,6.0,13.0,3.0,273.0,3.0,9.0,文献档案,Literature and archives,True,True,2012.0,7.0,13.0,2012|记录描述|__aggregate__,1.0,False,False,False,True,20.59729680356277,False,,
+2012|意义阐释|意义阐释,议程形成期,"Agenda formation
+stage",2012,意义阐释,Meaning interpretation,意义阐释,Meaning interpretation,3,1,2012.0,5.68,#E68A2E,101,14,1,2008,2022,13,34.71982586956925,1,True,True,3.0,3.0,7.0,3.0,242.0,2.0,6.0,意义阐释,Meaning interpretation,False,False,2012.0,5.68,3.0,2012|意义阐释|意义阐释,3.0,True,True,True,True,32.359850745345064,False,,
+2012|意义阐释|理论阐释,议程形成期,"Agenda formation
+stage",2012,意义阐释,Meaning interpretation,理论阐释,Theoretical interpretation,3,2,2011.58,5.68,#E68A2E,78,14,1,2008,2022,13,33.01446521285899,2,True,True,3.0,3.0,7.0,3.0,242.0,2.0,6.0,意义阐释,Meaning interpretation,False,False,2011.58,5.68,3.0,2012|意义阐释|理论阐释,3.0,True,True,True,True,30.89811303959341,False,,
+2012|意义阐释|公众感知,议程形成期,"Agenda formation
+stage",2012,意义阐释,Meaning interpretation,公众感知,Public perception,1,3,2012.42,5.68,#E68A2E,63,15,1,2008,2022,13,25.21215550647128,3,True,False,0.0,3.0,7.0,3.0,242.0,2.0,6.0,意义阐释,Meaning interpretation,False,False,2012.42,5.68,1.0,2012|意义阐释|公众感知,1.0,False,False,False,False,24.124704719832526,False,,
+2012|诊断评价|价值评价,议程形成期,"Agenda formation
+stage",2012,诊断评价,Diagnosis and evaluation,价值评价,Value assessment,4,1,2012.14,4.68,#D7C600,91,15,1,2008,2022,13,38.25514881983724,2,True,True,4.0,7.0,15.0,4.0,312.0,2.0,8.0,指标评价,Indicator evaluation,True,True,2012.0,5.0,15.0,2012|诊断评价|__aggregate__,4.0,True,True,True,True,35.64727041700335,False,,
+2012|诊断评价|指标评价,议程形成期,"Agenda formation
+stage",2012,诊断评价,Diagnosis and evaluation,指标评价,Indicator evaluation,4,2,2012.14,5.32,#D7C600,100,15,1,2008,2022,13,38.9,1,True,True,4.0,7.0,15.0,4.0,312.0,2.0,8.0,指标评价,Indicator evaluation,True,True,2012.0,5.0,15.0,2012|诊断评价|__aggregate__,4.0,True,True,True,True,36.199999999999996,False,,
+2012|诊断评价|结构环境检测,议程形成期,"Agenda formation
+stage",2012,诊断评价,Diagnosis and evaluation,结构环境检测,Structural-environmental testing,2,3,2011.86,4.68,#D7C600,24,12,1,2010,2022,13,22.608571279792898,4,True,False,0.0,7.0,15.0,4.0,312.0,2.0,8.0,指标评价,Indicator evaluation,True,True,2012.0,5.0,15.0,2012|诊断评价|__aggregate__,2.0,False,True,False,True,21.578775382679623,False,,
+2012|诊断评价|风险评价,议程形成期,"Agenda formation
+stage",2012,诊断评价,Diagnosis and evaluation,风险评价,Risk assessment,2,4,2011.86,5.32,#D7C600,32,14,1,2009,2022,13,24.969595949289335,3,True,False,0.0,7.0,15.0,4.0,312.0,2.0,8.0,指标评价,Indicator evaluation,True,True,2012.0,5.0,15.0,2012|诊断评价|__aggregate__,2.0,False,True,False,True,23.88822509939085,False,,
+2012|诊断评价|本体安全,议程形成期,"Agenda formation
+stage",2012,诊断评价,Diagnosis and evaluation,本体安全,Fabric safety,1,5,2011.58,4.68,#D7C600,23,13,1,2010,2022,13,19.51416413263781,5,True,False,0.0,7.0,15.0,4.0,312.0,2.0,8.0,指标评价,Indicator evaluation,True,True,2012.0,5.0,15.0,2012|诊断评价|__aggregate__,1.0,False,False,False,True,18.954997827975262,False,,
+2012|诊断评价|材料检测,议程形成期,"Agenda formation
+stage",2012,诊断评价,Diagnosis and evaluation,材料检测,Material testing,1,6,2012.42,4.68,#D7C600,16,12,1,2010,2022,13,17.75,7,True,False,0.0,7.0,15.0,4.0,312.0,2.0,8.0,指标评价,Indicator evaluation,True,True,2012.0,5.0,15.0,2012|诊断评价|__aggregate__,1.0,False,False,False,True,17.299999999999997,False,,
+2012|诊断评价|病害监测,议程形成期,"Agenda formation
+stage",2012,诊断评价,Diagnosis and evaluation,病害监测,Deterioration monitoring,1,7,2011.58,5.32,#D7C600,26,12,1,2010,2022,13,19.2886273190299,6,True,False,0.0,7.0,15.0,4.0,312.0,2.0,8.0,指标评价,Indicator evaluation,True,True,2012.0,5.0,15.0,2012|诊断评价|__aggregate__,1.0,False,False,False,True,18.618823416311336,False,,
+2012|机制解释|公众参与,议程形成期,"Agenda formation
+stage",2012,机制解释,Mechanism explanation,公众参与,Public participation,4,1,2012.14,4.0,#3DAA3D,80,15,1,2008,2022,13,37.421980673998824,1,True,True,4.0,9.0,27.0,4.0,519.0,6.0,22.0,公众参与,Public participation,True,True,2012.0,4.0,27.0,2012|机制解释|__aggregate__,4.0,True,True,True,True,34.93312629199899,True,1,high_centrality_ring_node
+2012|机制解释|社区治理,议程形成期,"Agenda formation
+stage",2012,机制解释,Mechanism explanation,社区治理,Community governance,4,2,2011.86,4.0,#3DAA3D,65,15,1,2008,2022,13,36.18716084761797,4,True,True,4.0,9.0,27.0,4.0,519.0,6.0,22.0,公众参与,Public participation,True,True,2012.0,4.0,27.0,2012|机制解释|__aggregate__,4.0,True,True,True,True,33.874709297958255,False,,
+2012|机制解释|空间形态,议程形成期,"Agenda formation
+stage",2012,机制解释,Mechanism explanation,空间形态,Spatial morphology,4,3,2012.14,3.68,#3DAA3D,88,14,1,2009,2022,13,37.3831641275056,2,True,True,4.0,9.0,27.0,4.0,519.0,6.0,22.0,公众参与,Public participation,True,True,2012.0,4.0,27.0,2012|机制解释|__aggregate__,4.0,True,True,True,True,34.75699782357623,False,,
+2012|机制解释|空间治理,议程形成期,"Agenda formation
+stage",2012,机制解释,Mechanism explanation,空间治理,Spatial governance,4,4,2012.14,4.32,#3DAA3D,80,14,1,2009,2022,13,36.771980673998826,3,True,True,4.0,9.0,27.0,4.0,519.0,6.0,22.0,公众参与,Public participation,True,True,2012.0,4.0,27.0,2012|机制解释|__aggregate__,4.0,True,True,True,True,34.233126291998985,False,,
+2012|机制解释|文旅融合,议程形成期,"Agenda formation
+stage",2012,机制解释,Mechanism explanation,文旅融合,Culture-tourism integration,3,5,2011.86,3.68,#3DAA3D,62,14,1,2009,2022,13,31.673611023616537,6,True,True,3.0,9.0,27.0,4.0,519.0,6.0,22.0,公众参与,Public participation,True,True,2012.0,4.0,27.0,2012|机制解释|__aggregate__,3.0,True,True,True,True,29.74880944881417,False,,
+2012|机制解释|问卷访谈,议程形成期,"Agenda formation
+stage",2012,机制解释,Mechanism explanation,问卷访谈,Questionnaires and interviews,3,6,2011.86,4.32,#3DAA3D,88,15,1,2008,2022,13,34.433164127505606,5,True,True,3.0,9.0,27.0,4.0,519.0,6.0,22.0,公众参与,Public participation,True,True,2012.0,4.0,27.0,2012|机制解释|__aggregate__,3.0,True,True,True,True,32.256997823576235,False,,
+2012|机制解释|工业更新,议程形成期,"Agenda formation
+stage",2012,机制解释,Mechanism explanation,工业更新,Industrial renewal,2,7,2011.58,4.0,#3DAA3D,28,10,1,2008,2021,13,21.858103670980853,7,True,False,0.0,9.0,27.0,4.0,519.0,6.0,22.0,公众参与,Public participation,True,True,2012.0,4.0,27.0,2012|机制解释|__aggregate__,2.0,False,True,False,True,20.649803146555016,False,,
+2012|机制解释|生态安全,议程形成期,"Agenda formation
+stage",2012,机制解释,Mechanism explanation,生态安全,Ecological security,2,8,2012.42,4.0,#3DAA3D,17,11,1,2009,2021,13,20.872347875864726,8,True,False,0.0,9.0,27.0,4.0,519.0,6.0,22.0,公众参与,Public participation,True,True,2012.0,4.0,27.0,2012|机制解释|__aggregate__,2.0,False,True,False,True,19.94772675074119,False,,
+2012|机制解释|韧性适应,议程形成期,"Agenda formation
+stage",2012,机制解释,Mechanism explanation,韧性适应,Resilience adaptation,1,9,2011.58,3.68,#3DAA3D,11,8,1,2009,2021,13,14.193274706497558,9,True,False,0.0,9.0,27.0,4.0,519.0,6.0,22.0,公众参与,Public participation,True,True,2012.0,4.0,27.0,2012|机制解释|__aggregate__,1.0,False,False,False,True,13.679949748426479,False,,
+2012|预测模拟|情景模拟,议程形成期,"Agenda formation
+stage",2012,预测模拟,Prediction and simulation,情景模拟,Scenario simulation,2,1,2012.0,2.68,#10B981,35,14,1,2009,2022,13,25.33251169633946,1,True,False,0.0,3.0,5.0,2.0,73.0,0.0,0.0,,,False,False,2012.0,2.68,2.0,2012|预测模拟|情景模拟,2.0,False,True,False,False,24.19929573971954,False,,
+2012|预测模拟|风险预警,议程形成期,"Agenda formation
+stage",2012,预测模拟,Prediction and simulation,风险预警,Risk warning,2,2,2011.58,2.68,#10B981,28,12,1,2009,2022,13,23.158103670980854,2,True,False,0.0,3.0,5.0,2.0,73.0,0.0,0.0,,,False,False,2011.58,2.68,2.0,2012|预测模拟|风险预警,2.0,False,True,False,False,22.049803146555014,False,,
+2012|预测模拟|预警机制,议程形成期,"Agenda formation
+stage",2012,预测模拟,Prediction and simulation,预警机制,Early-warning mechanism,1,3,2012.42,2.68,#10B981,10,6,1,2009,2018,13,12.677188724235732,3,True,False,0.0,3.0,5.0,2.0,73.0,0.0,0.0,,,False,False,2012.42,2.68,1.0,2012|预测模拟|预警机制,1.0,False,False,False,False,12.094733192202055,False,,
+2012|干预决策|活化利用,议程形成期,"Agenda formation
+stage",2012,干预决策,Intervention and decision,活化利用,Revitalization and use,6,1,2012.0,1.68,#1BA6C9,102,15,1,2008,2022,13,46.23930691370691,1,True,True,6.0,4.0,13.0,6.0,286.0,2.0,10.0,活化利用,Revitalization and use,False,False,2012.0,1.68,6.0,2012|干预决策|活化利用,6.0,True,True,True,True,42.71940592603449,True,1,top_tag_within_stage_function
+2012|干预决策|保护修复,议程形成期,"Agenda formation
+stage",2012,干预决策,Intervention and decision,保护修复,Conservation and restoration,4,2,2012.0,2.32,#1BA6C9,97,14,1,2008,2022,13,38.03840092251455,2,True,True,4.0,4.0,13.0,6.0,286.0,2.0,10.0,活化利用,Revitalization and use,False,False,2012.0,2.32,4.0,2012|干预决策|保护修复,4.0,True,True,True,True,35.31862936215532,False,,
+2012|干预决策|区域保护,议程形成期,"Agenda formation
+stage",2012,干预决策,Intervention and decision,区域保护,Regional conservation,2,3,2011.58,1.68,#1BA6C9,60,14,1,2009,2022,13,27.894353369380767,3,True,False,0.0,4.0,13.0,6.0,286.0,2.0,10.0,活化利用,Revitalization and use,False,False,2011.58,1.68,2.0,2012|干预决策|区域保护,2.0,False,True,False,False,26.3951600308978,False,,
+2012|干预决策|预防保护,议程形成期,"Agenda formation
+stage",2012,干预决策,Intervention and decision,预防保护,Preventive conservation,1,4,2012.42,1.68,#1BA6C9,27,13,1,2010,2022,13,20.074613391789285,4,True,False,0.0,4.0,13.0,6.0,286.0,2.0,10.0,活化利用,Revitalization and use,False,False,2012.42,1.68,1.0,2012|干预决策|预防保护,1.0,False,False,False,False,19.435382907247956,False,,
+2012|工具平台|信息平台,议程形成期,"Agenda formation
+stage",2012,工具平台,Tools and platforms,信息平台,Information platform,3,1,2012.0,0.6799999999999999,#2E73D2,61,12,1,2008,2021,13,30.284349546269315,1,True,True,3.0,2.0,5.0,3.0,90.0,1.0,3.0,信息平台,Information platform,False,False,2012.0,0.6799999999999999,3.0,2012|工具平台|信息平台,3.0,True,True,True,True,28.27229961108798,False,,
+2012|工具平台|数字孪生,议程形成期,"Agenda formation
+stage",2012,工具平台,Tools and platforms,数字孪生,Digital twin,2,2,2011.58,0.6799999999999999,#2E73D2,29,9,1,2012,2021,13,21.339230729988305,2,True,False,0.0,2.0,5.0,3.0,90.0,1.0,3.0,信息平台,Information platform,False,False,2011.58,0.6799999999999999,2.0,2012|工具平台|数字孪生,2.0,False,True,False,False,20.062197768561404,False,,
+2013|记录描述|文献档案,对象与方法扩展期,"Object and methodological
+expansion stage",2013,记录描述,Recording and description,文献档案,Literature and archives,9,1,2013.0,6.68,#D65F5F,113,14,1,2008,2022,13,57.13220413782851,1,True,True,9.0,4.0,20.0,9.0,222.0,4.0,20.0,文献档案,Literature and archives,True,True,2013.0,7.0,20.0,2013|记录描述|__aggregate__,9.0,True,True,True,True,52.256174975281574,False,,
+2013|记录描述|遥感分析,对象与方法扩展期,"Object and methodological
+expansion stage",2013,记录描述,Recording and description,遥感分析,Remote sensing,5,2,2013.0,7.32,#D65F5F,38,13,1,2009,2021,13,35.83017960415657,2,True,True,5.0,4.0,20.0,9.0,222.0,4.0,20.0,文献档案,Literature and archives,True,True,2013.0,7.0,20.0,2013|记录描述|__aggregate__,5.0,True,True,True,True,33.39729680356277,True,2,top_tag_within_stage_function
+2013|记录描述|历史图像,对象与方法扩展期,"Object and methodological
+expansion stage",2013,记录描述,Recording and description,历史图像,Historical imagery,3,3,2012.58,6.68,#D65F5F,29,11,1,2010,2022,13,26.239230729988307,4,True,True,3.0,4.0,20.0,9.0,222.0,4.0,20.0,文献档案,Literature and archives,True,True,2013.0,7.0,20.0,2013|记录描述|__aggregate__,3.0,True,True,True,True,24.662197768561402,False,,
+2013|记录描述|数字采集,对象与方法扩展期,"Object and methodological
+expansion stage",2013,记录描述,Recording and description,数字采集,Digital acquisition,3,4,2013.42,6.68,#D65F5F,42,13,1,2008,2021,13,29.073036977771004,3,True,True,3.0,4.0,20.0,9.0,222.0,4.0,20.0,文献档案,Literature and archives,True,True,2013.0,7.0,20.0,2013|记录描述|__aggregate__,3.0,True,True,True,True,27.376888838089435,False,,
+2013|意义阐释|意义阐释,对象与方法扩展期,"Object and methodological
+expansion stage",2013,意义阐释,Meaning interpretation,意义阐释,Meaning interpretation,11,1,2013.0,5.68,#E68A2E,101,14,1,2008,2022,13,63.519825869569246,1,True,True,11.0,3.0,26.0,11.0,242.0,3.0,26.0,意义阐释,Meaning interpretation,True,True,2013.0,6.0,26.0,2013|意义阐释|__aggregate__,11.0,True,True,True,True,57.959850745345065,True,1,top_tag_within_stage_function
+2013|意义阐释|公众感知,对象与方法扩展期,"Object and methodological
+expansion stage",2013,意义阐释,Meaning interpretation,公众感知,Public perception,9,2,2012.58,5.68,#E68A2E,63,15,1,2008,2022,13,54.01215550647128,2,True,True,9.0,3.0,26.0,11.0,242.0,3.0,26.0,意义阐释,Meaning interpretation,True,True,2013.0,6.0,26.0,2013|意义阐释|__aggregate__,9.0,True,True,True,True,49.72470471983252,False,,
+2013|意义阐释|理论阐释,对象与方法扩展期,"Object and methodological
+expansion stage",2013,意义阐释,Meaning interpretation,理论阐释,Theoretical interpretation,6,3,2013.42,5.68,#E68A2E,78,14,1,2008,2022,13,43.81446521285899,3,True,True,6.0,3.0,26.0,11.0,242.0,3.0,26.0,意义阐释,Meaning interpretation,True,True,2013.0,6.0,26.0,2013|意义阐释|__aggregate__,6.0,True,True,True,True,40.49811303959341,False,,
+2013|诊断评价|指标评价,对象与方法扩展期,"Object and methodological
+expansion stage",2013,诊断评价,Diagnosis and evaluation,指标评价,Indicator evaluation,11,1,2013.0,4.68,#D7C600,100,15,1,2008,2022,13,64.1,1,True,True,11.0,6.0,26.0,11.0,286.0,3.0,22.0,指标评价,Indicator evaluation,True,True,2013.0,5.0,26.0,2013|诊断评价|__aggregate__,11.0,True,True,True,True,58.6,False,,
+2013|诊断评价|价值评价,对象与方法扩展期,"Object and methodological
+expansion stage",2013,诊断评价,Diagnosis and evaluation,价值评价,Value assessment,7,2,2013.0,5.32,#D7C600,91,15,1,2008,2022,13,49.055148819837235,2,True,True,7.0,6.0,26.0,11.0,286.0,3.0,22.0,指标评价,Indicator evaluation,True,True,2013.0,5.0,26.0,2013|诊断评价|__aggregate__,7.0,True,True,True,True,45.24727041700335,False,,
+2013|诊断评价|风险评价,对象与方法扩展期,"Object and methodological
+expansion stage",2013,诊断评价,Diagnosis and evaluation,风险评价,Risk assessment,4,3,2012.58,4.68,#D7C600,32,14,1,2009,2022,13,32.16959594928933,3,True,True,4.0,6.0,26.0,11.0,286.0,3.0,22.0,指标评价,Indicator evaluation,True,True,2013.0,5.0,26.0,2013|诊断评价|__aggregate__,4.0,True,True,True,True,30.288225099390857,False,,
+2013|诊断评价|结构环境检测,对象与方法扩展期,"Object and methodological
+expansion stage",2013,诊断评价,Diagnosis and evaluation,结构环境检测,Structural-environmental testing,2,4,2013.42,4.68,#D7C600,24,12,1,2010,2022,13,22.608571279792898,4,True,False,0.0,6.0,26.0,11.0,286.0,3.0,22.0,指标评价,Indicator evaluation,True,True,2013.0,5.0,26.0,2013|诊断评价|__aggregate__,2.0,False,True,False,True,21.578775382679623,False,,
+2013|诊断评价|本体安全,对象与方法扩展期,"Object and methodological
+expansion stage",2013,诊断评价,Diagnosis and evaluation,本体安全,Fabric safety,1,5,2012.58,5.32,#D7C600,23,13,1,2010,2022,13,19.51416413263781,5,True,False,0.0,6.0,26.0,11.0,286.0,3.0,22.0,指标评价,Indicator evaluation,True,True,2013.0,5.0,26.0,2013|诊断评价|__aggregate__,1.0,False,False,False,True,18.954997827975262,False,,
+2013|诊断评价|材料检测,对象与方法扩展期,"Object and methodological
+expansion stage",2013,诊断评价,Diagnosis and evaluation,材料检测,Material testing,1,6,2013.42,5.32,#D7C600,16,12,1,2010,2022,13,17.75,6,True,False,0.0,6.0,26.0,11.0,286.0,3.0,22.0,指标评价,Indicator evaluation,True,True,2013.0,5.0,26.0,2013|诊断评价|__aggregate__,1.0,False,False,False,True,17.299999999999997,False,,
+2013|机制解释|公众参与,对象与方法扩展期,"Object and methodological
+expansion stage",2013,机制解释,Mechanism explanation,公众参与,Public participation,10,1,2013.14,4.0,#3DAA3D,80,15,1,2008,2022,13,59.021980673998826,2,True,True,10.0,10.0,66.0,10.0,530.0,6.0,57.0,问卷访谈,Questionnaires and interviews,True,True,2013.0,4.0,66.0,2013|机制解释|__aggregate__,10.0,True,True,True,True,54.13312629199899,False,,
+2013|机制解释|空间形态,对象与方法扩展期,"Object and methodological
+expansion stage",2013,机制解释,Mechanism explanation,空间形态,Spatial morphology,10,2,2012.86,4.0,#3DAA3D,88,14,1,2009,2022,13,58.9831641275056,3,True,True,10.0,10.0,66.0,10.0,530.0,6.0,57.0,问卷访谈,Questionnaires and interviews,True,True,2013.0,4.0,66.0,2013|机制解释|__aggregate__,10.0,True,True,True,True,53.95699782357622,False,,
+2013|机制解释|问卷访谈,对象与方法扩展期,"Object and methodological
+expansion stage",2013,机制解释,Mechanism explanation,问卷访谈,Questionnaires and interviews,10,3,2013.14,3.68,#3DAA3D,88,15,1,2008,2022,13,59.6331641275056,1,True,True,10.0,10.0,66.0,10.0,530.0,6.0,57.0,问卷访谈,Questionnaires and interviews,True,True,2013.0,4.0,66.0,2013|机制解释|__aggregate__,10.0,True,True,True,True,54.656997823576226,True,1,high_centrality_ring_node
+2013|机制解释|文旅融合,对象与方法扩展期,"Object and methodological
+expansion stage",2013,机制解释,Mechanism explanation,文旅融合,Culture-tourism integration,9,4,2013.14,4.32,#3DAA3D,62,14,1,2009,2022,13,53.27361102361653,6,True,True,9.0,10.0,66.0,10.0,530.0,6.0,57.0,问卷访谈,Questionnaires and interviews,True,True,2013.0,4.0,66.0,2013|机制解释|__aggregate__,9.0,True,True,True,True,48.94880944881417,False,,
+2013|机制解释|社区治理,对象与方法扩展期,"Object and methodological
+expansion stage",2013,机制解释,Mechanism explanation,社区治理,Community governance,9,5,2012.86,3.68,#3DAA3D,65,15,1,2008,2022,13,54.18716084761797,5,True,True,9.0,10.0,66.0,10.0,530.0,6.0,57.0,问卷访谈,Questionnaires and interviews,True,True,2013.0,4.0,66.0,2013|机制解释|__aggregate__,9.0,True,True,True,True,49.874709297958255,False,,
+2013|机制解释|空间治理,对象与方法扩展期,"Object and methodological
+expansion stage",2013,机制解释,Mechanism explanation,空间治理,Spatial governance,9,6,2012.86,4.32,#3DAA3D,80,14,1,2009,2022,13,54.77198067399882,4,True,True,9.0,10.0,66.0,10.0,530.0,6.0,57.0,问卷访谈,Questionnaires and interviews,True,True,2013.0,4.0,66.0,2013|机制解释|__aggregate__,9.0,True,True,True,True,50.233126291998985,False,,
+2013|机制解释|生态安全,对象与方法扩展期,"Object and methodological
+expansion stage",2013,机制解释,Mechanism explanation,生态安全,Ecological security,3,7,2012.58,4.0,#3DAA3D,17,11,1,2009,2021,13,24.472347875864727,7,True,False,0.0,10.0,66.0,10.0,530.0,6.0,57.0,问卷访谈,Questionnaires and interviews,True,True,2013.0,4.0,66.0,2013|机制解释|__aggregate__,3.0,False,True,False,True,23.147726750741192,False,,
+2013|机制解释|韧性适应,对象与方法扩展期,"Object and methodological
+expansion stage",2013,机制解释,Mechanism explanation,韧性适应,Resilience adaptation,3,8,2013.42,4.0,#3DAA3D,11,8,1,2009,2021,13,21.39327470649756,9,True,False,0.0,10.0,66.0,10.0,530.0,6.0,57.0,问卷访谈,Questionnaires and interviews,True,True,2013.0,4.0,66.0,2013|机制解释|__aggregate__,3.0,False,True,False,True,20.07994974842648,False,,
+2013|机制解释|工业更新,对象与方法扩展期,"Object and methodological
+expansion stage",2013,机制解释,Mechanism explanation,工业更新,Industrial renewal,2,9,2012.58,3.68,#3DAA3D,28,10,1,2008,2021,13,21.858103670980853,8,True,False,0.0,10.0,66.0,10.0,530.0,6.0,57.0,问卷访谈,Questionnaires and interviews,True,True,2013.0,4.0,66.0,2013|机制解释|__aggregate__,2.0,False,True,False,True,20.649803146555016,False,,
+2013|机制解释|参与式调查,对象与方法扩展期,"Object and methodological
+expansion stage",2013,机制解释,Mechanism explanation,参与式调查,Participatory survey,1,10,2013.42,3.68,#3DAA3D,11,8,1,2009,2022,13,14.193274706497558,10,True,False,0.0,10.0,66.0,10.0,530.0,6.0,57.0,问卷访谈,Questionnaires and interviews,True,True,2013.0,4.0,66.0,2013|机制解释|__aggregate__,1.0,False,False,False,True,13.679949748426479,False,,
+2013|预测模拟|情景模拟,对象与方法扩展期,"Object and methodological
+expansion stage",2013,预测模拟,Prediction and simulation,情景模拟,Scenario simulation,3,1,2013.0,2.68,#10B981,35,14,1,2009,2022,13,28.93251169633946,1,True,True,3.0,2.0,6.0,3.0,63.0,2.0,6.0,情景模拟,Scenario simulation,False,False,2013.0,2.68,3.0,2013|预测模拟|情景模拟,3.0,True,True,True,True,27.39929573971954,False,,
+2013|预测模拟|风险预警,对象与方法扩展期,"Object and methodological
+expansion stage",2013,预测模拟,Prediction and simulation,风险预警,Risk warning,3,2,2012.58,2.68,#10B981,28,12,1,2009,2022,13,26.758103670980855,2,True,True,3.0,2.0,6.0,3.0,63.0,2.0,6.0,情景模拟,Scenario simulation,False,False,2012.58,2.68,3.0,2013|预测模拟|风险预警,3.0,True,True,True,True,25.249803146555017,False,,
+2013|干预决策|活化利用,对象与方法扩展期,"Object and methodological
+expansion stage",2013,干预决策,Intervention and decision,活化利用,Revitalization and use,11,1,2013.0,1.68,#1BA6C9,102,15,1,2008,2022,13,64.23930691370691,1,True,True,11.0,4.0,29.0,11.0,286.0,3.0,28.0,活化利用,Revitalization and use,True,True,2013.0,2.0,29.0,2013|干预决策|__aggregate__,11.0,True,True,True,True,58.71940592603449,True,1,high_centrality_ring_node
+2013|干预决策|保护修复,对象与方法扩展期,"Object and methodological
+expansion stage",2013,干预决策,Intervention and decision,保护修复,Conservation and restoration,10,2,2013.0,2.32,#1BA6C9,97,14,1,2008,2022,13,59.63840092251454,2,True,True,10.0,4.0,29.0,11.0,286.0,3.0,28.0,活化利用,Revitalization and use,True,True,2013.0,2.0,29.0,2013|干预决策|__aggregate__,10.0,True,True,True,True,54.518629362155316,False,,
+2013|干预决策|区域保护,对象与方法扩展期,"Object and methodological
+expansion stage",2013,干预决策,Intervention and decision,区域保护,Regional conservation,7,3,2012.58,1.68,#1BA6C9,60,14,1,2009,2022,13,45.89435336938077,3,True,True,7.0,4.0,29.0,11.0,286.0,3.0,28.0,活化利用,Revitalization and use,True,True,2013.0,2.0,29.0,2013|干预决策|__aggregate__,7.0,True,True,True,True,42.3951600308978,False,,
+2013|干预决策|预防保护,对象与方法扩展期,"Object and methodological
+expansion stage",2013,干预决策,Intervention and decision,预防保护,Preventive conservation,1,4,2013.42,1.68,#1BA6C9,27,13,1,2010,2022,13,20.074613391789285,4,True,False,0.0,4.0,29.0,11.0,286.0,3.0,28.0,活化利用,Revitalization and use,True,True,2013.0,2.0,29.0,2013|干预决策|__aggregate__,1.0,False,False,False,True,19.435382907247956,False,,
+2013|工具平台|信息平台,对象与方法扩展期,"Object and methodological
+expansion stage",2013,工具平台,Tools and platforms,信息平台,Information platform,3,1,2013.0,0.6799999999999999,#2E73D2,61,12,1,2008,2021,13,30.284349546269315,1,True,True,3.0,2.0,4.0,3.0,86.0,1.0,3.0,信息平台,Information platform,False,False,2013.0,0.6799999999999999,3.0,2013|工具平台|信息平台,3.0,True,True,True,True,28.27229961108798,False,,
+2013|工具平台|智能识别,对象与方法扩展期,"Object and methodological
+expansion stage",2013,工具平台,Tools and platforms,智能识别,Intelligent recognition,1,2,2012.58,0.6799999999999999,#2E73D2,25,13,1,2008,2022,13,19.8,2,True,False,0.0,2.0,4.0,3.0,86.0,1.0,3.0,信息平台,Information platform,False,False,2012.58,0.6799999999999999,1.0,2013|工具平台|智能识别,1.0,False,False,False,False,19.199999999999996,False,,
+2014|记录描述|文献档案,对象与方法扩展期,"Object and methodological
+expansion stage",2014,记录描述,Recording and description,文献档案,Literature and archives,12,1,2014.0,6.68,#D65F5F,113,14,1,2008,2022,13,67.9322041378285,1,True,True,12.0,5.0,26.0,12.0,254.0,4.0,24.0,文献档案,Literature and archives,True,True,2014.0,7.0,26.0,2014|记录描述|__aggregate__,12.0,True,True,True,True,61.85617497528158,False,,
+2014|记录描述|遥感分析,对象与方法扩展期,"Object and methodological
+expansion stage",2014,记录描述,Recording and description,遥感分析,Remote sensing,5,2,2014.0,7.32,#D65F5F,38,13,1,2009,2021,13,35.83017960415657,2,True,True,5.0,5.0,26.0,12.0,254.0,4.0,24.0,文献档案,Literature and archives,True,True,2014.0,7.0,26.0,2014|记录描述|__aggregate__,5.0,True,True,True,True,33.39729680356277,False,,
+2014|记录描述|数字采集,对象与方法扩展期,"Object and methodological
+expansion stage",2014,记录描述,Recording and description,数字采集,Digital acquisition,4,3,2013.58,6.68,#D65F5F,42,13,1,2008,2021,13,32.673036977771005,3,True,True,4.0,5.0,26.0,12.0,254.0,4.0,24.0,文献档案,Literature and archives,True,True,2014.0,7.0,26.0,2014|记录描述|__aggregate__,4.0,True,True,True,True,30.57688883808943,False,,
+2014|记录描述|历史图像,对象与方法扩展期,"Object and methodological
+expansion stage",2014,记录描述,Recording and description,历史图像,Historical imagery,3,4,2014.42,6.68,#D65F5F,29,11,1,2010,2022,13,26.239230729988307,4,True,True,3.0,5.0,26.0,12.0,254.0,4.0,24.0,文献档案,Literature and archives,True,True,2014.0,7.0,26.0,2014|记录描述|__aggregate__,3.0,True,True,True,True,24.662197768561402,False,,
+2014|记录描述|三维建模,对象与方法扩展期,"Object and methodological
+expansion stage",2014,记录描述,Recording and description,三维建模,3D modeling,2,5,2013.58,7.32,#D65F5F,32,9,1,2012,2021,13,21.719595949289335,5,True,False,0.0,5.0,26.0,12.0,254.0,4.0,24.0,文献档案,Literature and archives,True,True,2014.0,7.0,26.0,2014|记录描述|__aggregate__,2.0,False,True,False,True,20.388225099390855,False,,
+2014|意义阐释|意义阐释,对象与方法扩展期,"Object and methodological
+expansion stage",2014,意义阐释,Meaning interpretation,意义阐释,Meaning interpretation,9,1,2014.0,5.68,#E68A2E,101,14,1,2008,2022,13,56.31982586956924,1,True,True,9.0,4.0,21.0,9.0,243.0,3.0,20.0,意义阐释,Meaning interpretation,True,True,2014.0,6.0,21.0,2014|意义阐释|__aggregate__,9.0,True,True,True,True,51.55985074534507,False,,
+2014|意义阐释|理论阐释,对象与方法扩展期,"Object and methodological
+expansion stage",2014,意义阐释,Meaning interpretation,理论阐释,Theoretical interpretation,8,2,2014.0,6.32,#E68A2E,78,14,1,2008,2022,13,51.01446521285899,2,True,True,8.0,4.0,21.0,9.0,243.0,3.0,20.0,意义阐释,Meaning interpretation,True,True,2014.0,6.0,21.0,2014|意义阐释|__aggregate__,8.0,True,True,True,True,46.89811303959341,True,2,top_tag_within_stage_function
+2014|意义阐释|公众感知,对象与方法扩展期,"Object and methodological
+expansion stage",2014,意义阐释,Meaning interpretation,公众感知,Public perception,3,3,2013.58,5.68,#E68A2E,63,15,1,2008,2022,13,32.41215550647128,3,True,True,3.0,4.0,21.0,9.0,243.0,3.0,20.0,意义阐释,Meaning interpretation,True,True,2014.0,6.0,21.0,2014|意义阐释|__aggregate__,3.0,True,True,True,True,30.524704719832528,False,,
+2014|意义阐释|传统延续,对象与方法扩展期,"Object and methodological
+expansion stage",2014,意义阐释,Meaning interpretation,传统延续,Traditional continuity,1,4,2014.42,5.68,#E68A2E,1,1,1,2014,2014,13,6.4,4,True,False,0.0,4.0,21.0,9.0,243.0,3.0,20.0,意义阐释,Meaning interpretation,True,True,2014.0,6.0,21.0,2014|意义阐释|__aggregate__,1.0,False,False,False,True,6.000000000000001,False,,
+2014|诊断评价|价值评价,对象与方法扩展期,"Object and methodological
+expansion stage",2014,诊断评价,Diagnosis and evaluation,价值评价,Value assessment,12,1,2014.14,4.68,#D7C600,91,15,1,2008,2022,13,67.05514881983724,1,True,True,12.0,7.0,31.0,12.0,312.0,2.0,21.0,价值评价,Value assessment,True,True,2014.0,5.0,31.0,2014|诊断评价|__aggregate__,12.0,True,True,True,True,61.24727041700335,True,2,high_centrality_ring_node
+2014|诊断评价|指标评价,对象与方法扩展期,"Object and methodological
+expansion stage",2014,诊断评价,Diagnosis and evaluation,指标评价,Indicator evaluation,9,2,2014.14,5.32,#D7C600,100,15,1,2008,2022,13,56.9,2,True,True,9.0,7.0,31.0,12.0,312.0,2.0,21.0,价值评价,Value assessment,True,True,2014.0,5.0,31.0,2014|诊断评价|__aggregate__,9.0,True,True,True,True,52.199999999999996,False,,
+2014|诊断评价|本体安全,对象与方法扩展期,"Object and methodological
+expansion stage",2014,诊断评价,Diagnosis and evaluation,本体安全,Fabric safety,2,3,2013.86,4.68,#D7C600,23,13,1,2010,2022,13,23.11416413263781,4,True,False,0.0,7.0,31.0,12.0,312.0,2.0,21.0,价值评价,Value assessment,True,True,2014.0,5.0,31.0,2014|诊断评价|__aggregate__,2.0,False,True,False,True,22.15499782797526,False,,
+2014|诊断评价|材料检测,对象与方法扩展期,"Object and methodological
+expansion stage",2014,诊断评价,Diagnosis and evaluation,材料检测,Material testing,2,4,2013.86,5.32,#D7C600,16,12,1,2010,2022,13,21.35,7,True,False,0.0,7.0,31.0,12.0,312.0,2.0,21.0,价值评价,Value assessment,True,True,2014.0,5.0,31.0,2014|诊断评价|__aggregate__,2.0,False,True,False,True,20.499999999999996,False,,
+2014|诊断评价|病害监测,对象与方法扩展期,"Object and methodological
+expansion stage",2014,诊断评价,Diagnosis and evaluation,病害监测,Deterioration monitoring,2,5,2013.58,4.68,#D7C600,26,12,1,2010,2022,13,22.8886273190299,5,True,False,0.0,7.0,31.0,12.0,312.0,2.0,21.0,价值评价,Value assessment,True,True,2014.0,5.0,31.0,2014|诊断评价|__aggregate__,2.0,False,True,False,True,21.81882341631134,False,,
+2014|诊断评价|结构环境检测,对象与方法扩展期,"Object and methodological
+expansion stage",2014,诊断评价,Diagnosis and evaluation,结构环境检测,Structural-environmental testing,2,6,2014.42,4.68,#D7C600,24,12,1,2010,2022,13,22.608571279792898,6,True,False,0.0,7.0,31.0,12.0,312.0,2.0,21.0,价值评价,Value assessment,True,True,2014.0,5.0,31.0,2014|诊断评价|__aggregate__,2.0,False,True,False,True,21.578775382679623,False,,
+2014|诊断评价|风险评价,对象与方法扩展期,"Object and methodological
+expansion stage",2014,诊断评价,Diagnosis and evaluation,风险评价,Risk assessment,2,7,2013.58,5.32,#D7C600,32,14,1,2009,2022,13,24.969595949289335,3,True,False,0.0,7.0,31.0,12.0,312.0,2.0,21.0,价值评价,Value assessment,True,True,2014.0,5.0,31.0,2014|诊断评价|__aggregate__,2.0,False,True,False,True,23.88822509939085,False,,
+2014|机制解释|空间形态,对象与方法扩展期,"Object and methodological
+expansion stage",2014,机制解释,Mechanism explanation,空间形态,Spatial morphology,11,1,2014.14,3.68,#3DAA3D,88,14,1,2009,2022,13,62.583164127505604,1,True,True,11.0,8.0,38.0,11.0,508.0,6.0,34.0,空间形态,Spatial morphology,True,True,2014.0,4.0,38.0,2014|机制解释|__aggregate__,11.0,True,True,True,True,57.156997823576226,True,1,high_centrality_ring_node
+2014|机制解释|问卷访谈,对象与方法扩展期,"Object and methodological
+expansion stage",2014,机制解释,Mechanism explanation,问卷访谈,Questionnaires and interviews,8,2,2014.14,4.32,#3DAA3D,88,15,1,2008,2022,13,52.433164127505606,2,True,True,8.0,8.0,38.0,11.0,508.0,6.0,34.0,空间形态,Spatial morphology,True,True,2014.0,4.0,38.0,2014|机制解释|__aggregate__,8.0,True,True,True,True,48.256997823576235,False,,
+2014|机制解释|空间治理,对象与方法扩展期,"Object and methodological
+expansion stage",2014,机制解释,Mechanism explanation,空间治理,Spatial governance,6,3,2013.86,3.68,#3DAA3D,80,14,1,2009,2022,13,43.97198067399882,3,True,True,6.0,8.0,38.0,11.0,508.0,6.0,34.0,空间形态,Spatial morphology,True,True,2014.0,4.0,38.0,2014|机制解释|__aggregate__,6.0,True,True,True,True,40.63312629199899,False,,
+2014|机制解释|公众参与,对象与方法扩展期,"Object and methodological
+expansion stage",2014,机制解释,Mechanism explanation,公众参与,Public participation,3,4,2013.86,4.32,#3DAA3D,80,15,1,2008,2022,13,33.82198067399882,4,True,True,3.0,8.0,38.0,11.0,508.0,6.0,34.0,空间形态,Spatial morphology,True,True,2014.0,4.0,38.0,2014|机制解释|__aggregate__,3.0,True,True,True,True,31.733126291998992,False,,
+2014|机制解释|工业更新,对象与方法扩展期,"Object and methodological
+expansion stage",2014,机制解释,Mechanism explanation,工业更新,Industrial renewal,3,5,2013.58,3.68,#3DAA3D,28,10,1,2008,2021,13,25.458103670980854,7,True,True,3.0,8.0,38.0,11.0,508.0,6.0,34.0,空间形态,Spatial morphology,True,True,2014.0,4.0,38.0,2014|机制解释|__aggregate__,3.0,True,True,True,True,23.84980314655502,False,,
+2014|机制解释|文旅融合,对象与方法扩展期,"Object and methodological
+expansion stage",2014,机制解释,Mechanism explanation,文旅融合,Culture-tourism integration,3,6,2014.42,3.68,#3DAA3D,62,14,1,2009,2022,13,31.673611023616537,5,True,True,3.0,8.0,38.0,11.0,508.0,6.0,34.0,空间形态,Spatial morphology,True,True,2014.0,4.0,38.0,2014|机制解释|__aggregate__,3.0,True,True,True,True,29.74880944881417,False,,
+2014|机制解释|生态安全,对象与方法扩展期,"Object and methodological
+expansion stage",2014,机制解释,Mechanism explanation,生态安全,Ecological security,2,7,2013.58,4.32,#3DAA3D,17,11,1,2009,2021,13,20.872347875864726,8,True,False,0.0,8.0,38.0,11.0,508.0,6.0,34.0,空间形态,Spatial morphology,True,True,2014.0,4.0,38.0,2014|机制解释|__aggregate__,2.0,False,True,False,True,19.94772675074119,False,,
+2014|机制解释|社区治理,对象与方法扩展期,"Object and methodological
+expansion stage",2014,机制解释,Mechanism explanation,社区治理,Community governance,2,8,2014.42,4.32,#3DAA3D,65,15,1,2008,2022,13,28.987160847617968,6,True,False,0.0,8.0,38.0,11.0,508.0,6.0,34.0,空间形态,Spatial morphology,True,True,2014.0,4.0,38.0,2014|机制解释|__aggregate__,2.0,False,True,False,True,27.474709297958256,False,,
+2014|预测模拟|情景模拟,对象与方法扩展期,"Object and methodological
+expansion stage",2014,预测模拟,Prediction and simulation,情景模拟,Scenario simulation,2,1,2014.0,2.68,#10B981,35,14,1,2009,2022,13,25.33251169633946,1,True,False,0.0,4.0,6.0,2.0,87.0,0.0,0.0,,,False,False,2014.0,2.68,2.0,2014|预测模拟|情景模拟,2.0,False,True,False,False,24.19929573971954,False,,
+2014|预测模拟|风险预警,对象与方法扩展期,"Object and methodological
+expansion stage",2014,预测模拟,Prediction and simulation,风险预警,Risk warning,2,2,2014.0,3.32,#10B981,28,12,1,2009,2022,13,23.158103670980854,2,True,False,0.0,4.0,6.0,2.0,87.0,0.0,0.0,,,False,False,2014.0,3.32,2.0,2014|预测模拟|风险预警,2.0,False,True,False,False,22.049803146555014,False,,
+2014|预测模拟|机器学习,对象与方法扩展期,"Object and methodological
+expansion stage",2014,预测模拟,Prediction and simulation,机器学习,Machine learning,1,3,2013.58,2.68,#10B981,14,11,1,2008,2022,13,16.73832034148352,3,True,False,0.0,4.0,6.0,2.0,87.0,0.0,0.0,,,False,False,2013.58,2.68,1.0,2014|预测模拟|机器学习,1.0,False,False,False,False,16.289988864128727,False,,
+2014|预测模拟|预警机制,对象与方法扩展期,"Object and methodological
+expansion stage",2014,预测模拟,Prediction and simulation,预警机制,Early-warning mechanism,1,4,2014.42,2.68,#10B981,10,6,1,2009,2018,13,12.677188724235732,4,True,False,0.0,4.0,6.0,2.0,87.0,0.0,0.0,,,False,False,2014.42,2.68,1.0,2014|预测模拟|预警机制,1.0,False,False,False,False,12.094733192202055,False,,
+2014|干预决策|保护修复,对象与方法扩展期,"Object and methodological
+expansion stage",2014,干预决策,Intervention and decision,保护修复,Conservation and restoration,11,1,2014.0,1.68,#1BA6C9,97,14,1,2008,2022,13,63.23840092251455,1,True,True,11.0,4.0,26.0,11.0,286.0,3.0,25.0,保护修复,Conservation and restoration,True,True,2014.0,2.0,26.0,2014|干预决策|__aggregate__,11.0,True,True,True,True,57.71862936215532,True,1,top_tag_within_stage_function
+2014|干预决策|活化利用,对象与方法扩展期,"Object and methodological
+expansion stage",2014,干预决策,Intervention and decision,活化利用,Revitalization and use,8,2,2014.0,2.32,#1BA6C9,102,15,1,2008,2022,13,53.43930691370691,2,True,True,8.0,4.0,26.0,11.0,286.0,3.0,25.0,保护修复,Conservation and restoration,True,True,2014.0,2.0,26.0,2014|干预决策|__aggregate__,8.0,True,True,True,True,49.119405926034496,False,,
+2014|干预决策|区域保护,对象与方法扩展期,"Object and methodological
+expansion stage",2014,干预决策,Intervention and decision,区域保护,Regional conservation,6,3,2013.58,1.68,#1BA6C9,60,14,1,2009,2022,13,42.29435336938077,3,True,True,6.0,4.0,26.0,11.0,286.0,3.0,25.0,保护修复,Conservation and restoration,True,True,2014.0,2.0,26.0,2014|干预决策|__aggregate__,6.0,True,True,True,True,39.1951600308978,False,,
+2014|干预决策|预防保护,对象与方法扩展期,"Object and methodological
+expansion stage",2014,干预决策,Intervention and decision,预防保护,Preventive conservation,1,4,2014.42,1.68,#1BA6C9,27,13,1,2010,2022,13,20.074613391789285,4,True,False,0.0,4.0,26.0,11.0,286.0,3.0,25.0,保护修复,Conservation and restoration,True,True,2014.0,2.0,26.0,2014|干预决策|__aggregate__,1.0,False,False,False,True,19.435382907247956,False,,
+2014|工具平台|信息平台,对象与方法扩展期,"Object and methodological
+expansion stage",2014,工具平台,Tools and platforms,信息平台,Information platform,5,1,2014.0,0.6799999999999999,#2E73D2,61,12,1,2008,2021,13,37.484349546269314,1,True,True,5.0,3.0,8.0,5.0,115.0,1.0,5.0,信息平台,Information platform,False,False,2014.0,0.6799999999999999,5.0,2014|工具平台|信息平台,5.0,True,True,True,True,34.67229961108798,False,,
+2014|工具平台|智能识别,对象与方法扩展期,"Object and methodological
+expansion stage",2014,工具平台,Tools and platforms,智能识别,Intelligent recognition,2,2,2013.58,0.6799999999999999,#2E73D2,25,13,1,2008,2022,13,23.4,2,True,False,0.0,3.0,8.0,5.0,115.0,1.0,5.0,信息平台,Information platform,False,False,2013.58,0.6799999999999999,2.0,2014|工具平台|智能识别,2.0,False,True,False,False,22.4,False,,
+2014|工具平台|数字孪生,对象与方法扩展期,"Object and methodological
+expansion stage",2014,工具平台,Tools and platforms,数字孪生,Digital twin,1,3,2014.42,0.6799999999999999,#2E73D2,29,9,1,2012,2021,13,17.739230729988304,3,True,False,0.0,3.0,8.0,5.0,115.0,1.0,5.0,信息平台,Information platform,False,False,2014.42,0.6799999999999999,1.0,2014|工具平台|数字孪生,1.0,False,False,False,False,16.862197768561405,False,,
+2014|综合|Integrated synthesis,对象与方法扩展期,"Object and methodological
+expansion stage",2014,综合,Integrated,Integrated synthesis,Integrated synthesis,1,1,2014.0,0.0,#6F58C9,12,6,1,2014,2021,13,13.099742261192857,1,True,False,0.0,1.0,1.0,1.0,12.0,0.0,0.0,,,False,False,2014.0,0.0,1.0,2014|综合|Integrated synthesis,1.0,False,False,False,False,12.456921938165305,True,1,top_tag_within_stage_function
+2015|记录描述|文献档案,对象与方法扩展期,"Object and methodological
+expansion stage",2015,记录描述,Recording and description,文献档案,Literature and archives,13,1,2015.0,6.68,#D65F5F,113,14,1,2008,2022,13,71.53220413782851,1,True,True,13.0,6.0,22.0,13.0,273.0,2.0,16.0,文献档案,Literature and archives,True,True,2015.0,7.0,22.0,2015|记录描述|__aggregate__,13.0,True,True,True,True,65.05617497528159,True,1,top_tag_within_stage_function
+2015|记录描述|遥感分析,对象与方法扩展期,"Object and methodological
+expansion stage",2015,记录描述,Recording and description,遥感分析,Remote sensing,3,2,2015.0,7.32,#D65F5F,38,13,1,2009,2021,13,28.630179604156567,2,True,True,3.0,6.0,22.0,13.0,273.0,2.0,16.0,文献档案,Literature and archives,True,True,2015.0,7.0,22.0,2015|记录描述|__aggregate__,3.0,True,True,True,True,26.99729680356277,False,,
+2015|记录描述|三维建模,对象与方法扩展期,"Object and methodological
+expansion stage",2015,记录描述,Recording and description,三维建模,3D modeling,2,3,2014.58,6.68,#D65F5F,32,9,1,2012,2021,13,21.719595949289335,4,True,False,0.0,6.0,22.0,13.0,273.0,2.0,16.0,文献档案,Literature and archives,True,True,2015.0,7.0,22.0,2015|记录描述|__aggregate__,2.0,False,True,False,True,20.388225099390855,False,,
+2015|记录描述|数字采集,对象与方法扩展期,"Object and methodological
+expansion stage",2015,记录描述,Recording and description,数字采集,Digital acquisition,2,4,2015.42,6.68,#D65F5F,42,13,1,2008,2021,13,25.473036977771002,3,True,False,0.0,6.0,22.0,13.0,273.0,2.0,16.0,文献档案,Literature and archives,True,True,2015.0,7.0,22.0,2015|记录描述|__aggregate__,2.0,False,True,False,True,24.176888838089432,False,,
+2015|记录描述|历史图像,对象与方法扩展期,"Object and methodological
+expansion stage",2015,记录描述,Recording and description,历史图像,Historical imagery,1,5,2014.58,7.32,#D65F5F,29,11,1,2010,2022,13,19.039230729988304,5,True,False,0.0,6.0,22.0,13.0,273.0,2.0,16.0,文献档案,Literature and archives,True,True,2015.0,7.0,22.0,2015|记录描述|__aggregate__,1.0,False,False,False,True,18.262197768561403,False,,
+2015|记录描述|点云测绘,对象与方法扩展期,"Object and methodological
+expansion stage",2015,记录描述,Recording and description,点云测绘,Point-cloud surveying,1,6,2015.42,7.32,#D65F5F,19,7,1,2012,2021,13,15.002458520956942,6,True,False,0.0,6.0,22.0,13.0,273.0,2.0,16.0,文献档案,Literature and archives,True,True,2015.0,7.0,22.0,2015|记录描述|__aggregate__,1.0,False,False,False,True,14.230678732248807,False,,
+2015|意义阐释|意义阐释,对象与方法扩展期,"Object and methodological
+expansion stage",2015,意义阐释,Meaning interpretation,意义阐释,Meaning interpretation,9,1,2015.0,5.68,#E68A2E,101,14,1,2008,2022,13,56.31982586956924,1,True,True,9.0,3.0,22.0,9.0,242.0,3.0,22.0,意义阐释,Meaning interpretation,True,True,2015.0,6.0,22.0,2015|意义阐释|__aggregate__,9.0,True,True,True,True,51.55985074534507,False,,
+2015|意义阐释|理论阐释,对象与方法扩展期,"Object and methodological
+expansion stage",2015,意义阐释,Meaning interpretation,理论阐释,Theoretical interpretation,7,2,2014.58,5.68,#E68A2E,78,14,1,2008,2022,13,47.414465212858985,2,True,True,7.0,3.0,22.0,9.0,242.0,3.0,22.0,意义阐释,Meaning interpretation,True,True,2015.0,6.0,22.0,2015|意义阐释|__aggregate__,7.0,True,True,True,True,43.698113039593416,False,,
+2015|意义阐释|公众感知,对象与方法扩展期,"Object and methodological
+expansion stage",2015,意义阐释,Meaning interpretation,公众感知,Public perception,6,3,2015.42,5.68,#E68A2E,63,15,1,2008,2022,13,43.212155506471284,3,True,True,6.0,3.0,22.0,9.0,242.0,3.0,22.0,意义阐释,Meaning interpretation,True,True,2015.0,6.0,22.0,2015|意义阐释|__aggregate__,6.0,True,True,True,True,40.12470471983253,False,,
+2015|诊断评价|指标评价,对象与方法扩展期,"Object and methodological
+expansion stage",2015,诊断评价,Diagnosis and evaluation,指标评价,Indicator evaluation,12,1,2015.14,4.68,#D7C600,100,15,1,2008,2022,13,67.7,1,True,True,12.0,7.0,37.0,12.0,312.0,6.0,36.0,指标评价,Indicator evaluation,True,True,2015.0,5.0,37.0,2015|诊断评价|__aggregate__,12.0,True,True,True,True,61.800000000000004,True,1,high_centrality_ring_node
+2015|诊断评价|价值评价,对象与方法扩展期,"Object and methodological
+expansion stage",2015,诊断评价,Diagnosis and evaluation,价值评价,Value assessment,11,2,2015.14,5.32,#D7C600,91,15,1,2008,2022,13,63.45514881983724,2,True,True,11.0,7.0,37.0,12.0,312.0,6.0,36.0,指标评价,Indicator evaluation,True,True,2015.0,5.0,37.0,2015|诊断评价|__aggregate__,11.0,True,True,True,True,58.04727041700335,False,,
+2015|诊断评价|病害监测,对象与方法扩展期,"Object and methodological
+expansion stage",2015,诊断评价,Diagnosis and evaluation,病害监测,Deterioration monitoring,4,3,2014.86,4.68,#D7C600,26,12,1,2010,2022,13,30.0886273190299,3,True,True,4.0,7.0,37.0,12.0,312.0,6.0,36.0,指标评价,Indicator evaluation,True,True,2015.0,5.0,37.0,2015|诊断评价|__aggregate__,4.0,True,True,True,True,28.218823416311338,False,,
+2015|诊断评价|本体安全,对象与方法扩展期,"Object and methodological
+expansion stage",2015,诊断评价,Diagnosis and evaluation,本体安全,Fabric safety,3,4,2014.86,5.32,#D7C600,23,13,1,2010,2022,13,26.714164132637812,5,True,True,3.0,7.0,37.0,12.0,312.0,6.0,36.0,指标评价,Indicator evaluation,True,True,2015.0,5.0,37.0,2015|诊断评价|__aggregate__,3.0,True,True,True,True,25.35499782797526,False,,
+2015|诊断评价|结构环境检测,对象与方法扩展期,"Object and methodological
+expansion stage",2015,诊断评价,Diagnosis and evaluation,结构环境检测,Structural-environmental testing,3,5,2014.58,4.68,#D7C600,24,12,1,2010,2022,13,26.2085712797929,6,True,True,3.0,7.0,37.0,12.0,312.0,6.0,36.0,指标评价,Indicator evaluation,True,True,2015.0,5.0,37.0,2015|诊断评价|__aggregate__,3.0,True,True,True,True,24.778775382679626,False,,
+2015|诊断评价|风险评价,对象与方法扩展期,"Object and methodological
+expansion stage",2015,诊断评价,Diagnosis and evaluation,风险评价,Risk assessment,3,6,2015.42,4.68,#D7C600,32,14,1,2009,2022,13,28.569595949289337,4,True,True,3.0,7.0,37.0,12.0,312.0,6.0,36.0,指标评价,Indicator evaluation,True,True,2015.0,5.0,37.0,2015|诊断评价|__aggregate__,3.0,True,True,True,True,27.088225099390854,False,,
+2015|诊断评价|材料检测,对象与方法扩展期,"Object and methodological
+expansion stage",2015,诊断评价,Diagnosis and evaluation,材料检测,Material testing,1,7,2014.58,5.32,#D7C600,16,12,1,2010,2022,13,17.75,7,True,False,0.0,7.0,37.0,12.0,312.0,6.0,36.0,指标评价,Indicator evaluation,True,True,2015.0,5.0,37.0,2015|诊断评价|__aggregate__,1.0,False,False,False,True,17.299999999999997,False,,
+2015|机制解释|问卷访谈,对象与方法扩展期,"Object and methodological
+expansion stage",2015,机制解释,Mechanism explanation,问卷访谈,Questionnaires and interviews,12,1,2015.14,3.68,#3DAA3D,88,15,1,2008,2022,13,66.8331641275056,1,True,True,12.0,8.0,63.0,12.0,508.0,7.0,62.0,问卷访谈,Questionnaires and interviews,True,True,2015.0,4.0,63.0,2015|机制解释|__aggregate__,12.0,True,True,True,True,61.05699782357623,True,2,high_centrality_ring_node
+2015|机制解释|空间治理,对象与方法扩展期,"Object and methodological
+expansion stage",2015,机制解释,Mechanism explanation,空间治理,Spatial governance,11,2,2015.14,4.32,#3DAA3D,80,14,1,2009,2022,13,61.97198067399882,2,True,True,11.0,8.0,63.0,12.0,508.0,7.0,62.0,问卷访谈,Questionnaires and interviews,True,True,2015.0,4.0,63.0,2015|机制解释|__aggregate__,11.0,True,True,True,True,56.63312629199899,False,,
+2015|机制解释|公众参与,对象与方法扩展期,"Object and methodological
+expansion stage",2015,机制解释,Mechanism explanation,公众参与,Public participation,9,3,2014.86,3.68,#3DAA3D,80,15,1,2008,2022,13,55.42198067399882,3,True,True,9.0,8.0,63.0,12.0,508.0,7.0,62.0,问卷访谈,Questionnaires and interviews,True,True,2015.0,4.0,63.0,2015|机制解释|__aggregate__,9.0,True,True,True,True,50.93312629199899,False,,
+2015|机制解释|文旅融合,对象与方法扩展期,"Object and methodological
+expansion stage",2015,机制解释,Mechanism explanation,文旅融合,Culture-tourism integration,8,4,2014.86,4.32,#3DAA3D,62,14,1,2009,2022,13,49.67361102361654,6,True,True,8.0,8.0,63.0,12.0,508.0,7.0,62.0,问卷访谈,Questionnaires and interviews,True,True,2015.0,4.0,63.0,2015|机制解释|__aggregate__,8.0,True,True,True,True,45.74880944881417,False,,
+2015|机制解释|社区治理,对象与方法扩展期,"Object and methodological
+expansion stage",2015,机制解释,Mechanism explanation,社区治理,Community governance,8,5,2014.58,3.68,#3DAA3D,65,15,1,2008,2022,13,50.587160847617966,5,True,True,8.0,8.0,63.0,12.0,508.0,7.0,62.0,问卷访谈,Questionnaires and interviews,True,True,2015.0,4.0,63.0,2015|机制解释|__aggregate__,8.0,True,True,True,True,46.67470929795826,False,,
+2015|机制解释|空间形态,对象与方法扩展期,"Object and methodological
+expansion stage",2015,机制解释,Mechanism explanation,空间形态,Spatial morphology,8,6,2015.42,3.68,#3DAA3D,88,14,1,2009,2022,13,51.78316412750561,4,True,True,8.0,8.0,63.0,12.0,508.0,7.0,62.0,问卷访谈,Questionnaires and interviews,True,True,2015.0,4.0,63.0,2015|机制解释|__aggregate__,8.0,True,True,True,True,47.55699782357623,False,,
+2015|机制解释|工业更新,对象与方法扩展期,"Object and methodological
+expansion stage",2015,机制解释,Mechanism explanation,工业更新,Industrial renewal,6,7,2014.58,4.32,#3DAA3D,28,10,1,2008,2021,13,36.25810367098086,7,True,True,6.0,8.0,63.0,12.0,508.0,7.0,62.0,问卷访谈,Questionnaires and interviews,True,True,2015.0,4.0,63.0,2015|机制解释|__aggregate__,6.0,True,True,True,True,33.44980314655502,False,,
+2015|机制解释|生态安全,对象与方法扩展期,"Object and methodological
+expansion stage",2015,机制解释,Mechanism explanation,生态安全,Ecological security,1,8,2015.42,4.32,#3DAA3D,17,11,1,2009,2021,13,17.272347875864725,8,True,False,0.0,8.0,63.0,12.0,508.0,7.0,62.0,问卷访谈,Questionnaires and interviews,True,True,2015.0,4.0,63.0,2015|机制解释|__aggregate__,1.0,False,False,False,True,16.74772675074119,False,,
+2015|预测模拟|情景模拟,对象与方法扩展期,"Object and methodological
+expansion stage",2015,预测模拟,Prediction and simulation,情景模拟,Scenario simulation,6,1,2015.0,2.68,#10B981,35,14,1,2009,2022,13,39.732511696339465,1,True,True,6.0,4.0,16.0,6.0,87.0,2.0,10.0,情景模拟,Scenario simulation,True,True,2015.0,3.0,16.0,2015|预测模拟|__aggregate__,6.0,True,True,True,True,36.99929573971954,True,1,top_tag_within_stage_function
+2015|预测模拟|风险预警,对象与方法扩展期,"Object and methodological
+expansion stage",2015,预测模拟,Prediction and simulation,风险预警,Risk warning,4,2,2015.0,3.32,#10B981,28,12,1,2009,2022,13,30.358103670980856,2,True,True,4.0,4.0,16.0,6.0,87.0,2.0,10.0,情景模拟,Scenario simulation,True,True,2015.0,3.0,16.0,2015|预测模拟|__aggregate__,4.0,True,True,True,True,28.449803146555016,True,2,top_tag_within_stage_function
+2015|预测模拟|机器学习,对象与方法扩展期,"Object and methodological
+expansion stage",2015,预测模拟,Prediction and simulation,机器学习,Machine learning,3,3,2014.58,2.68,#10B981,14,11,1,2008,2022,13,23.938320341483518,3,True,False,0.0,4.0,16.0,6.0,87.0,2.0,10.0,情景模拟,Scenario simulation,True,True,2015.0,3.0,16.0,2015|预测模拟|__aggregate__,3.0,False,True,False,True,22.68998886412873,False,,
+2015|预测模拟|预警机制,对象与方法扩展期,"Object and methodological
+expansion stage",2015,预测模拟,Prediction and simulation,预警机制,Early-warning mechanism,3,4,2015.42,2.68,#10B981,10,6,1,2009,2018,13,19.87718872423573,4,True,False,0.0,4.0,16.0,6.0,87.0,2.0,10.0,情景模拟,Scenario simulation,True,True,2015.0,3.0,16.0,2015|预测模拟|__aggregate__,3.0,False,True,False,True,18.494733192202055,False,,
+2015|干预决策|活化利用,对象与方法扩展期,"Object and methodological
+expansion stage",2015,干预决策,Intervention and decision,活化利用,Revitalization and use,12,1,2015.0,1.68,#1BA6C9,102,15,1,2008,2022,13,67.8393069137069,1,True,True,12.0,4.0,33.0,12.0,286.0,4.0,33.0,活化利用,Revitalization and use,True,True,2015.0,2.0,33.0,2015|干预决策|__aggregate__,12.0,True,True,True,True,61.91940592603449,True,2,high_centrality_ring_node
+2015|干预决策|保护修复,对象与方法扩展期,"Object and methodological
+expansion stage",2015,干预决策,Intervention and decision,保护修复,Conservation and restoration,11,2,2015.0,2.32,#1BA6C9,97,14,1,2008,2022,13,63.23840092251455,2,True,True,11.0,4.0,33.0,12.0,286.0,4.0,33.0,活化利用,Revitalization and use,True,True,2015.0,2.0,33.0,2015|干预决策|__aggregate__,11.0,True,True,True,True,57.71862936215532,False,,
+2015|干预决策|区域保护,对象与方法扩展期,"Object and methodological
+expansion stage",2015,干预决策,Intervention and decision,区域保护,Regional conservation,6,3,2014.58,1.68,#1BA6C9,60,14,1,2009,2022,13,42.29435336938077,3,True,True,6.0,4.0,33.0,12.0,286.0,4.0,33.0,活化利用,Revitalization and use,True,True,2015.0,2.0,33.0,2015|干预决策|__aggregate__,6.0,True,True,True,True,39.1951600308978,False,,
+2015|干预决策|预防保护,对象与方法扩展期,"Object and methodological
+expansion stage",2015,干预决策,Intervention and decision,预防保护,Preventive conservation,4,4,2015.42,1.68,#1BA6C9,27,13,1,2010,2022,13,30.87461339178929,4,True,True,4.0,4.0,33.0,12.0,286.0,4.0,33.0,活化利用,Revitalization and use,True,True,2015.0,2.0,33.0,2015|干预决策|__aggregate__,4.0,True,True,True,True,29.035382907247957,False,,
+2015|工具平台|信息平台,对象与方法扩展期,"Object and methodological
+expansion stage",2015,工具平台,Tools and platforms,信息平台,Information platform,9,1,2015.0,0.6799999999999999,#2E73D2,61,12,1,2008,2021,13,51.88434954626932,1,True,True,9.0,3.0,15.0,9.0,115.0,2.0,13.0,信息平台,Information platform,False,False,2015.0,0.6799999999999999,9.0,2015|工具平台|信息平台,9.0,True,True,True,True,47.47229961108798,True,1,top_tag_within_stage_function
+2015|工具平台|智能识别,对象与方法扩展期,"Object and methodological
+expansion stage",2015,工具平台,Tools and platforms,智能识别,Intelligent recognition,4,2,2014.58,0.6799999999999999,#2E73D2,25,13,1,2008,2022,13,30.6,2,True,True,4.0,3.0,15.0,9.0,115.0,2.0,13.0,信息平台,Information platform,False,False,2014.58,0.6799999999999999,4.0,2015|工具平台|智能识别,4.0,True,True,True,True,28.799999999999997,True,2,top_tag_within_stage_function
+2015|工具平台|数字孪生,对象与方法扩展期,"Object and methodological
+expansion stage",2015,工具平台,Tools and platforms,数字孪生,Digital twin,2,3,2015.42,0.6799999999999999,#2E73D2,29,9,1,2012,2021,13,21.339230729988305,3,True,False,0.0,3.0,15.0,9.0,115.0,2.0,13.0,信息平台,Information platform,False,False,2015.42,0.6799999999999999,2.0,2015|工具平台|数字孪生,2.0,False,True,False,False,20.062197768561404,False,,
+2015|综合|Integrated synthesis,对象与方法扩展期,"Object and methodological
+expansion stage",2015,综合,Integrated,Integrated synthesis,Integrated synthesis,1,1,2015.0,0.0,#6F58C9,12,6,1,2014,2021,13,13.099742261192857,1,True,False,0.0,1.0,1.0,1.0,12.0,0.0,0.0,,,False,False,2015.0,0.0,1.0,2015|综合|Integrated synthesis,1.0,False,False,False,False,12.456921938165305,False,,
+2016|记录描述|文献档案,对象与方法扩展期,"Object and methodological
+expansion stage",2016,记录描述,Recording and description,文献档案,Literature and archives,9,1,2016.0,6.68,#D65F5F,113,14,1,2008,2022,13,57.13220413782851,1,True,True,9.0,6.0,18.0,9.0,273.0,2.0,12.0,文献档案,Literature and archives,True,True,2016.0,7.0,18.0,2016|记录描述|__aggregate__,9.0,True,True,True,True,52.256174975281574,False,,
+2016|记录描述|三维建模,对象与方法扩展期,"Object and methodological
+expansion stage",2016,记录描述,Recording and description,三维建模,3D modeling,3,2,2016.0,7.32,#D65F5F,32,9,1,2012,2021,13,25.319595949289337,3,True,True,3.0,6.0,18.0,9.0,273.0,2.0,12.0,文献档案,Literature and archives,True,True,2016.0,7.0,18.0,2016|记录描述|__aggregate__,3.0,True,True,True,True,23.588225099390858,False,,
+2016|记录描述|数字采集,对象与方法扩展期,"Object and methodological
+expansion stage",2016,记录描述,Recording and description,数字采集,Digital acquisition,2,3,2015.58,6.68,#D65F5F,42,13,1,2008,2021,13,25.473036977771002,2,True,False,0.0,6.0,18.0,9.0,273.0,2.0,12.0,文献档案,Literature and archives,True,True,2016.0,7.0,18.0,2016|记录描述|__aggregate__,2.0,False,True,False,True,24.176888838089432,False,,
+2016|记录描述|遥感分析,对象与方法扩展期,"Object and methodological
+expansion stage",2016,记录描述,Recording and description,遥感分析,Remote sensing,2,4,2016.42,6.68,#D65F5F,38,13,1,2009,2021,13,25.030179604156565,4,True,False,0.0,6.0,18.0,9.0,273.0,2.0,12.0,文献档案,Literature and archives,True,True,2016.0,7.0,18.0,2016|记录描述|__aggregate__,2.0,False,True,False,True,23.79729680356277,False,,
+2016|记录描述|历史图像,对象与方法扩展期,"Object and methodological
+expansion stage",2016,记录描述,Recording and description,历史图像,Historical imagery,1,5,2015.58,7.32,#D65F5F,29,11,1,2010,2022,13,19.039230729988304,5,True,False,0.0,6.0,18.0,9.0,273.0,2.0,12.0,文献档案,Literature and archives,True,True,2016.0,7.0,18.0,2016|记录描述|__aggregate__,1.0,False,False,False,True,18.262197768561403,False,,
+2016|记录描述|点云测绘,对象与方法扩展期,"Object and methodological
+expansion stage",2016,记录描述,Recording and description,点云测绘,Point-cloud surveying,1,6,2016.42,7.32,#D65F5F,19,7,1,2012,2021,13,15.002458520956942,6,True,False,0.0,6.0,18.0,9.0,273.0,2.0,12.0,文献档案,Literature and archives,True,True,2016.0,7.0,18.0,2016|记录描述|__aggregate__,1.0,False,False,False,True,14.230678732248807,False,,
+2016|意义阐释|意义阐释,对象与方法扩展期,"Object and methodological
+expansion stage",2016,意义阐释,Meaning interpretation,意义阐释,Meaning interpretation,8,1,2016.0,5.68,#E68A2E,101,14,1,2008,2022,13,52.71982586956925,1,True,True,8.0,3.0,20.0,8.0,242.0,3.0,20.0,意义阐释,Meaning interpretation,True,True,2016.0,6.0,20.0,2016|意义阐释|__aggregate__,8.0,True,True,True,True,48.359850745345064,False,,
+2016|意义阐释|理论阐释,对象与方法扩展期,"Object and methodological
+expansion stage",2016,意义阐释,Meaning interpretation,理论阐释,Theoretical interpretation,7,2,2015.58,5.68,#E68A2E,78,14,1,2008,2022,13,47.414465212858985,2,True,True,7.0,3.0,20.0,8.0,242.0,3.0,20.0,意义阐释,Meaning interpretation,True,True,2016.0,6.0,20.0,2016|意义阐释|__aggregate__,7.0,True,True,True,True,43.698113039593416,False,,
+2016|意义阐释|公众感知,对象与方法扩展期,"Object and methodological
+expansion stage",2016,意义阐释,Meaning interpretation,公众感知,Public perception,5,3,2016.42,5.68,#E68A2E,63,15,1,2008,2022,13,39.61215550647128,3,True,True,5.0,3.0,20.0,8.0,242.0,3.0,20.0,意义阐释,Meaning interpretation,True,True,2016.0,6.0,20.0,2016|意义阐释|__aggregate__,5.0,True,True,True,True,36.924704719832526,False,,
+2016|诊断评价|价值评价,对象与方法扩展期,"Object and methodological
+expansion stage",2016,诊断评价,Diagnosis and evaluation,价值评价,Value assessment,7,1,2016.0,4.68,#D7C600,91,15,1,2008,2022,13,49.055148819837235,1,True,True,7.0,5.0,17.0,7.0,272.0,2.0,13.0,价值评价,Value assessment,True,True,2016.0,5.0,17.0,2016|诊断评价|__aggregate__,7.0,True,True,True,True,45.24727041700335,False,,
+2016|诊断评价|指标评价,对象与方法扩展期,"Object and methodological
+expansion stage",2016,诊断评价,Diagnosis and evaluation,指标评价,Indicator evaluation,6,2,2016.0,5.32,#D7C600,100,15,1,2008,2022,13,46.1,2,True,True,6.0,5.0,17.0,7.0,272.0,2.0,13.0,价值评价,Value assessment,True,True,2016.0,5.0,17.0,2016|诊断评价|__aggregate__,6.0,True,True,True,True,42.6,False,,
+2016|诊断评价|病害监测,对象与方法扩展期,"Object and methodological
+expansion stage",2016,诊断评价,Diagnosis and evaluation,病害监测,Deterioration monitoring,2,3,2015.58,4.68,#D7C600,26,12,1,2010,2022,13,22.8886273190299,3,True,False,0.0,5.0,17.0,7.0,272.0,2.0,13.0,价值评价,Value assessment,True,True,2016.0,5.0,17.0,2016|诊断评价|__aggregate__,2.0,False,True,False,True,21.81882341631134,False,,
+2016|诊断评价|本体安全,对象与方法扩展期,"Object and methodological
+expansion stage",2016,诊断评价,Diagnosis and evaluation,本体安全,Fabric safety,1,4,2016.42,4.68,#D7C600,23,13,1,2010,2022,13,19.51416413263781,5,True,False,0.0,5.0,17.0,7.0,272.0,2.0,13.0,价值评价,Value assessment,True,True,2016.0,5.0,17.0,2016|诊断评价|__aggregate__,1.0,False,False,False,True,18.954997827975262,False,,
+2016|诊断评价|风险评价,对象与方法扩展期,"Object and methodological
+expansion stage",2016,诊断评价,Diagnosis and evaluation,风险评价,Risk assessment,1,5,2015.58,5.32,#D7C600,32,14,1,2009,2022,13,21.369595949289334,4,True,False,0.0,5.0,17.0,7.0,272.0,2.0,13.0,价值评价,Value assessment,True,True,2016.0,5.0,17.0,2016|诊断评价|__aggregate__,1.0,False,False,False,True,20.688225099390856,False,,
+2016|机制解释|空间形态,对象与方法扩展期,"Object and methodological
+expansion stage",2016,机制解释,Mechanism explanation,空间形态,Spatial morphology,7,1,2016.14,3.68,#3DAA3D,88,14,1,2009,2022,13,48.183164127505606,1,True,True,7.0,8.0,33.0,7.0,491.0,6.0,31.0,空间形态,Spatial morphology,True,True,2016.0,4.0,33.0,2016|机制解释|__aggregate__,7.0,True,True,True,True,44.35699782357623,True,1,high_centrality_ring_node
+2016|机制解释|公众参与,对象与方法扩展期,"Object and methodological
+expansion stage",2016,机制解释,Mechanism explanation,公众参与,Public participation,6,2,2016.14,4.32,#3DAA3D,80,15,1,2008,2022,13,44.62198067399882,3,True,True,6.0,8.0,33.0,7.0,491.0,6.0,31.0,空间形态,Spatial morphology,True,True,2016.0,4.0,33.0,2016|机制解释|__aggregate__,6.0,True,True,True,True,41.333126291998994,False,,
+2016|机制解释|问卷访谈,对象与方法扩展期,"Object and methodological
+expansion stage",2016,机制解释,Mechanism explanation,问卷访谈,Questionnaires and interviews,6,3,2015.86,3.68,#3DAA3D,88,15,1,2008,2022,13,45.2331641275056,2,True,True,6.0,8.0,33.0,7.0,491.0,6.0,31.0,空间形态,Spatial morphology,True,True,2016.0,4.0,33.0,2016|机制解释|__aggregate__,6.0,True,True,True,True,41.85699782357623,False,,
+2016|机制解释|空间治理,对象与方法扩展期,"Object and methodological
+expansion stage",2016,机制解释,Mechanism explanation,空间治理,Spatial governance,5,4,2015.86,4.32,#3DAA3D,80,14,1,2009,2022,13,40.37198067399882,4,True,True,5.0,8.0,33.0,7.0,491.0,6.0,31.0,空间形态,Spatial morphology,True,True,2016.0,4.0,33.0,2016|机制解释|__aggregate__,5.0,True,True,True,True,37.43312629199899,False,,
+2016|机制解释|社区治理,对象与方法扩展期,"Object and methodological
+expansion stage",2016,机制解释,Mechanism explanation,社区治理,Community governance,4,5,2015.58,3.68,#3DAA3D,65,15,1,2008,2022,13,36.18716084761797,5,True,True,4.0,8.0,33.0,7.0,491.0,6.0,31.0,空间形态,Spatial morphology,True,True,2016.0,4.0,33.0,2016|机制解释|__aggregate__,4.0,True,True,True,True,33.874709297958255,False,,
+2016|机制解释|文旅融合,对象与方法扩展期,"Object and methodological
+expansion stage",2016,机制解释,Mechanism explanation,文旅融合,Culture-tourism integration,3,6,2016.42,3.68,#3DAA3D,62,14,1,2009,2022,13,31.673611023616537,6,True,True,3.0,8.0,33.0,7.0,491.0,6.0,31.0,空间形态,Spatial morphology,True,True,2016.0,4.0,33.0,2016|机制解释|__aggregate__,3.0,True,True,True,True,29.74880944881417,False,,
+2016|机制解释|参与式调查,对象与方法扩展期,"Object and methodological
+expansion stage",2016,机制解释,Mechanism explanation,参与式调查,Participatory survey,1,7,2015.58,4.32,#3DAA3D,11,8,1,2009,2022,13,14.193274706497558,8,True,False,0.0,8.0,33.0,7.0,491.0,6.0,31.0,空间形态,Spatial morphology,True,True,2016.0,4.0,33.0,2016|机制解释|__aggregate__,1.0,False,False,False,True,13.679949748426479,False,,
+2016|机制解释|生态安全,对象与方法扩展期,"Object and methodological
+expansion stage",2016,机制解释,Mechanism explanation,生态安全,Ecological security,1,8,2016.42,4.32,#3DAA3D,17,11,1,2009,2021,13,17.272347875864725,7,True,False,0.0,8.0,33.0,7.0,491.0,6.0,31.0,空间形态,Spatial morphology,True,True,2016.0,4.0,33.0,2016|机制解释|__aggregate__,1.0,False,False,False,True,16.74772675074119,False,,
+2016|预测模拟|情景模拟,对象与方法扩展期,"Object and methodological
+expansion stage",2016,预测模拟,Prediction and simulation,情景模拟,Scenario simulation,1,1,2016.0,2.68,#10B981,35,14,1,2009,2022,13,21.73251169633946,1,True,False,0.0,2.0,2.0,1.0,63.0,0.0,0.0,,,False,False,2016.0,2.68,1.0,2016|预测模拟|情景模拟,1.0,False,False,False,False,20.999295739719535,False,,
+2016|预测模拟|风险预警,对象与方法扩展期,"Object and methodological
+expansion stage",2016,预测模拟,Prediction and simulation,风险预警,Risk warning,1,2,2015.58,2.68,#10B981,28,12,1,2009,2022,13,19.558103670980856,2,True,False,0.0,2.0,2.0,1.0,63.0,0.0,0.0,,,False,False,2015.58,2.68,1.0,2016|预测模拟|风险预警,1.0,False,False,False,False,18.849803146555015,False,,
+2016|干预决策|保护修复,对象与方法扩展期,"Object and methodological
+expansion stage",2016,干预决策,Intervention and decision,保护修复,Conservation and restoration,8,1,2016.0,1.68,#1BA6C9,97,14,1,2008,2022,13,52.438400922514546,1,True,True,8.0,4.0,21.0,8.0,286.0,3.0,19.0,保护修复,Conservation and restoration,True,True,2016.0,2.0,21.0,2016|干预决策|__aggregate__,8.0,True,True,True,True,48.118629362155325,False,,
+2016|干预决策|活化利用,对象与方法扩展期,"Object and methodological
+expansion stage",2016,干预决策,Intervention and decision,活化利用,Revitalization and use,6,2,2016.0,2.32,#1BA6C9,102,15,1,2008,2022,13,46.23930691370691,2,True,True,6.0,4.0,21.0,8.0,286.0,3.0,19.0,保护修复,Conservation and restoration,True,True,2016.0,2.0,21.0,2016|干预决策|__aggregate__,6.0,True,True,True,True,42.71940592603449,False,,
+2016|干预决策|区域保护,对象与方法扩展期,"Object and methodological
+expansion stage",2016,干预决策,Intervention and decision,区域保护,Regional conservation,5,3,2015.58,1.68,#1BA6C9,60,14,1,2009,2022,13,38.69435336938077,3,True,True,5.0,4.0,21.0,8.0,286.0,3.0,19.0,保护修复,Conservation and restoration,True,True,2016.0,2.0,21.0,2016|干预决策|__aggregate__,5.0,True,True,True,True,35.9951600308978,False,,
+2016|干预决策|预防保护,对象与方法扩展期,"Object and methodological
+expansion stage",2016,干预决策,Intervention and decision,预防保护,Preventive conservation,2,4,2016.42,1.68,#1BA6C9,27,13,1,2010,2022,13,23.674613391789286,4,True,False,0.0,4.0,21.0,8.0,286.0,3.0,19.0,保护修复,Conservation and restoration,True,True,2016.0,2.0,21.0,2016|干预决策|__aggregate__,2.0,False,True,False,True,22.63538290724796,False,,
+2016|工具平台|信息平台,对象与方法扩展期,"Object and methodological
+expansion stage",2016,工具平台,Tools and platforms,信息平台,Information platform,6,1,2016.0,0.6799999999999999,#2E73D2,61,12,1,2008,2021,13,41.08434954626932,1,True,True,6.0,3.0,10.0,6.0,115.0,2.0,9.0,信息平台,Information platform,False,False,2016.0,0.6799999999999999,6.0,2016|工具平台|信息平台,6.0,True,True,True,True,37.87229961108798,False,,
+2016|工具平台|数字孪生,对象与方法扩展期,"Object and methodological
+expansion stage",2016,工具平台,Tools and platforms,数字孪生,Digital twin,3,2,2015.58,0.6799999999999999,#2E73D2,29,9,1,2012,2021,13,24.939230729988306,2,True,True,3.0,3.0,10.0,6.0,115.0,2.0,9.0,信息平台,Information platform,False,False,2015.58,0.6799999999999999,3.0,2016|工具平台|数字孪生,3.0,True,True,True,True,23.262197768561403,False,,
+2016|工具平台|智能识别,对象与方法扩展期,"Object and methodological
+expansion stage",2016,工具平台,Tools and platforms,智能识别,Intelligent recognition,1,3,2016.42,0.6799999999999999,#2E73D2,25,13,1,2008,2022,13,19.8,3,True,False,0.0,3.0,10.0,6.0,115.0,2.0,9.0,信息平台,Information platform,False,False,2016.42,0.6799999999999999,1.0,2016|工具平台|智能识别,1.0,False,False,False,False,19.199999999999996,False,,
+2016|综合|Integrated synthesis,对象与方法扩展期,"Object and methodological
+expansion stage",2016,综合,Integrated,Integrated synthesis,Integrated synthesis,1,1,2016.0,0.0,#6F58C9,12,6,1,2014,2021,13,13.099742261192857,1,True,False,0.0,1.0,1.0,1.0,12.0,0.0,0.0,,,False,False,2016.0,0.0,1.0,2016|综合|Integrated synthesis,1.0,False,False,False,False,12.456921938165305,False,,
+2017|记录描述|文献档案,对象与方法扩展期,"Object and methodological
+expansion stage",2017,记录描述,Recording and description,文献档案,Literature and archives,9,1,2017.0,6.68,#D65F5F,113,14,1,2008,2022,13,57.13220413782851,1,True,True,9.0,6.0,20.0,9.0,273.0,3.0,16.0,文献档案,Literature and archives,True,True,2017.0,7.0,20.0,2017|记录描述|__aggregate__,9.0,True,True,True,True,52.256174975281574,False,,
+2017|记录描述|数字采集,对象与方法扩展期,"Object and methodological
+expansion stage",2017,记录描述,Recording and description,数字采集,Digital acquisition,4,2,2017.0,7.32,#D65F5F,42,13,1,2008,2021,13,32.673036977771005,2,True,True,4.0,6.0,20.0,9.0,273.0,3.0,16.0,文献档案,Literature and archives,True,True,2017.0,7.0,20.0,2017|记录描述|__aggregate__,4.0,True,True,True,True,30.57688883808943,False,,
+2017|记录描述|三维建模,对象与方法扩展期,"Object and methodological
+expansion stage",2017,记录描述,Recording and description,三维建模,3D modeling,3,3,2016.58,6.68,#D65F5F,32,9,1,2012,2021,13,25.319595949289337,3,True,True,3.0,6.0,20.0,9.0,273.0,3.0,16.0,文献档案,Literature and archives,True,True,2017.0,7.0,20.0,2017|记录描述|__aggregate__,3.0,True,True,True,True,23.588225099390858,False,,
+2017|记录描述|点云测绘,对象与方法扩展期,"Object and methodological
+expansion stage",2017,记录描述,Recording and description,点云测绘,Point-cloud surveying,2,4,2017.42,6.68,#D65F5F,19,7,1,2012,2021,13,18.602458520956944,6,True,False,0.0,6.0,20.0,9.0,273.0,3.0,16.0,文献档案,Literature and archives,True,True,2017.0,7.0,20.0,2017|记录描述|__aggregate__,2.0,False,True,False,True,17.430678732248808,False,,
+2017|记录描述|历史图像,对象与方法扩展期,"Object and methodological
+expansion stage",2017,记录描述,Recording and description,历史图像,Historical imagery,1,5,2016.58,7.32,#D65F5F,29,11,1,2010,2022,13,19.039230729988304,5,True,False,0.0,6.0,20.0,9.0,273.0,3.0,16.0,文献档案,Literature and archives,True,True,2017.0,7.0,20.0,2017|记录描述|__aggregate__,1.0,False,False,False,True,18.262197768561403,False,,
+2017|记录描述|遥感分析,对象与方法扩展期,"Object and methodological
+expansion stage",2017,记录描述,Recording and description,遥感分析,Remote sensing,1,6,2017.42,7.32,#D65F5F,38,13,1,2009,2021,13,21.430179604156567,4,True,False,0.0,6.0,20.0,9.0,273.0,3.0,16.0,文献档案,Literature and archives,True,True,2017.0,7.0,20.0,2017|记录描述|__aggregate__,1.0,False,False,False,True,20.59729680356277,False,,
+2017|意义阐释|意义阐释,对象与方法扩展期,"Object and methodological
+expansion stage",2017,意义阐释,Meaning interpretation,意义阐释,Meaning interpretation,8,1,2017.0,5.68,#E68A2E,101,14,1,2008,2022,13,52.71982586956925,1,True,True,8.0,3.0,20.0,8.0,242.0,3.0,20.0,意义阐释,Meaning interpretation,True,True,2017.0,6.0,20.0,2017|意义阐释|__aggregate__,8.0,True,True,True,True,48.359850745345064,False,,
+2017|意义阐释|公众感知,对象与方法扩展期,"Object and methodological
+expansion stage",2017,意义阐释,Meaning interpretation,公众感知,Public perception,6,2,2016.58,5.68,#E68A2E,63,15,1,2008,2022,13,43.212155506471284,3,True,True,6.0,3.0,20.0,8.0,242.0,3.0,20.0,意义阐释,Meaning interpretation,True,True,2017.0,6.0,20.0,2017|意义阐释|__aggregate__,6.0,True,True,True,True,40.12470471983253,False,,
+2017|意义阐释|理论阐释,对象与方法扩展期,"Object and methodological
+expansion stage",2017,意义阐释,Meaning interpretation,理论阐释,Theoretical interpretation,6,3,2017.42,5.68,#E68A2E,78,14,1,2008,2022,13,43.81446521285899,2,True,True,6.0,3.0,20.0,8.0,242.0,3.0,20.0,意义阐释,Meaning interpretation,True,True,2017.0,6.0,20.0,2017|意义阐释|__aggregate__,6.0,True,True,True,True,40.49811303959341,False,,
+2017|诊断评价|指标评价,对象与方法扩展期,"Object and methodological
+expansion stage",2017,诊断评价,Diagnosis and evaluation,指标评价,Indicator evaluation,7,1,2017.14,4.68,#D7C600,100,15,1,2008,2022,13,49.7,1,True,True,7.0,7.0,23.0,7.0,312.0,3.0,15.0,指标评价,Indicator evaluation,True,True,2017.0,5.0,23.0,2017|诊断评价|__aggregate__,7.0,True,True,True,True,45.800000000000004,False,,
+2017|诊断评价|价值评价,对象与方法扩展期,"Object and methodological
+expansion stage",2017,诊断评价,Diagnosis and evaluation,价值评价,Value assessment,4,2,2017.14,5.32,#D7C600,91,15,1,2008,2022,13,38.25514881983724,2,True,True,4.0,7.0,23.0,7.0,312.0,3.0,15.0,指标评价,Indicator evaluation,True,True,2017.0,5.0,23.0,2017|诊断评价|__aggregate__,4.0,True,True,True,True,35.64727041700335,False,,
+2017|诊断评价|病害监测,对象与方法扩展期,"Object and methodological
+expansion stage",2017,诊断评价,Diagnosis and evaluation,病害监测,Deterioration monitoring,4,3,2016.86,4.68,#D7C600,26,12,1,2010,2022,13,30.0886273190299,3,True,True,4.0,7.0,23.0,7.0,312.0,3.0,15.0,指标评价,Indicator evaluation,True,True,2017.0,5.0,23.0,2017|诊断评价|__aggregate__,4.0,True,True,True,True,28.218823416311338,False,,
+2017|诊断评价|本体安全,对象与方法扩展期,"Object and methodological
+expansion stage",2017,诊断评价,Diagnosis and evaluation,本体安全,Fabric safety,2,4,2016.86,5.32,#D7C600,23,13,1,2010,2022,13,23.11416413263781,5,True,False,0.0,7.0,23.0,7.0,312.0,3.0,15.0,指标评价,Indicator evaluation,True,True,2017.0,5.0,23.0,2017|诊断评价|__aggregate__,2.0,False,True,False,True,22.15499782797526,False,,
+2017|诊断评价|材料检测,对象与方法扩展期,"Object and methodological
+expansion stage",2017,诊断评价,Diagnosis and evaluation,材料检测,Material testing,2,5,2016.58,4.68,#D7C600,16,12,1,2010,2022,13,21.35,7,True,False,0.0,7.0,23.0,7.0,312.0,3.0,15.0,指标评价,Indicator evaluation,True,True,2017.0,5.0,23.0,2017|诊断评价|__aggregate__,2.0,False,True,False,True,20.499999999999996,False,,
+2017|诊断评价|结构环境检测,对象与方法扩展期,"Object and methodological
+expansion stage",2017,诊断评价,Diagnosis and evaluation,结构环境检测,Structural-environmental testing,2,6,2017.42,4.68,#D7C600,24,12,1,2010,2022,13,22.608571279792898,6,True,False,0.0,7.0,23.0,7.0,312.0,3.0,15.0,指标评价,Indicator evaluation,True,True,2017.0,5.0,23.0,2017|诊断评价|__aggregate__,2.0,False,True,False,True,21.578775382679623,False,,
+2017|诊断评价|风险评价,对象与方法扩展期,"Object and methodological
+expansion stage",2017,诊断评价,Diagnosis and evaluation,风险评价,Risk assessment,2,7,2016.58,5.32,#D7C600,32,14,1,2009,2022,13,24.969595949289335,4,True,False,0.0,7.0,23.0,7.0,312.0,3.0,15.0,指标评价,Indicator evaluation,True,True,2017.0,5.0,23.0,2017|诊断评价|__aggregate__,2.0,False,True,False,True,23.88822509939085,False,,
+2017|机制解释|空间形态,对象与方法扩展期,"Object and methodological
+expansion stage",2017,机制解释,Mechanism explanation,空间形态,Spatial morphology,8,1,2017.14,4.0,#3DAA3D,88,14,1,2009,2022,13,51.78316412750561,1,True,True,8.0,9.0,35.0,8.0,519.0,6.0,32.0,空间形态,Spatial morphology,True,True,2017.0,4.0,35.0,2017|机制解释|__aggregate__,8.0,True,True,True,True,47.55699782357623,True,1,high_centrality_ring_node
+2017|机制解释|问卷访谈,对象与方法扩展期,"Object and methodological
+expansion stage",2017,机制解释,Mechanism explanation,问卷访谈,Questionnaires and interviews,6,2,2016.86,4.0,#3DAA3D,88,15,1,2008,2022,13,45.2331641275056,2,True,True,6.0,9.0,35.0,8.0,519.0,6.0,32.0,空间形态,Spatial morphology,True,True,2017.0,4.0,35.0,2017|机制解释|__aggregate__,6.0,True,True,True,True,41.85699782357623,False,,
+2017|机制解释|公众参与,对象与方法扩展期,"Object and methodological
+expansion stage",2017,机制解释,Mechanism explanation,公众参与,Public participation,5,3,2017.14,3.68,#3DAA3D,80,15,1,2008,2022,13,41.021980673998826,3,True,True,5.0,9.0,35.0,8.0,519.0,6.0,32.0,空间形态,Spatial morphology,True,True,2017.0,4.0,35.0,2017|机制解释|__aggregate__,5.0,True,True,True,True,38.13312629199899,False,,
+2017|机制解释|文旅融合,对象与方法扩展期,"Object and methodological
+expansion stage",2017,机制解释,Mechanism explanation,文旅融合,Culture-tourism integration,5,4,2017.14,4.32,#3DAA3D,62,14,1,2009,2022,13,38.87361102361653,5,True,True,5.0,9.0,35.0,8.0,519.0,6.0,32.0,空间形态,Spatial morphology,True,True,2017.0,4.0,35.0,2017|机制解释|__aggregate__,5.0,True,True,True,True,36.14880944881417,False,,
+2017|机制解释|空间治理,对象与方法扩展期,"Object and methodological
+expansion stage",2017,机制解释,Mechanism explanation,空间治理,Spatial governance,5,5,2016.86,3.68,#3DAA3D,80,14,1,2009,2022,13,40.37198067399882,4,True,True,5.0,9.0,35.0,8.0,519.0,6.0,32.0,空间形态,Spatial morphology,True,True,2017.0,4.0,35.0,2017|机制解释|__aggregate__,5.0,True,True,True,True,37.43312629199899,False,,
+2017|机制解释|社区治理,对象与方法扩展期,"Object and methodological
+expansion stage",2017,机制解释,Mechanism explanation,社区治理,Community governance,3,6,2016.86,4.32,#3DAA3D,65,15,1,2008,2022,13,32.587160847617966,6,True,True,3.0,9.0,35.0,8.0,519.0,6.0,32.0,空间形态,Spatial morphology,True,True,2017.0,4.0,35.0,2017|机制解释|__aggregate__,3.0,True,True,True,True,30.67470929795826,False,,
+2017|机制解释|工业更新,对象与方法扩展期,"Object and methodological
+expansion stage",2017,机制解释,Mechanism explanation,工业更新,Industrial renewal,1,7,2016.58,4.0,#3DAA3D,28,10,1,2008,2021,13,18.25810367098085,7,True,False,0.0,9.0,35.0,8.0,519.0,6.0,32.0,空间形态,Spatial morphology,True,True,2017.0,4.0,35.0,2017|机制解释|__aggregate__,1.0,False,False,False,True,17.449803146555016,False,,
+2017|机制解释|生态安全,对象与方法扩展期,"Object and methodological
+expansion stage",2017,机制解释,Mechanism explanation,生态安全,Ecological security,1,8,2017.42,4.0,#3DAA3D,17,11,1,2009,2021,13,17.272347875864725,8,True,False,0.0,9.0,35.0,8.0,519.0,6.0,32.0,空间形态,Spatial morphology,True,True,2017.0,4.0,35.0,2017|机制解释|__aggregate__,1.0,False,False,False,True,16.74772675074119,False,,
+2017|机制解释|韧性适应,对象与方法扩展期,"Object and methodological
+expansion stage",2017,机制解释,Mechanism explanation,韧性适应,Resilience adaptation,1,9,2016.58,3.68,#3DAA3D,11,8,1,2009,2021,13,14.193274706497558,9,True,False,0.0,9.0,35.0,8.0,519.0,6.0,32.0,空间形态,Spatial morphology,True,True,2017.0,4.0,35.0,2017|机制解释|__aggregate__,1.0,False,False,False,True,13.679949748426479,False,,
+2017|预测模拟|预警机制,对象与方法扩展期,"Object and methodological
+expansion stage",2017,预测模拟,Prediction and simulation,预警机制,Early-warning mechanism,3,1,2017.0,2.68,#10B981,10,6,1,2009,2018,13,19.87718872423573,3,True,False,0.0,4.0,7.0,3.0,87.0,0.0,0.0,,,False,False,2017.0,2.68,3.0,2017|预测模拟|预警机制,3.0,False,True,False,False,18.494733192202055,False,,
+2017|预测模拟|风险预警,对象与方法扩展期,"Object and methodological
+expansion stage",2017,预测模拟,Prediction and simulation,风险预警,Risk warning,2,2,2017.0,3.32,#10B981,28,12,1,2009,2022,13,23.158103670980854,1,True,False,0.0,4.0,7.0,3.0,87.0,0.0,0.0,,,False,False,2017.0,3.32,2.0,2017|预测模拟|风险预警,2.0,False,True,False,False,22.049803146555014,False,,
+2017|预测模拟|情景模拟,对象与方法扩展期,"Object and methodological
+expansion stage",2017,预测模拟,Prediction and simulation,情景模拟,Scenario simulation,1,3,2016.58,2.68,#10B981,35,14,1,2009,2022,13,21.73251169633946,2,True,False,0.0,4.0,7.0,3.0,87.0,0.0,0.0,,,False,False,2016.58,2.68,1.0,2017|预测模拟|情景模拟,1.0,False,False,False,False,20.999295739719535,False,,
+2017|预测模拟|机器学习,对象与方法扩展期,"Object and methodological
+expansion stage",2017,预测模拟,Prediction and simulation,机器学习,Machine learning,1,4,2017.42,2.68,#10B981,14,11,1,2008,2022,13,16.73832034148352,4,True,False,0.0,4.0,7.0,3.0,87.0,0.0,0.0,,,False,False,2017.42,2.68,1.0,2017|预测模拟|机器学习,1.0,False,False,False,False,16.289988864128727,False,,
+2017|干预决策|保护修复,对象与方法扩展期,"Object and methodological
+expansion stage",2017,干预决策,Intervention and decision,保护修复,Conservation and restoration,7,1,2017.0,1.68,#1BA6C9,97,14,1,2008,2022,13,48.838400922514545,1,True,True,7.0,4.0,20.0,7.0,286.0,4.0,20.0,保护修复,Conservation and restoration,True,True,2017.0,2.0,20.0,2017|干预决策|__aggregate__,7.0,True,True,True,True,44.91862936215532,False,,
+2017|干预决策|活化利用,对象与方法扩展期,"Object and methodological
+expansion stage",2017,干预决策,Intervention and decision,活化利用,Revitalization and use,6,2,2017.0,2.32,#1BA6C9,102,15,1,2008,2022,13,46.23930691370691,2,True,True,6.0,4.0,20.0,7.0,286.0,4.0,20.0,保护修复,Conservation and restoration,True,True,2017.0,2.0,20.0,2017|干预决策|__aggregate__,6.0,True,True,True,True,42.71940592603449,False,,
+2017|干预决策|预防保护,对象与方法扩展期,"Object and methodological
+expansion stage",2017,干预决策,Intervention and decision,预防保护,Preventive conservation,4,3,2016.58,1.68,#1BA6C9,27,13,1,2010,2022,13,30.87461339178929,4,True,True,4.0,4.0,20.0,7.0,286.0,4.0,20.0,保护修复,Conservation and restoration,True,True,2017.0,2.0,20.0,2017|干预决策|__aggregate__,4.0,True,True,True,True,29.035382907247957,False,,
+2017|干预决策|区域保护,对象与方法扩展期,"Object and methodological
+expansion stage",2017,干预决策,Intervention and decision,区域保护,Regional conservation,3,4,2017.42,1.68,#1BA6C9,60,14,1,2009,2022,13,31.494353369380768,3,True,True,3.0,4.0,20.0,7.0,286.0,4.0,20.0,保护修复,Conservation and restoration,True,True,2017.0,2.0,20.0,2017|干预决策|__aggregate__,3.0,True,True,True,True,29.5951600308978,False,,
+2017|工具平台|信息平台,对象与方法扩展期,"Object and methodological
+expansion stage",2017,工具平台,Tools and platforms,信息平台,Information platform,5,1,2017.0,0.6799999999999999,#2E73D2,61,12,1,2008,2021,13,37.484349546269314,1,True,True,5.0,3.0,11.0,5.0,115.0,3.0,11.0,信息平台,Information platform,False,False,2017.0,0.6799999999999999,5.0,2017|工具平台|信息平台,5.0,True,True,True,True,34.67229961108798,False,,
+2017|工具平台|数字孪生,对象与方法扩展期,"Object and methodological
+expansion stage",2017,工具平台,Tools and platforms,数字孪生,Digital twin,3,2,2016.58,0.6799999999999999,#2E73D2,29,9,1,2012,2021,13,24.939230729988306,3,True,True,3.0,3.0,11.0,5.0,115.0,3.0,11.0,信息平台,Information platform,False,False,2016.58,0.6799999999999999,3.0,2017|工具平台|数字孪生,3.0,True,True,True,True,23.262197768561403,False,,
+2017|工具平台|智能识别,对象与方法扩展期,"Object and methodological
+expansion stage",2017,工具平台,Tools and platforms,智能识别,Intelligent recognition,3,3,2017.42,0.6799999999999999,#2E73D2,25,13,1,2008,2022,13,27.0,2,True,True,3.0,3.0,11.0,5.0,115.0,3.0,11.0,信息平台,Information platform,False,False,2017.42,0.6799999999999999,3.0,2017|工具平台|智能识别,3.0,True,True,True,True,25.6,False,,
+2018|记录描述|文献档案,复合议程增强期,"Compound agenda
+intensification stage",2018,记录描述,Recording and description,文献档案,Literature and archives,11,1,2018.0,6.68,#D65F5F,113,14,1,2008,2022,13,64.33220413782851,1,True,True,11.0,6.0,33.0,11.0,246.0,5.0,32.0,文献档案,Literature and archives,True,True,2018.0,7.0,33.0,2018|记录描述|__aggregate__,11.0,True,True,True,True,58.65617497528158,True,1,high_centrality_ring_node
+2018|记录描述|数字采集,复合议程增强期,"Compound agenda
+intensification stage",2018,记录描述,Recording and description,数字采集,Digital acquisition,6,2,2018.0,7.32,#D65F5F,42,13,1,2008,2021,13,39.87303697777101,2,True,True,6.0,6.0,33.0,11.0,246.0,5.0,32.0,文献档案,Literature and archives,True,True,2018.0,7.0,33.0,2018|记录描述|__aggregate__,6.0,True,True,True,True,36.97688883808944,True,2,top_tag_within_stage_function
+2018|记录描述|遥感分析,复合议程增强期,"Compound agenda
+intensification stage",2018,记录描述,Recording and description,遥感分析,Remote sensing,6,3,2017.58,6.68,#D65F5F,38,13,1,2009,2021,13,39.43017960415657,3,True,True,6.0,6.0,33.0,11.0,246.0,5.0,32.0,文献档案,Literature and archives,True,True,2018.0,7.0,33.0,2018|记录描述|__aggregate__,6.0,True,True,True,True,36.59729680356277,False,,
+2018|记录描述|三维建模,复合议程增强期,"Compound agenda
+intensification stage",2018,记录描述,Recording and description,三维建模,3D modeling,5,4,2018.42,6.68,#D65F5F,32,9,1,2012,2021,13,32.51959594928933,4,True,True,5.0,6.0,33.0,11.0,246.0,5.0,32.0,文献档案,Literature and archives,True,True,2018.0,7.0,33.0,2018|记录描述|__aggregate__,5.0,True,True,True,True,29.988225099390856,False,,
+2018|记录描述|点云测绘,复合议程增强期,"Compound agenda
+intensification stage",2018,记录描述,Recording and description,点云测绘,Point-cloud surveying,4,5,2017.58,7.32,#D65F5F,19,7,1,2012,2021,13,25.802458520956943,5,True,True,4.0,6.0,33.0,11.0,246.0,5.0,32.0,文献档案,Literature and archives,True,True,2018.0,7.0,33.0,2018|记录描述|__aggregate__,4.0,True,True,True,True,23.830678732248806,False,,
+2018|记录描述|知识图谱,复合议程增强期,"Compound agenda
+intensification stage",2018,记录描述,Recording and description,知识图谱,Knowledge graph,1,6,2018.42,7.32,#D65F5F,2,2,1,2018,2019,13,7.629898987322333,6,True,False,0.0,6.0,33.0,11.0,246.0,5.0,32.0,文献档案,Literature and archives,True,True,2018.0,7.0,33.0,2018|记录描述|__aggregate__,1.0,False,False,False,True,7.197056274847714,False,,
+2018|意义阐释|意义阐释,复合议程增强期,"Compound agenda
+intensification stage",2018,意义阐释,Meaning interpretation,意义阐释,Meaning interpretation,10,1,2018.0,5.68,#E68A2E,101,14,1,2008,2022,13,59.919825869569245,1,True,True,10.0,3.0,22.0,10.0,242.0,3.0,22.0,意义阐释,Meaning interpretation,True,True,2018.0,6.0,22.0,2018|意义阐释|__aggregate__,10.0,True,True,True,True,54.75985074534506,False,,
+2018|意义阐释|公众感知,复合议程增强期,"Compound agenda
+intensification stage",2018,意义阐释,Meaning interpretation,公众感知,Public perception,7,2,2017.58,5.68,#E68A2E,63,15,1,2008,2022,13,46.81215550647128,2,True,True,7.0,3.0,22.0,10.0,242.0,3.0,22.0,意义阐释,Meaning interpretation,True,True,2018.0,6.0,22.0,2018|意义阐释|__aggregate__,7.0,True,True,True,True,43.324704719832525,False,,
+2018|意义阐释|理论阐释,复合议程增强期,"Compound agenda
+intensification stage",2018,意义阐释,Meaning interpretation,理论阐释,Theoretical interpretation,5,3,2018.42,5.68,#E68A2E,78,14,1,2008,2022,13,40.21446521285899,3,True,True,5.0,3.0,22.0,10.0,242.0,3.0,22.0,意义阐释,Meaning interpretation,True,True,2018.0,6.0,22.0,2018|意义阐释|__aggregate__,5.0,True,True,True,True,37.29811303959341,False,,
+2018|诊断评价|指标评价,复合议程增强期,"Compound agenda
+intensification stage",2018,诊断评价,Diagnosis and evaluation,指标评价,Indicator evaluation,12,1,2018.14,4.68,#D7C600,100,15,1,2008,2022,13,67.7,1,True,True,12.0,7.0,37.0,12.0,312.0,5.0,34.0,指标评价,Indicator evaluation,True,True,2018.0,5.0,37.0,2018|诊断评价|__aggregate__,12.0,True,True,True,True,61.800000000000004,True,1,high_centrality_ring_node
+2018|诊断评价|价值评价,复合议程增强期,"Compound agenda
+intensification stage",2018,诊断评价,Diagnosis and evaluation,价值评价,Value assessment,9,2,2018.14,5.32,#D7C600,91,15,1,2008,2022,13,56.25514881983724,2,True,True,9.0,7.0,37.0,12.0,312.0,5.0,34.0,指标评价,Indicator evaluation,True,True,2018.0,5.0,37.0,2018|诊断评价|__aggregate__,9.0,True,True,True,True,51.64727041700335,False,,
+2018|诊断评价|本体安全,复合议程增强期,"Compound agenda
+intensification stage",2018,诊断评价,Diagnosis and evaluation,本体安全,Fabric safety,5,3,2017.86,4.68,#D7C600,23,13,1,2010,2022,13,33.91416413263781,3,True,True,5.0,7.0,37.0,12.0,312.0,5.0,34.0,指标评价,Indicator evaluation,True,True,2018.0,5.0,37.0,2018|诊断评价|__aggregate__,5.0,True,True,True,True,31.75499782797526,False,,
+2018|诊断评价|病害监测,复合议程增强期,"Compound agenda
+intensification stage",2018,诊断评价,Diagnosis and evaluation,病害监测,Deterioration monitoring,4,4,2017.86,5.32,#D7C600,26,12,1,2010,2022,13,30.0886273190299,5,True,True,4.0,7.0,37.0,12.0,312.0,5.0,34.0,指标评价,Indicator evaluation,True,True,2018.0,5.0,37.0,2018|诊断评价|__aggregate__,4.0,True,True,True,True,28.218823416311338,False,,
+2018|诊断评价|风险评价,复合议程增强期,"Compound agenda
+intensification stage",2018,诊断评价,Diagnosis and evaluation,风险评价,Risk assessment,4,5,2017.58,4.68,#D7C600,32,14,1,2009,2022,13,32.16959594928933,4,True,True,4.0,7.0,37.0,12.0,312.0,5.0,34.0,指标评价,Indicator evaluation,True,True,2018.0,5.0,37.0,2018|诊断评价|__aggregate__,4.0,True,True,True,True,30.288225099390857,False,,
+2018|诊断评价|结构环境检测,复合议程增强期,"Compound agenda
+intensification stage",2018,诊断评价,Diagnosis and evaluation,结构环境检测,Structural-environmental testing,2,6,2018.42,4.68,#D7C600,24,12,1,2010,2022,13,22.608571279792898,6,True,False,0.0,7.0,37.0,12.0,312.0,5.0,34.0,指标评价,Indicator evaluation,True,True,2018.0,5.0,37.0,2018|诊断评价|__aggregate__,2.0,False,True,False,True,21.578775382679623,False,,
+2018|诊断评价|材料检测,复合议程增强期,"Compound agenda
+intensification stage",2018,诊断评价,Diagnosis and evaluation,材料检测,Material testing,1,7,2017.58,5.32,#D7C600,16,12,1,2010,2022,13,17.75,7,True,False,0.0,7.0,37.0,12.0,312.0,5.0,34.0,指标评价,Indicator evaluation,True,True,2018.0,5.0,37.0,2018|诊断评价|__aggregate__,1.0,False,False,False,True,17.299999999999997,False,,
+2018|机制解释|空间形态,复合议程增强期,"Compound agenda
+intensification stage",2018,机制解释,Mechanism explanation,空间形态,Spatial morphology,10,1,2018.14,4.0,#3DAA3D,88,14,1,2009,2022,13,58.9831641275056,1,True,True,10.0,9.0,49.0,10.0,519.0,7.0,46.0,空间形态,Spatial morphology,True,True,2018.0,4.0,49.0,2018|机制解释|__aggregate__,10.0,True,True,True,True,53.95699782357622,True,1,high_centrality_ring_node
+2018|机制解释|问卷访谈,复合议程增强期,"Compound agenda
+intensification stage",2018,机制解释,Mechanism explanation,问卷访谈,Questionnaires and interviews,8,2,2017.86,4.0,#3DAA3D,88,15,1,2008,2022,13,52.433164127505606,2,True,True,8.0,9.0,49.0,10.0,519.0,7.0,46.0,空间形态,Spatial morphology,True,True,2018.0,4.0,49.0,2018|机制解释|__aggregate__,8.0,True,True,True,True,48.256997823576235,False,,
+2018|机制解释|公众参与,复合议程增强期,"Compound agenda
+intensification stage",2018,机制解释,Mechanism explanation,公众参与,Public participation,7,3,2018.14,3.68,#3DAA3D,80,15,1,2008,2022,13,48.22198067399882,3,True,True,7.0,9.0,49.0,10.0,519.0,7.0,46.0,空间形态,Spatial morphology,True,True,2018.0,4.0,49.0,2018|机制解释|__aggregate__,7.0,True,True,True,True,44.53312629199899,False,,
+2018|机制解释|空间治理,复合议程增强期,"Compound agenda
+intensification stage",2018,机制解释,Mechanism explanation,空间治理,Spatial governance,7,4,2018.14,4.32,#3DAA3D,80,14,1,2009,2022,13,47.57198067399882,4,True,True,7.0,9.0,49.0,10.0,519.0,7.0,46.0,空间形态,Spatial morphology,True,True,2018.0,4.0,49.0,2018|机制解释|__aggregate__,7.0,True,True,True,True,43.83312629199899,False,,
+2018|机制解释|文旅融合,复合议程增强期,"Compound agenda
+intensification stage",2018,机制解释,Mechanism explanation,文旅融合,Culture-tourism integration,6,5,2017.86,3.68,#3DAA3D,62,14,1,2009,2022,13,42.473611023616535,5,True,True,6.0,9.0,49.0,10.0,519.0,7.0,46.0,空间形态,Spatial morphology,True,True,2018.0,4.0,49.0,2018|机制解释|__aggregate__,6.0,True,True,True,True,39.34880944881417,False,,
+2018|机制解释|社区治理,复合议程增强期,"Compound agenda
+intensification stage",2018,机制解释,Mechanism explanation,社区治理,Community governance,5,6,2017.86,4.32,#3DAA3D,65,15,1,2008,2022,13,39.78716084761797,6,True,True,5.0,9.0,49.0,10.0,519.0,7.0,46.0,空间形态,Spatial morphology,True,True,2018.0,4.0,49.0,2018|机制解释|__aggregate__,5.0,True,True,True,True,37.07470929795826,False,,
+2018|机制解释|工业更新,复合议程增强期,"Compound agenda
+intensification stage",2018,机制解释,Mechanism explanation,工业更新,Industrial renewal,3,7,2017.58,4.0,#3DAA3D,28,10,1,2008,2021,13,25.458103670980854,7,True,True,3.0,9.0,49.0,10.0,519.0,7.0,46.0,空间形态,Spatial morphology,True,True,2018.0,4.0,49.0,2018|机制解释|__aggregate__,3.0,True,True,True,True,23.84980314655502,False,,
+2018|机制解释|生态安全,复合议程增强期,"Compound agenda
+intensification stage",2018,机制解释,Mechanism explanation,生态安全,Ecological security,2,8,2018.42,4.0,#3DAA3D,17,11,1,2009,2021,13,20.872347875864726,8,True,False,0.0,9.0,49.0,10.0,519.0,7.0,46.0,空间形态,Spatial morphology,True,True,2018.0,4.0,49.0,2018|机制解释|__aggregate__,2.0,False,True,False,True,19.94772675074119,False,,
+2018|机制解释|参与式调查,复合议程增强期,"Compound agenda
+intensification stage",2018,机制解释,Mechanism explanation,参与式调查,Participatory survey,1,9,2017.58,3.68,#3DAA3D,11,8,1,2009,2022,13,14.193274706497558,9,True,False,0.0,9.0,49.0,10.0,519.0,7.0,46.0,空间形态,Spatial morphology,True,True,2018.0,4.0,49.0,2018|机制解释|__aggregate__,1.0,False,False,False,True,13.679949748426479,False,,
+2018|预测模拟|情景模拟,复合议程增强期,"Compound agenda
+intensification stage",2018,预测模拟,Prediction and simulation,情景模拟,Scenario simulation,5,1,2018.0,2.68,#10B981,35,14,1,2009,2022,13,36.13251169633946,1,True,True,5.0,4.0,12.0,5.0,87.0,2.0,9.0,情景模拟,Scenario simulation,False,False,2018.0,2.68,5.0,2018|预测模拟|情景模拟,5.0,True,True,True,True,33.79929573971954,True,1,top_tag_within_stage_function
+2018|预测模拟|风险预警,复合议程增强期,"Compound agenda
+intensification stage",2018,预测模拟,Prediction and simulation,风险预警,Risk warning,4,2,2018.0,3.32,#10B981,28,12,1,2009,2022,13,30.358103670980856,2,True,True,4.0,4.0,12.0,5.0,87.0,2.0,9.0,情景模拟,Scenario simulation,False,False,2018.0,3.32,4.0,2018|预测模拟|风险预警,4.0,True,True,True,True,28.449803146555016,True,2,top_tag_within_stage_function
+2018|预测模拟|机器学习,复合议程增强期,"Compound agenda
+intensification stage",2018,预测模拟,Prediction and simulation,机器学习,Machine learning,2,3,2017.58,2.68,#10B981,14,11,1,2008,2022,13,20.338320341483517,3,True,False,0.0,4.0,12.0,5.0,87.0,2.0,9.0,情景模拟,Scenario simulation,False,False,2017.58,2.68,2.0,2018|预测模拟|机器学习,2.0,False,True,False,False,19.489988864128726,False,,
+2018|预测模拟|预警机制,复合议程增强期,"Compound agenda
+intensification stage",2018,预测模拟,Prediction and simulation,预警机制,Early-warning mechanism,1,4,2018.42,2.68,#10B981,10,6,1,2009,2018,13,12.677188724235732,4,True,False,0.0,4.0,12.0,5.0,87.0,2.0,9.0,情景模拟,Scenario simulation,False,False,2018.42,2.68,1.0,2018|预测模拟|预警机制,1.0,False,False,False,False,12.094733192202055,False,,
+2018|干预决策|活化利用,复合议程增强期,"Compound agenda
+intensification stage",2018,干预决策,Intervention and decision,活化利用,Revitalization and use,10,1,2018.0,1.68,#1BA6C9,102,15,1,2008,2022,13,60.6393069137069,1,True,True,10.0,4.0,29.0,10.0,286.0,4.0,29.0,活化利用,Revitalization and use,True,True,2018.0,2.0,29.0,2018|干预决策|__aggregate__,10.0,True,True,True,True,55.51940592603449,True,1,high_centrality_ring_node
+2018|干预决策|保护修复,复合议程增强期,"Compound agenda
+intensification stage",2018,干预决策,Intervention and decision,保护修复,Conservation and restoration,9,2,2018.0,2.32,#1BA6C9,97,14,1,2008,2022,13,56.03840092251455,2,True,True,9.0,4.0,29.0,10.0,286.0,4.0,29.0,活化利用,Revitalization and use,True,True,2018.0,2.0,29.0,2018|干预决策|__aggregate__,9.0,True,True,True,True,51.31862936215532,False,,
+2018|干预决策|区域保护,复合议程增强期,"Compound agenda
+intensification stage",2018,干预决策,Intervention and decision,区域保护,Regional conservation,5,3,2017.58,1.68,#1BA6C9,60,14,1,2009,2022,13,38.69435336938077,3,True,True,5.0,4.0,29.0,10.0,286.0,4.0,29.0,活化利用,Revitalization and use,True,True,2018.0,2.0,29.0,2018|干预决策|__aggregate__,5.0,True,True,True,True,35.9951600308978,False,,
+2018|干预决策|预防保护,复合议程增强期,"Compound agenda
+intensification stage",2018,干预决策,Intervention and decision,预防保护,Preventive conservation,5,4,2018.42,1.68,#1BA6C9,27,13,1,2010,2022,13,34.47461339178928,4,True,True,5.0,4.0,29.0,10.0,286.0,4.0,29.0,活化利用,Revitalization and use,True,True,2018.0,2.0,29.0,2018|干预决策|__aggregate__,5.0,True,True,True,True,32.23538290724796,False,,
+2018|工具平台|信息平台,复合议程增强期,"Compound agenda
+intensification stage",2018,工具平台,Tools and platforms,信息平台,Information platform,6,1,2018.0,0.6799999999999999,#2E73D2,61,12,1,2008,2021,13,41.08434954626932,1,True,True,6.0,3.0,15.0,6.0,115.0,3.0,15.0,信息平台,Information platform,False,False,2018.0,0.6799999999999999,6.0,2018|工具平台|信息平台,6.0,True,True,True,True,37.87229961108798,False,,
+2018|工具平台|智能识别,复合议程增强期,"Compound agenda
+intensification stage",2018,工具平台,Tools and platforms,智能识别,Intelligent recognition,5,2,2017.58,0.6799999999999999,#2E73D2,25,13,1,2008,2022,13,34.2,2,True,True,5.0,3.0,15.0,6.0,115.0,3.0,15.0,信息平台,Information platform,False,False,2017.58,0.6799999999999999,5.0,2018|工具平台|智能识别,5.0,True,True,True,True,32.0,False,,
+2018|工具平台|数字孪生,复合议程增强期,"Compound agenda
+intensification stage",2018,工具平台,Tools and platforms,数字孪生,Digital twin,4,3,2018.42,0.6799999999999999,#2E73D2,29,9,1,2012,2021,13,28.539230729988304,3,True,True,4.0,3.0,15.0,6.0,115.0,3.0,15.0,信息平台,Information platform,False,False,2018.42,0.6799999999999999,4.0,2018|工具平台|数字孪生,4.0,True,True,True,True,26.462197768561406,False,,
+2019|记录描述|文献档案,复合议程增强期,"Compound agenda
+intensification stage",2019,记录描述,Recording and description,文献档案,Literature and archives,12,1,2019.14,6.68,#D65F5F,113,14,1,2008,2022,13,67.9322041378285,1,True,True,12.0,7.0,32.0,12.0,275.0,6.0,31.0,文献档案,Literature and archives,True,True,2019.0,7.0,32.0,2019|记录描述|__aggregate__,12.0,True,True,True,True,61.85617497528158,True,1,high_centrality_ring_node
+2019|记录描述|数字采集,复合议程增强期,"Compound agenda
+intensification stage",2019,记录描述,Recording and description,数字采集,Digital acquisition,6,2,2019.14,7.32,#D65F5F,42,13,1,2008,2021,13,39.87303697777101,2,True,True,6.0,7.0,32.0,12.0,275.0,6.0,31.0,文献档案,Literature and archives,True,True,2019.0,7.0,32.0,2019|记录描述|__aggregate__,6.0,True,True,True,True,36.97688883808944,False,,
+2019|记录描述|三维建模,复合议程增强期,"Compound agenda
+intensification stage",2019,记录描述,Recording and description,三维建模,3D modeling,4,3,2018.86,6.68,#D65F5F,32,9,1,2012,2021,13,28.919595949289334,3,True,True,4.0,7.0,32.0,12.0,275.0,6.0,31.0,文献档案,Literature and archives,True,True,2019.0,7.0,32.0,2019|记录描述|__aggregate__,4.0,True,True,True,True,26.788225099390857,False,,
+2019|记录描述|历史图像,复合议程增强期,"Compound agenda
+intensification stage",2019,记录描述,Recording and description,历史图像,Historical imagery,3,4,2018.86,7.32,#D65F5F,29,11,1,2010,2022,13,26.239230729988307,5,True,True,3.0,7.0,32.0,12.0,275.0,6.0,31.0,文献档案,Literature and archives,True,True,2019.0,7.0,32.0,2019|记录描述|__aggregate__,3.0,True,True,True,True,24.662197768561402,False,,
+2019|记录描述|点云测绘,复合议程增强期,"Compound agenda
+intensification stage",2019,记录描述,Recording and description,点云测绘,Point-cloud surveying,3,5,2018.58,6.68,#D65F5F,19,7,1,2012,2021,13,22.202458520956945,6,True,True,3.0,7.0,32.0,12.0,275.0,6.0,31.0,文献档案,Literature and archives,True,True,2019.0,7.0,32.0,2019|记录描述|__aggregate__,3.0,True,True,True,True,20.630678732248807,False,,
+2019|记录描述|遥感分析,复合议程增强期,"Compound agenda
+intensification stage",2019,记录描述,Recording and description,遥感分析,Remote sensing,3,6,2019.42,6.68,#D65F5F,38,13,1,2009,2021,13,28.630179604156567,4,True,True,3.0,7.0,32.0,12.0,275.0,6.0,31.0,文献档案,Literature and archives,True,True,2019.0,7.0,32.0,2019|记录描述|__aggregate__,3.0,True,True,True,True,26.99729680356277,False,,
+2019|记录描述|知识图谱,复合议程增强期,"Compound agenda
+intensification stage",2019,记录描述,Recording and description,知识图谱,Knowledge graph,1,7,2018.58,7.32,#D65F5F,2,2,1,2018,2019,13,7.629898987322333,7,True,False,0.0,7.0,32.0,12.0,275.0,6.0,31.0,文献档案,Literature and archives,True,True,2019.0,7.0,32.0,2019|记录描述|__aggregate__,1.0,False,False,False,True,7.197056274847714,False,,
+2019|意义阐释|意义阐释,复合议程增强期,"Compound agenda
+intensification stage",2019,意义阐释,Meaning interpretation,意义阐释,Meaning interpretation,11,1,2019.0,5.68,#E68A2E,101,14,1,2008,2022,13,63.519825869569246,1,True,True,11.0,3.0,21.0,11.0,242.0,3.0,21.0,意义阐释,Meaning interpretation,True,True,2019.0,6.0,21.0,2019|意义阐释|__aggregate__,11.0,True,True,True,True,57.959850745345065,False,,
+2019|意义阐释|理论阐释,复合议程增强期,"Compound agenda
+intensification stage",2019,意义阐释,Meaning interpretation,理论阐释,Theoretical interpretation,6,2,2018.58,5.68,#E68A2E,78,14,1,2008,2022,13,43.81446521285899,2,True,True,6.0,3.0,21.0,11.0,242.0,3.0,21.0,意义阐释,Meaning interpretation,True,True,2019.0,6.0,21.0,2019|意义阐释|__aggregate__,6.0,True,True,True,True,40.49811303959341,False,,
+2019|意义阐释|公众感知,复合议程增强期,"Compound agenda
+intensification stage",2019,意义阐释,Meaning interpretation,公众感知,Public perception,4,3,2019.42,5.68,#E68A2E,63,15,1,2008,2022,13,36.01215550647128,3,True,True,4.0,3.0,21.0,11.0,242.0,3.0,21.0,意义阐释,Meaning interpretation,True,True,2019.0,6.0,21.0,2019|意义阐释|__aggregate__,4.0,True,True,True,True,33.72470471983252,False,,
+2019|诊断评价|指标评价,复合议程增强期,"Compound agenda
+intensification stage",2019,诊断评价,Diagnosis and evaluation,指标评价,Indicator evaluation,11,1,2019.14,4.68,#D7C600,100,15,1,2008,2022,13,64.1,1,True,True,11.0,7.0,27.0,11.0,312.0,2.0,17.0,指标评价,Indicator evaluation,True,True,2019.0,5.0,27.0,2019|诊断评价|__aggregate__,11.0,True,True,True,True,58.6,True,1,high_centrality_ring_node
+2019|诊断评价|价值评价,复合议程增强期,"Compound agenda
+intensification stage",2019,诊断评价,Diagnosis and evaluation,价值评价,Value assessment,6,2,2019.14,5.32,#D7C600,91,15,1,2008,2022,13,45.45514881983724,2,True,True,6.0,7.0,27.0,11.0,312.0,2.0,17.0,指标评价,Indicator evaluation,True,True,2019.0,5.0,27.0,2019|诊断评价|__aggregate__,6.0,True,True,True,True,42.04727041700335,False,,
+2019|诊断评价|本体安全,复合议程增强期,"Compound agenda
+intensification stage",2019,诊断评价,Diagnosis and evaluation,本体安全,Fabric safety,2,3,2018.86,4.68,#D7C600,23,13,1,2010,2022,13,23.11416413263781,4,True,False,0.0,7.0,27.0,11.0,312.0,2.0,17.0,指标评价,Indicator evaluation,True,True,2019.0,5.0,27.0,2019|诊断评价|__aggregate__,2.0,False,True,False,True,22.15499782797526,False,,
+2019|诊断评价|材料检测,复合议程增强期,"Compound agenda
+intensification stage",2019,诊断评价,Diagnosis and evaluation,材料检测,Material testing,2,4,2018.86,5.32,#D7C600,16,12,1,2010,2022,13,21.35,7,True,False,0.0,7.0,27.0,11.0,312.0,2.0,17.0,指标评价,Indicator evaluation,True,True,2019.0,5.0,27.0,2019|诊断评价|__aggregate__,2.0,False,True,False,True,20.499999999999996,False,,
+2019|诊断评价|病害监测,复合议程增强期,"Compound agenda
+intensification stage",2019,诊断评价,Diagnosis and evaluation,病害监测,Deterioration monitoring,2,5,2018.58,4.68,#D7C600,26,12,1,2010,2022,13,22.8886273190299,5,True,False,0.0,7.0,27.0,11.0,312.0,2.0,17.0,指标评价,Indicator evaluation,True,True,2019.0,5.0,27.0,2019|诊断评价|__aggregate__,2.0,False,True,False,True,21.81882341631134,False,,
+2019|诊断评价|结构环境检测,复合议程增强期,"Compound agenda
+intensification stage",2019,诊断评价,Diagnosis and evaluation,结构环境检测,Structural-environmental testing,2,6,2019.42,4.68,#D7C600,24,12,1,2010,2022,13,22.608571279792898,6,True,False,0.0,7.0,27.0,11.0,312.0,2.0,17.0,指标评价,Indicator evaluation,True,True,2019.0,5.0,27.0,2019|诊断评价|__aggregate__,2.0,False,True,False,True,21.578775382679623,False,,
+2019|诊断评价|风险评价,复合议程增强期,"Compound agenda
+intensification stage",2019,诊断评价,Diagnosis and evaluation,风险评价,Risk assessment,2,7,2018.58,5.32,#D7C600,32,14,1,2009,2022,13,24.969595949289335,3,True,False,0.0,7.0,27.0,11.0,312.0,2.0,17.0,指标评价,Indicator evaluation,True,True,2019.0,5.0,27.0,2019|诊断评价|__aggregate__,2.0,False,True,False,True,23.88822509939085,False,,
+2019|机制解释|空间治理,复合议程增强期,"Compound agenda
+intensification stage",2019,机制解释,Mechanism explanation,空间治理,Spatial governance,9,1,2019.14,4.0,#3DAA3D,80,14,1,2009,2022,13,54.77198067399882,2,True,True,9.0,9.0,52.0,9.0,513.0,7.0,49.0,问卷访谈,Questionnaires and interviews,True,True,2019.0,4.0,52.0,2019|机制解释|__aggregate__,9.0,True,True,True,True,50.233126291998985,False,,
+2019|机制解释|问卷访谈,复合议程增强期,"Compound agenda
+intensification stage",2019,机制解释,Mechanism explanation,问卷访谈,Questionnaires and interviews,9,2,2018.86,4.0,#3DAA3D,88,15,1,2008,2022,13,56.0331641275056,1,True,True,9.0,9.0,52.0,9.0,513.0,7.0,49.0,问卷访谈,Questionnaires and interviews,True,True,2019.0,4.0,52.0,2019|机制解释|__aggregate__,9.0,True,True,True,True,51.45699782357623,True,1,high_centrality_ring_node
+2019|机制解释|公众参与,复合议程增强期,"Compound agenda
+intensification stage",2019,机制解释,Mechanism explanation,公众参与,Public participation,7,3,2019.14,3.68,#3DAA3D,80,15,1,2008,2022,13,48.22198067399882,3,True,True,7.0,9.0,52.0,9.0,513.0,7.0,49.0,问卷访谈,Questionnaires and interviews,True,True,2019.0,4.0,52.0,2019|机制解释|__aggregate__,7.0,True,True,True,True,44.53312629199899,False,,
+2019|机制解释|社区治理,复合议程增强期,"Compound agenda
+intensification stage",2019,机制解释,Mechanism explanation,社区治理,Community governance,7,4,2019.14,4.32,#3DAA3D,65,15,1,2008,2022,13,46.98716084761797,5,True,True,7.0,9.0,52.0,9.0,513.0,7.0,49.0,问卷访谈,Questionnaires and interviews,True,True,2019.0,4.0,52.0,2019|机制解释|__aggregate__,7.0,True,True,True,True,43.47470929795826,False,,
+2019|机制解释|空间形态,复合议程增强期,"Compound agenda
+intensification stage",2019,机制解释,Mechanism explanation,空间形态,Spatial morphology,7,5,2018.86,3.68,#3DAA3D,88,14,1,2009,2022,13,48.183164127505606,4,True,True,7.0,9.0,52.0,9.0,513.0,7.0,49.0,问卷访谈,Questionnaires and interviews,True,True,2019.0,4.0,52.0,2019|机制解释|__aggregate__,7.0,True,True,True,True,44.35699782357623,False,,
+2019|机制解释|工业更新,复合议程增强期,"Compound agenda
+intensification stage",2019,机制解释,Mechanism explanation,工业更新,Industrial renewal,5,6,2018.86,4.32,#3DAA3D,28,10,1,2008,2021,13,32.65810367098085,7,True,True,5.0,9.0,52.0,9.0,513.0,7.0,49.0,问卷访谈,Questionnaires and interviews,True,True,2019.0,4.0,52.0,2019|机制解释|__aggregate__,5.0,True,True,True,True,30.249803146555017,False,,
+2019|机制解释|文旅融合,复合议程增强期,"Compound agenda
+intensification stage",2019,机制解释,Mechanism explanation,文旅融合,Culture-tourism integration,5,7,2018.58,4.0,#3DAA3D,62,14,1,2009,2022,13,38.87361102361653,6,True,True,5.0,9.0,52.0,9.0,513.0,7.0,49.0,问卷访谈,Questionnaires and interviews,True,True,2019.0,4.0,52.0,2019|机制解释|__aggregate__,5.0,True,True,True,True,36.14880944881417,False,,
+2019|机制解释|参与式调查,复合议程增强期,"Compound agenda
+intensification stage",2019,机制解释,Mechanism explanation,参与式调查,Participatory survey,2,8,2019.42,4.0,#3DAA3D,11,8,1,2009,2022,13,17.79327470649756,8,True,False,0.0,9.0,52.0,9.0,513.0,7.0,49.0,问卷访谈,Questionnaires and interviews,True,True,2019.0,4.0,52.0,2019|机制解释|__aggregate__,2.0,False,True,False,True,16.87994974842648,False,,
+2019|机制解释|韧性适应,复合议程增强期,"Compound agenda
+intensification stage",2019,机制解释,Mechanism explanation,韧性适应,Resilience adaptation,1,9,2018.58,3.68,#3DAA3D,11,8,1,2009,2021,13,14.193274706497558,9,True,False,0.0,9.0,52.0,9.0,513.0,7.0,49.0,问卷访谈,Questionnaires and interviews,True,True,2019.0,4.0,52.0,2019|机制解释|__aggregate__,1.0,False,False,False,True,13.679949748426479,False,,
+2019|预测模拟|情景模拟,复合议程增强期,"Compound agenda
+intensification stage",2019,预测模拟,Prediction and simulation,情景模拟,Scenario simulation,3,1,2019.0,2.68,#10B981,35,14,1,2009,2022,13,28.93251169633946,1,True,True,3.0,2.0,4.0,3.0,49.0,1.0,3.0,情景模拟,Scenario simulation,False,False,2019.0,2.68,3.0,2019|预测模拟|情景模拟,3.0,True,True,True,True,27.39929573971954,False,,
+2019|预测模拟|机器学习,复合议程增强期,"Compound agenda
+intensification stage",2019,预测模拟,Prediction and simulation,机器学习,Machine learning,1,2,2018.58,2.68,#10B981,14,11,1,2008,2022,13,16.73832034148352,2,True,False,0.0,2.0,4.0,3.0,49.0,1.0,3.0,情景模拟,Scenario simulation,False,False,2018.58,2.68,1.0,2019|预测模拟|机器学习,1.0,False,False,False,False,16.289988864128727,False,,
+2019|干预决策|保护修复,复合议程增强期,"Compound agenda
+intensification stage",2019,干预决策,Intervention and decision,保护修复,Conservation and restoration,11,1,2019.0,1.68,#1BA6C9,97,14,1,2008,2022,13,63.23840092251455,1,True,True,11.0,4.0,29.0,11.0,286.0,3.0,27.0,保护修复,Conservation and restoration,True,True,2019.0,2.0,29.0,2019|干预决策|__aggregate__,11.0,True,True,True,True,57.71862936215532,True,2,high_centrality_ring_node
+2019|干预决策|活化利用,复合议程增强期,"Compound agenda
+intensification stage",2019,干预决策,Intervention and decision,活化利用,Revitalization and use,10,2,2019.0,2.32,#1BA6C9,102,15,1,2008,2022,13,60.6393069137069,2,True,True,10.0,4.0,29.0,11.0,286.0,3.0,27.0,保护修复,Conservation and restoration,True,True,2019.0,2.0,29.0,2019|干预决策|__aggregate__,10.0,True,True,True,True,55.51940592603449,False,,
+2019|干预决策|区域保护,复合议程增强期,"Compound agenda
+intensification stage",2019,干预决策,Intervention and decision,区域保护,Regional conservation,6,3,2018.58,1.68,#1BA6C9,60,14,1,2009,2022,13,42.29435336938077,3,True,True,6.0,4.0,29.0,11.0,286.0,3.0,27.0,保护修复,Conservation and restoration,True,True,2019.0,2.0,29.0,2019|干预决策|__aggregate__,6.0,True,True,True,True,39.1951600308978,False,,
+2019|干预决策|预防保护,复合议程增强期,"Compound agenda
+intensification stage",2019,干预决策,Intervention and decision,预防保护,Preventive conservation,2,4,2019.42,1.68,#1BA6C9,27,13,1,2010,2022,13,23.674613391789286,4,True,False,0.0,4.0,29.0,11.0,286.0,3.0,27.0,保护修复,Conservation and restoration,True,True,2019.0,2.0,29.0,2019|干预决策|__aggregate__,2.0,False,True,False,True,22.63538290724796,False,,
+2019|工具平台|信息平台,复合议程增强期,"Compound agenda
+intensification stage",2019,工具平台,Tools and platforms,信息平台,Information platform,5,1,2019.0,0.6799999999999999,#2E73D2,61,12,1,2008,2021,13,37.484349546269314,1,True,True,5.0,3.0,10.0,5.0,115.0,2.0,9.0,信息平台,Information platform,False,False,2019.0,0.6799999999999999,5.0,2019|工具平台|信息平台,5.0,True,True,True,True,34.67229961108798,False,,
+2019|工具平台|数字孪生,复合议程增强期,"Compound agenda
+intensification stage",2019,工具平台,Tools and platforms,数字孪生,Digital twin,4,2,2018.58,0.6799999999999999,#2E73D2,29,9,1,2012,2021,13,28.539230729988304,2,True,True,4.0,3.0,10.0,5.0,115.0,2.0,9.0,信息平台,Information platform,False,False,2018.58,0.6799999999999999,4.0,2019|工具平台|数字孪生,4.0,True,True,True,True,26.462197768561406,False,,
+2019|工具平台|智能识别,复合议程增强期,"Compound agenda
+intensification stage",2019,工具平台,Tools and platforms,智能识别,Intelligent recognition,1,3,2019.42,0.6799999999999999,#2E73D2,25,13,1,2008,2022,13,19.8,3,True,False,0.0,3.0,10.0,5.0,115.0,2.0,9.0,信息平台,Information platform,False,False,2019.42,0.6799999999999999,1.0,2019|工具平台|智能识别,1.0,False,False,False,False,19.199999999999996,False,,
+2019|综合|Integrated synthesis,复合议程增强期,"Compound agenda
+intensification stage",2019,综合,Integrated,Integrated synthesis,Integrated synthesis,3,1,2019.0,0.0,#6F58C9,12,6,1,2014,2021,13,20.299742261192854,1,True,False,0.0,1.0,3.0,3.0,12.0,0.0,0.0,,,False,False,2019.0,0.0,3.0,2019|综合|Integrated synthesis,3.0,False,True,False,False,18.856921938165303,False,,
+2020|记录描述|文献档案,复合议程增强期,"Compound agenda
+intensification stage",2020,记录描述,Recording and description,文献档案,Literature and archives,9,1,2020.0,6.68,#D65F5F,113,14,1,2008,2022,13,57.13220413782851,1,True,True,9.0,5.0,22.0,9.0,254.0,4.0,20.0,文献档案,Literature and archives,True,True,2020.0,7.0,22.0,2020|记录描述|__aggregate__,9.0,True,True,True,True,52.256174975281574,False,,
+2020|记录描述|历史图像,复合议程增强期,"Compound agenda
+intensification stage",2020,记录描述,Recording and description,历史图像,Historical imagery,4,2,2020.0,7.32,#D65F5F,29,11,1,2010,2022,13,29.8392307299883,3,True,True,4.0,5.0,22.0,9.0,254.0,4.0,20.0,文献档案,Literature and archives,True,True,2020.0,7.0,22.0,2020|记录描述|__aggregate__,4.0,True,True,True,True,27.862197768561405,False,,
+2020|记录描述|遥感分析,复合议程增强期,"Compound agenda
+intensification stage",2020,记录描述,Recording and description,遥感分析,Remote sensing,4,3,2019.58,6.68,#D65F5F,38,13,1,2009,2021,13,32.23017960415657,2,True,True,4.0,5.0,22.0,9.0,254.0,4.0,20.0,文献档案,Literature and archives,True,True,2020.0,7.0,22.0,2020|记录描述|__aggregate__,4.0,True,True,True,True,30.19729680356277,False,,
+2020|记录描述|三维建模,复合议程增强期,"Compound agenda
+intensification stage",2020,记录描述,Recording and description,三维建模,3D modeling,3,4,2020.42,6.68,#D65F5F,32,9,1,2012,2021,13,25.319595949289337,5,True,True,3.0,5.0,22.0,9.0,254.0,4.0,20.0,文献档案,Literature and archives,True,True,2020.0,7.0,22.0,2020|记录描述|__aggregate__,3.0,True,True,True,True,23.588225099390858,False,,
+2020|记录描述|数字采集,复合议程增强期,"Compound agenda
+intensification stage",2020,记录描述,Recording and description,数字采集,Digital acquisition,2,5,2019.58,7.32,#D65F5F,42,13,1,2008,2021,13,25.473036977771002,4,True,False,0.0,5.0,22.0,9.0,254.0,4.0,20.0,文献档案,Literature and archives,True,True,2020.0,7.0,22.0,2020|记录描述|__aggregate__,2.0,False,True,False,True,24.176888838089432,False,,
+2020|意义阐释|意义阐释,复合议程增强期,"Compound agenda
+intensification stage",2020,意义阐释,Meaning interpretation,意义阐释,Meaning interpretation,8,1,2020.0,5.68,#E68A2E,101,14,1,2008,2022,13,52.71982586956925,1,True,True,8.0,3.0,21.0,8.0,242.0,3.0,21.0,意义阐释,Meaning interpretation,True,True,2020.0,6.0,21.0,2020|意义阐释|__aggregate__,8.0,True,True,True,True,48.359850745345064,False,,
+2020|意义阐释|公众感知,复合议程增强期,"Compound agenda
+intensification stage",2020,意义阐释,Meaning interpretation,公众感知,Public perception,7,2,2019.58,5.68,#E68A2E,63,15,1,2008,2022,13,46.81215550647128,2,True,True,7.0,3.0,21.0,8.0,242.0,3.0,21.0,意义阐释,Meaning interpretation,True,True,2020.0,6.0,21.0,2020|意义阐释|__aggregate__,7.0,True,True,True,True,43.324704719832525,False,,
+2020|意义阐释|理论阐释,复合议程增强期,"Compound agenda
+intensification stage",2020,意义阐释,Meaning interpretation,理论阐释,Theoretical interpretation,6,3,2020.42,5.68,#E68A2E,78,14,1,2008,2022,13,43.81446521285899,3,True,True,6.0,3.0,21.0,8.0,242.0,3.0,21.0,意义阐释,Meaning interpretation,True,True,2020.0,6.0,21.0,2020|意义阐释|__aggregate__,6.0,True,True,True,True,40.49811303959341,False,,
+2020|诊断评价|价值评价,复合议程增强期,"Compound agenda
+intensification stage",2020,诊断评价,Diagnosis and evaluation,价值评价,Value assessment,6,1,2020.14,4.68,#D7C600,91,15,1,2008,2022,13,45.45514881983724,2,True,True,6.0,7.0,19.0,6.0,312.0,2.0,12.0,指标评价,Indicator evaluation,True,True,2020.0,5.0,19.0,2020|诊断评价|__aggregate__,6.0,True,True,True,True,42.04727041700335,False,,
+2020|诊断评价|指标评价,复合议程增强期,"Compound agenda
+intensification stage",2020,诊断评价,Diagnosis and evaluation,指标评价,Indicator evaluation,6,2,2020.14,5.32,#D7C600,100,15,1,2008,2022,13,46.1,1,True,True,6.0,7.0,19.0,6.0,312.0,2.0,12.0,指标评价,Indicator evaluation,True,True,2020.0,5.0,19.0,2020|诊断评价|__aggregate__,6.0,True,True,True,True,42.6,False,,
+2020|诊断评价|结构环境检测,复合议程增强期,"Compound agenda
+intensification stage",2020,诊断评价,Diagnosis and evaluation,结构环境检测,Structural-environmental testing,2,3,2019.86,4.68,#D7C600,24,12,1,2010,2022,13,22.608571279792898,4,True,False,0.0,7.0,19.0,6.0,312.0,2.0,12.0,指标评价,Indicator evaluation,True,True,2020.0,5.0,19.0,2020|诊断评价|__aggregate__,2.0,False,True,False,True,21.578775382679623,False,,
+2020|诊断评价|风险评价,复合议程增强期,"Compound agenda
+intensification stage",2020,诊断评价,Diagnosis and evaluation,风险评价,Risk assessment,2,4,2019.86,5.32,#D7C600,32,14,1,2009,2022,13,24.969595949289335,3,True,False,0.0,7.0,19.0,6.0,312.0,2.0,12.0,指标评价,Indicator evaluation,True,True,2020.0,5.0,19.0,2020|诊断评价|__aggregate__,2.0,False,True,False,True,23.88822509939085,False,,
+2020|诊断评价|本体安全,复合议程增强期,"Compound agenda
+intensification stage",2020,诊断评价,Diagnosis and evaluation,本体安全,Fabric safety,1,5,2019.58,4.68,#D7C600,23,13,1,2010,2022,13,19.51416413263781,5,True,False,0.0,7.0,19.0,6.0,312.0,2.0,12.0,指标评价,Indicator evaluation,True,True,2020.0,5.0,19.0,2020|诊断评价|__aggregate__,1.0,False,False,False,True,18.954997827975262,False,,
+2020|诊断评价|材料检测,复合议程增强期,"Compound agenda
+intensification stage",2020,诊断评价,Diagnosis and evaluation,材料检测,Material testing,1,6,2020.42,4.68,#D7C600,16,12,1,2010,2022,13,17.75,7,True,False,0.0,7.0,19.0,6.0,312.0,2.0,12.0,指标评价,Indicator evaluation,True,True,2020.0,5.0,19.0,2020|诊断评价|__aggregate__,1.0,False,False,False,True,17.299999999999997,False,,
+2020|诊断评价|病害监测,复合议程增强期,"Compound agenda
+intensification stage",2020,诊断评价,Diagnosis and evaluation,病害监测,Deterioration monitoring,1,7,2019.58,5.32,#D7C600,26,12,1,2010,2022,13,19.2886273190299,6,True,False,0.0,7.0,19.0,6.0,312.0,2.0,12.0,指标评价,Indicator evaluation,True,True,2020.0,5.0,19.0,2020|诊断评价|__aggregate__,1.0,False,False,False,True,18.618823416311336,False,,
+2020|机制解释|公众参与,复合议程增强期,"Compound agenda
+intensification stage",2020,机制解释,Mechanism explanation,公众参与,Public participation,8,1,2020.14,4.0,#3DAA3D,80,15,1,2008,2022,13,51.82198067399882,1,True,True,8.0,10.0,37.0,8.0,530.0,6.0,32.0,公众参与,Public participation,True,True,2020.0,4.0,37.0,2020|机制解释|__aggregate__,8.0,True,True,True,True,47.73312629199899,True,1,high_centrality_ring_node
+2020|机制解释|问卷访谈,复合议程增强期,"Compound agenda
+intensification stage",2020,机制解释,Mechanism explanation,问卷访谈,Questionnaires and interviews,7,2,2019.86,4.0,#3DAA3D,88,15,1,2008,2022,13,48.833164127505604,2,True,True,7.0,10.0,37.0,8.0,530.0,6.0,32.0,公众参与,Public participation,True,True,2020.0,4.0,37.0,2020|机制解释|__aggregate__,7.0,True,True,True,True,45.05699782357623,False,,
+2020|机制解释|社区治理,复合议程增强期,"Compound agenda
+intensification stage",2020,机制解释,Mechanism explanation,社区治理,Community governance,6,3,2020.14,3.68,#3DAA3D,65,15,1,2008,2022,13,43.38716084761797,3,True,True,6.0,10.0,37.0,8.0,530.0,6.0,32.0,公众参与,Public participation,True,True,2020.0,4.0,37.0,2020|机制解释|__aggregate__,6.0,True,True,True,True,40.27470929795826,False,,
+2020|机制解释|文旅融合,复合议程增强期,"Compound agenda
+intensification stage",2020,机制解释,Mechanism explanation,文旅融合,Culture-tourism integration,4,4,2020.14,4.32,#3DAA3D,62,14,1,2009,2022,13,35.27361102361654,5,True,True,4.0,10.0,37.0,8.0,530.0,6.0,32.0,公众参与,Public participation,True,True,2020.0,4.0,37.0,2020|机制解释|__aggregate__,4.0,True,True,True,True,32.94880944881417,False,,
+2020|机制解释|空间治理,复合议程增强期,"Compound agenda
+intensification stage",2020,机制解释,Mechanism explanation,空间治理,Spatial governance,4,5,2019.86,3.68,#3DAA3D,80,14,1,2009,2022,13,36.771980673998826,4,True,True,4.0,10.0,37.0,8.0,530.0,6.0,32.0,公众参与,Public participation,True,True,2020.0,4.0,37.0,2020|机制解释|__aggregate__,4.0,True,True,True,True,34.233126291998985,False,,
+2020|机制解释|空间形态,复合议程增强期,"Compound agenda
+intensification stage",2020,机制解释,Mechanism explanation,空间形态,Spatial morphology,3,6,2019.86,4.32,#3DAA3D,88,14,1,2009,2022,13,33.78316412750561,6,True,True,3.0,10.0,37.0,8.0,530.0,6.0,32.0,公众参与,Public participation,True,True,2020.0,4.0,37.0,2020|机制解释|__aggregate__,3.0,True,True,True,True,31.556997823576232,False,,
+2020|机制解释|韧性适应,复合议程增强期,"Compound agenda
+intensification stage",2020,机制解释,Mechanism explanation,韧性适应,Resilience adaptation,2,7,2019.58,4.0,#3DAA3D,11,8,1,2009,2021,13,17.79327470649756,8,True,False,0.0,10.0,37.0,8.0,530.0,6.0,32.0,公众参与,Public participation,True,True,2020.0,4.0,37.0,2020|机制解释|__aggregate__,2.0,False,True,False,True,16.87994974842648,False,,
+2020|机制解释|参与式调查,复合议程增强期,"Compound agenda
+intensification stage",2020,机制解释,Mechanism explanation,参与式调查,Participatory survey,1,8,2020.42,4.0,#3DAA3D,11,8,1,2009,2022,13,14.193274706497558,10,True,False,0.0,10.0,37.0,8.0,530.0,6.0,32.0,公众参与,Public participation,True,True,2020.0,4.0,37.0,2020|机制解释|__aggregate__,1.0,False,False,False,True,13.679949748426479,False,,
+2020|机制解释|工业更新,复合议程增强期,"Compound agenda
+intensification stage",2020,机制解释,Mechanism explanation,工业更新,Industrial renewal,1,9,2019.58,3.68,#3DAA3D,28,10,1,2008,2021,13,18.25810367098085,7,True,False,0.0,10.0,37.0,8.0,530.0,6.0,32.0,公众参与,Public participation,True,True,2020.0,4.0,37.0,2020|机制解释|__aggregate__,1.0,False,False,False,True,17.449803146555016,False,,
+2020|机制解释|生态安全,复合议程增强期,"Compound agenda
+intensification stage",2020,机制解释,Mechanism explanation,生态安全,Ecological security,1,10,2020.42,3.68,#3DAA3D,17,11,1,2009,2021,13,17.272347875864725,9,True,False,0.0,10.0,37.0,8.0,530.0,6.0,32.0,公众参与,Public participation,True,True,2020.0,4.0,37.0,2020|机制解释|__aggregate__,1.0,False,False,False,True,16.74772675074119,False,,
+2020|预测模拟|情景模拟,复合议程增强期,"Compound agenda
+intensification stage",2020,预测模拟,Prediction and simulation,情景模拟,Scenario simulation,3,1,2020.0,2.68,#10B981,35,14,1,2009,2022,13,28.93251169633946,1,True,True,3.0,3.0,6.0,3.0,77.0,1.0,3.0,情景模拟,Scenario simulation,False,False,2020.0,2.68,3.0,2020|预测模拟|情景模拟,3.0,True,True,True,True,27.39929573971954,False,,
+2020|预测模拟|风险预警,复合议程增强期,"Compound agenda
+intensification stage",2020,预测模拟,Prediction and simulation,风险预警,Risk warning,2,2,2019.58,2.68,#10B981,28,12,1,2009,2022,13,23.158103670980854,2,True,False,0.0,3.0,6.0,3.0,77.0,1.0,3.0,情景模拟,Scenario simulation,False,False,2019.58,2.68,2.0,2020|预测模拟|风险预警,2.0,False,True,False,False,22.049803146555014,False,,
+2020|预测模拟|机器学习,复合议程增强期,"Compound agenda
+intensification stage",2020,预测模拟,Prediction and simulation,机器学习,Machine learning,1,3,2020.42,2.68,#10B981,14,11,1,2008,2022,13,16.73832034148352,3,True,False,0.0,3.0,6.0,3.0,77.0,1.0,3.0,情景模拟,Scenario simulation,False,False,2020.42,2.68,1.0,2020|预测模拟|机器学习,1.0,False,False,False,False,16.289988864128727,False,,
+2020|干预决策|活化利用,复合议程增强期,"Compound agenda
+intensification stage",2020,干预决策,Intervention and decision,活化利用,Revitalization and use,7,1,2020.0,1.68,#1BA6C9,102,15,1,2008,2022,13,49.839306913706906,1,True,True,7.0,4.0,15.0,7.0,286.0,3.0,14.0,活化利用,Revitalization and use,False,False,2020.0,1.68,7.0,2020|干预决策|活化利用,7.0,True,True,True,True,45.91940592603449,False,,
+2020|干预决策|保护修复,复合议程增强期,"Compound agenda
+intensification stage",2020,干预决策,Intervention and decision,保护修复,Conservation and restoration,4,2,2020.0,2.32,#1BA6C9,97,14,1,2008,2022,13,38.03840092251455,2,True,True,4.0,4.0,15.0,7.0,286.0,3.0,14.0,活化利用,Revitalization and use,False,False,2020.0,2.32,4.0,2020|干预决策|保护修复,4.0,True,True,True,True,35.31862936215532,False,,
+2020|干预决策|区域保护,复合议程增强期,"Compound agenda
+intensification stage",2020,干预决策,Intervention and decision,区域保护,Regional conservation,3,3,2019.58,1.68,#1BA6C9,60,14,1,2009,2022,13,31.494353369380768,3,True,True,3.0,4.0,15.0,7.0,286.0,3.0,14.0,活化利用,Revitalization and use,False,False,2019.58,1.68,3.0,2020|干预决策|区域保护,3.0,True,True,True,True,29.5951600308978,False,,
+2020|干预决策|预防保护,复合议程增强期,"Compound agenda
+intensification stage",2020,干预决策,Intervention and decision,预防保护,Preventive conservation,1,4,2020.42,1.68,#1BA6C9,27,13,1,2010,2022,13,20.074613391789285,4,True,False,0.0,4.0,15.0,7.0,286.0,3.0,14.0,活化利用,Revitalization and use,False,False,2020.42,1.68,1.0,2020|干预决策|预防保护,1.0,False,False,False,False,19.435382907247956,False,,
+2020|工具平台|信息平台,复合议程增强期,"Compound agenda
+intensification stage",2020,工具平台,Tools and platforms,信息平台,Information platform,3,1,2020.0,0.6799999999999999,#2E73D2,61,12,1,2008,2021,13,30.284349546269315,1,True,True,3.0,3.0,8.0,3.0,115.0,2.0,6.0,信息平台,Information platform,False,False,2020.0,0.6799999999999999,3.0,2020|工具平台|信息平台,3.0,True,True,True,True,28.27229961108798,False,,
+2020|工具平台|数字孪生,复合议程增强期,"Compound agenda
+intensification stage",2020,工具平台,Tools and platforms,数字孪生,Digital twin,3,2,2019.58,0.6799999999999999,#2E73D2,29,9,1,2012,2021,13,24.939230729988306,2,True,True,3.0,3.0,8.0,3.0,115.0,2.0,6.0,信息平台,Information platform,False,False,2019.58,0.6799999999999999,3.0,2020|工具平台|数字孪生,3.0,True,True,True,True,23.262197768561403,False,,
+2020|工具平台|智能识别,复合议程增强期,"Compound agenda
+intensification stage",2020,工具平台,Tools and platforms,智能识别,Intelligent recognition,2,3,2020.42,0.6799999999999999,#2E73D2,25,13,1,2008,2022,13,23.4,3,True,False,0.0,3.0,8.0,3.0,115.0,2.0,6.0,信息平台,Information platform,False,False,2020.42,0.6799999999999999,2.0,2020|工具平台|智能识别,2.0,False,True,False,False,22.4,False,,
+2020|综合|Integrated synthesis,复合议程增强期,"Compound agenda
+intensification stage",2020,综合,Integrated,Integrated synthesis,Integrated synthesis,1,1,2020.0,0.0,#6F58C9,12,6,1,2014,2021,13,13.099742261192857,1,True,False,0.0,1.0,1.0,1.0,12.0,0.0,0.0,,,False,False,2020.0,0.0,1.0,2020|综合|Integrated synthesis,1.0,False,False,False,False,12.456921938165305,False,,
+2021|记录描述|文献档案,复合议程增强期,"Compound agenda
+intensification stage",2021,记录描述,Recording and description,文献档案,Literature and archives,13,1,2021.0,6.68,#D65F5F,113,14,1,2008,2022,13,71.53220413782851,1,True,True,13.0,6.0,45.0,13.0,273.0,6.0,45.0,文献档案,Literature and archives,True,True,2021.0,7.0,45.0,2021|记录描述|__aggregate__,13.0,True,True,True,True,65.05617497528159,True,1,high_centrality_ring_node
+2021|记录描述|历史图像,复合议程增强期,"Compound agenda
+intensification stage",2021,记录描述,Recording and description,历史图像,Historical imagery,9,2,2021.0,7.32,#D65F5F,29,11,1,2010,2022,13,47.8392307299883,2,True,True,9.0,6.0,45.0,13.0,273.0,6.0,45.0,文献档案,Literature and archives,True,True,2021.0,7.0,45.0,2021|记录描述|__aggregate__,9.0,True,True,True,True,43.86219776856141,False,,
+2021|记录描述|三维建模,复合议程增强期,"Compound agenda
+intensification stage",2021,记录描述,Recording and description,三维建模,3D modeling,7,3,2020.58,6.68,#D65F5F,32,9,1,2012,2021,13,39.719595949289335,4,True,True,7.0,6.0,45.0,13.0,273.0,6.0,45.0,文献档案,Literature and archives,True,True,2021.0,7.0,45.0,2021|记录描述|__aggregate__,7.0,True,True,True,True,36.38822509939086,False,,
+2021|记录描述|数字采集,复合议程增强期,"Compound agenda
+intensification stage",2021,记录描述,Recording and description,数字采集,Digital acquisition,6,4,2021.42,6.68,#D65F5F,42,13,1,2008,2021,13,39.87303697777101,3,True,True,6.0,6.0,45.0,13.0,273.0,6.0,45.0,文献档案,Literature and archives,True,True,2021.0,7.0,45.0,2021|记录描述|__aggregate__,6.0,True,True,True,True,36.97688883808944,False,,
+2021|记录描述|点云测绘,复合议程增强期,"Compound agenda
+intensification stage",2021,记录描述,Recording and description,点云测绘,Point-cloud surveying,6,5,2020.58,7.32,#D65F5F,19,7,1,2012,2021,13,33.00245852095694,5,True,True,6.0,6.0,45.0,13.0,273.0,6.0,45.0,文献档案,Literature and archives,True,True,2021.0,7.0,45.0,2021|记录描述|__aggregate__,6.0,True,True,True,True,30.23067873224881,False,,
+2021|记录描述|遥感分析,复合议程增强期,"Compound agenda
+intensification stage",2021,记录描述,Recording and description,遥感分析,Remote sensing,4,6,2021.42,7.32,#D65F5F,38,13,1,2009,2021,13,32.23017960415657,6,True,True,4.0,6.0,45.0,13.0,273.0,6.0,45.0,文献档案,Literature and archives,True,True,2021.0,7.0,45.0,2021|记录描述|__aggregate__,4.0,True,True,True,True,30.19729680356277,False,,
+2021|意义阐释|意义阐释,复合议程增强期,"Compound agenda
+intensification stage",2021,意义阐释,Meaning interpretation,意义阐释,Meaning interpretation,13,1,2021.0,5.68,#E68A2E,101,14,1,2008,2022,13,70.71982586956925,1,True,True,13.0,3.0,33.0,13.0,242.0,3.0,33.0,意义阐释,Meaning interpretation,True,True,2021.0,6.0,33.0,2021|意义阐释|__aggregate__,13.0,True,True,True,True,64.35985074534507,True,1,high_centrality_ring_node
+2021|意义阐释|理论阐释,复合议程增强期,"Compound agenda
+intensification stage",2021,意义阐释,Meaning interpretation,理论阐释,Theoretical interpretation,12,2,2020.58,5.68,#E68A2E,78,14,1,2008,2022,13,65.41446521285899,2,True,True,12.0,3.0,33.0,13.0,242.0,3.0,33.0,意义阐释,Meaning interpretation,True,True,2021.0,6.0,33.0,2021|意义阐释|__aggregate__,12.0,True,True,True,True,59.698113039593416,True,2,top_tag_within_stage_function
+2021|意义阐释|公众感知,复合议程增强期,"Compound agenda
+intensification stage",2021,意义阐释,Meaning interpretation,公众感知,Public perception,8,3,2021.42,5.68,#E68A2E,63,15,1,2008,2022,13,50.41215550647128,3,True,True,8.0,3.0,33.0,13.0,242.0,3.0,33.0,意义阐释,Meaning interpretation,True,True,2021.0,6.0,33.0,2021|意义阐释|__aggregate__,8.0,True,True,True,True,46.52470471983253,False,,
+2021|诊断评价|价值评价,复合议程增强期,"Compound agenda
+intensification stage",2021,诊断评价,Diagnosis and evaluation,价值评价,Value assessment,12,1,2021.14,4.68,#D7C600,91,15,1,2008,2022,13,67.05514881983724,1,True,True,12.0,7.0,31.0,12.0,312.0,3.0,25.0,价值评价,Value assessment,True,True,2021.0,5.0,31.0,2021|诊断评价|__aggregate__,12.0,True,True,True,True,61.24727041700335,True,2,high_centrality_ring_node
+2021|诊断评价|指标评价,复合议程增强期,"Compound agenda
+intensification stage",2021,诊断评价,Diagnosis and evaluation,指标评价,Indicator evaluation,10,2,2021.14,5.32,#D7C600,100,15,1,2008,2022,13,60.5,2,True,True,10.0,7.0,31.0,12.0,312.0,3.0,25.0,价值评价,Value assessment,True,True,2021.0,5.0,31.0,2021|诊断评价|__aggregate__,10.0,True,True,True,True,55.4,False,,
+2021|诊断评价|结构环境检测,复合议程增强期,"Compound agenda
+intensification stage",2021,诊断评价,Diagnosis and evaluation,结构环境检测,Structural-environmental testing,3,3,2020.86,4.68,#D7C600,24,12,1,2010,2022,13,26.2085712797929,3,True,True,3.0,7.0,31.0,12.0,312.0,3.0,25.0,价值评价,Value assessment,True,True,2021.0,5.0,31.0,2021|诊断评价|__aggregate__,3.0,True,True,True,True,24.778775382679626,False,,
+2021|诊断评价|病害监测,复合议程增强期,"Compound agenda
+intensification stage",2021,诊断评价,Diagnosis and evaluation,病害监测,Deterioration monitoring,2,4,2020.86,5.32,#D7C600,26,12,1,2010,2022,13,22.8886273190299,5,True,False,0.0,7.0,31.0,12.0,312.0,3.0,25.0,价值评价,Value assessment,True,True,2021.0,5.0,31.0,2021|诊断评价|__aggregate__,2.0,False,True,False,True,21.81882341631134,False,,
+2021|诊断评价|风险评价,复合议程增强期,"Compound agenda
+intensification stage",2021,诊断评价,Diagnosis and evaluation,风险评价,Risk assessment,2,5,2020.58,4.68,#D7C600,32,14,1,2009,2022,13,24.969595949289335,4,True,False,0.0,7.0,31.0,12.0,312.0,3.0,25.0,价值评价,Value assessment,True,True,2021.0,5.0,31.0,2021|诊断评价|__aggregate__,2.0,False,True,False,True,23.88822509939085,False,,
+2021|诊断评价|本体安全,复合议程增强期,"Compound agenda
+intensification stage",2021,诊断评价,Diagnosis and evaluation,本体安全,Fabric safety,1,6,2021.42,4.68,#D7C600,23,13,1,2010,2022,13,19.51416413263781,6,True,False,0.0,7.0,31.0,12.0,312.0,3.0,25.0,价值评价,Value assessment,True,True,2021.0,5.0,31.0,2021|诊断评价|__aggregate__,1.0,False,False,False,True,18.954997827975262,False,,
+2021|诊断评价|材料检测,复合议程增强期,"Compound agenda
+intensification stage",2021,诊断评价,Diagnosis and evaluation,材料检测,Material testing,1,7,2020.58,5.32,#D7C600,16,12,1,2010,2022,13,17.75,7,True,False,0.0,7.0,31.0,12.0,312.0,3.0,25.0,价值评价,Value assessment,True,True,2021.0,5.0,31.0,2021|诊断评价|__aggregate__,1.0,False,False,False,True,17.299999999999997,False,,
+2021|机制解释|空间形态,复合议程增强期,"Compound agenda
+intensification stage",2021,机制解释,Mechanism explanation,空间形态,Spatial morphology,12,1,2021.14,4.0,#3DAA3D,88,14,1,2009,2022,13,66.1831641275056,1,True,True,12.0,10.0,67.0,12.0,530.0,7.0,62.0,空间形态,Spatial morphology,True,True,2021.0,4.0,67.0,2021|机制解释|__aggregate__,12.0,True,True,True,True,60.35699782357623,True,1,high_centrality_ring_node
+2021|机制解释|空间治理,复合议程增强期,"Compound agenda
+intensification stage",2021,机制解释,Mechanism explanation,空间治理,Spatial governance,11,2,2020.86,4.0,#3DAA3D,80,14,1,2009,2022,13,61.97198067399882,2,True,True,11.0,10.0,67.0,12.0,530.0,7.0,62.0,空间形态,Spatial morphology,True,True,2021.0,4.0,67.0,2021|机制解释|__aggregate__,11.0,True,True,True,True,56.63312629199899,False,,
+2021|机制解释|公众参与,复合议程增强期,"Compound agenda
+intensification stage",2021,机制解释,Mechanism explanation,公众参与,Public participation,10,3,2021.14,3.68,#3DAA3D,80,15,1,2008,2022,13,59.021980673998826,4,True,True,10.0,10.0,67.0,12.0,530.0,7.0,62.0,空间形态,Spatial morphology,True,True,2021.0,4.0,67.0,2021|机制解释|__aggregate__,10.0,True,True,True,True,54.13312629199899,True,2,top_tag_within_stage_function
+2021|机制解释|问卷访谈,复合议程增强期,"Compound agenda
+intensification stage",2021,机制解释,Mechanism explanation,问卷访谈,Questionnaires and interviews,10,4,2021.14,4.32,#3DAA3D,88,15,1,2008,2022,13,59.6331641275056,3,True,True,10.0,10.0,67.0,12.0,530.0,7.0,62.0,空间形态,Spatial morphology,True,True,2021.0,4.0,67.0,2021|机制解释|__aggregate__,10.0,True,True,True,True,54.656997823576226,True,1,top_tag_within_stage_function
+2021|机制解释|文旅融合,复合议程增强期,"Compound agenda
+intensification stage",2021,机制解释,Mechanism explanation,文旅融合,Culture-tourism integration,8,5,2020.86,3.68,#3DAA3D,62,14,1,2009,2022,13,49.67361102361654,5,True,True,8.0,10.0,67.0,12.0,530.0,7.0,62.0,空间形态,Spatial morphology,True,True,2021.0,4.0,67.0,2021|机制解释|__aggregate__,8.0,True,True,True,True,45.74880944881417,False,,
+2021|机制解释|社区治理,复合议程增强期,"Compound agenda
+intensification stage",2021,机制解释,Mechanism explanation,社区治理,Community governance,7,6,2020.86,4.32,#3DAA3D,65,15,1,2008,2022,13,46.98716084761797,6,True,True,7.0,10.0,67.0,12.0,530.0,7.0,62.0,空间形态,Spatial morphology,True,True,2021.0,4.0,67.0,2021|机制解释|__aggregate__,7.0,True,True,True,True,43.47470929795826,False,,
+2021|机制解释|工业更新,复合议程增强期,"Compound agenda
+intensification stage",2021,机制解释,Mechanism explanation,工业更新,Industrial renewal,4,7,2020.58,4.0,#3DAA3D,28,10,1,2008,2021,13,29.058103670980856,7,True,True,4.0,10.0,67.0,12.0,530.0,7.0,62.0,空间形态,Spatial morphology,True,True,2021.0,4.0,67.0,2021|机制解释|__aggregate__,4.0,True,True,True,True,27.049803146555018,False,,
+2021|机制解释|参与式调查,复合议程增强期,"Compound agenda
+intensification stage",2021,机制解释,Mechanism explanation,参与式调查,Participatory survey,3,8,2021.42,4.0,#3DAA3D,11,8,1,2009,2022,13,21.39327470649756,8,True,False,0.0,10.0,67.0,12.0,530.0,7.0,62.0,空间形态,Spatial morphology,True,True,2021.0,4.0,67.0,2021|机制解释|__aggregate__,3.0,False,True,False,True,20.07994974842648,False,,
+2021|机制解释|生态安全,复合议程增强期,"Compound agenda
+intensification stage",2021,机制解释,Mechanism explanation,生态安全,Ecological security,1,9,2020.58,3.68,#3DAA3D,17,11,1,2009,2021,13,17.272347875864725,9,True,False,0.0,10.0,67.0,12.0,530.0,7.0,62.0,空间形态,Spatial morphology,True,True,2021.0,4.0,67.0,2021|机制解释|__aggregate__,1.0,False,False,False,True,16.74772675074119,False,,
+2021|机制解释|韧性适应,复合议程增强期,"Compound agenda
+intensification stage",2021,机制解释,Mechanism explanation,韧性适应,Resilience adaptation,1,10,2021.42,3.68,#3DAA3D,11,8,1,2009,2021,13,14.193274706497558,10,True,False,0.0,10.0,67.0,12.0,530.0,7.0,62.0,空间形态,Spatial morphology,True,True,2021.0,4.0,67.0,2021|机制解释|__aggregate__,1.0,False,False,False,True,13.679949748426479,False,,
+2021|预测模拟|情景模拟,复合议程增强期,"Compound agenda
+intensification stage",2021,预测模拟,Prediction and simulation,情景模拟,Scenario simulation,4,1,2021.0,2.68,#10B981,35,14,1,2009,2022,13,32.53251169633946,1,True,True,4.0,3.0,7.0,4.0,77.0,1.0,4.0,情景模拟,Scenario simulation,False,False,2021.0,2.68,4.0,2021|预测模拟|情景模拟,4.0,True,True,True,True,30.599295739719537,False,,
+2021|预测模拟|风险预警,复合议程增强期,"Compound agenda
+intensification stage",2021,预测模拟,Prediction and simulation,风险预警,Risk warning,2,2,2020.58,2.68,#10B981,28,12,1,2009,2022,13,23.158103670980854,2,True,False,0.0,3.0,7.0,4.0,77.0,1.0,4.0,情景模拟,Scenario simulation,False,False,2020.58,2.68,2.0,2021|预测模拟|风险预警,2.0,False,True,False,False,22.049803146555014,False,,
+2021|预测模拟|机器学习,复合议程增强期,"Compound agenda
+intensification stage",2021,预测模拟,Prediction and simulation,机器学习,Machine learning,1,3,2021.42,2.68,#10B981,14,11,1,2008,2022,13,16.73832034148352,3,True,False,0.0,3.0,7.0,4.0,77.0,1.0,4.0,情景模拟,Scenario simulation,False,False,2021.42,2.68,1.0,2021|预测模拟|机器学习,1.0,False,False,False,False,16.289988864128727,False,,
+2021|干预决策|活化利用,复合议程增强期,"Compound agenda
+intensification stage",2021,干预决策,Intervention and decision,活化利用,Revitalization and use,13,1,2021.0,1.68,#1BA6C9,102,15,1,2008,2022,13,71.43930691370691,1,True,True,13.0,4.0,34.0,13.0,286.0,4.0,34.0,活化利用,Revitalization and use,True,True,2021.0,2.0,34.0,2021|干预决策|__aggregate__,13.0,True,True,True,True,65.1194059260345,True,1,high_centrality_ring_node
+2021|干预决策|保护修复,复合议程增强期,"Compound agenda
+intensification stage",2021,干预决策,Intervention and decision,保护修复,Conservation and restoration,9,2,2021.0,2.32,#1BA6C9,97,14,1,2008,2022,13,56.03840092251455,2,True,True,9.0,4.0,34.0,13.0,286.0,4.0,34.0,活化利用,Revitalization and use,True,True,2021.0,2.0,34.0,2021|干预决策|__aggregate__,9.0,True,True,True,True,51.31862936215532,False,,
+2021|干预决策|区域保护,复合议程增强期,"Compound agenda
+intensification stage",2021,干预决策,Intervention and decision,区域保护,Regional conservation,9,3,2020.58,1.68,#1BA6C9,60,14,1,2009,2022,13,53.09435336938077,3,True,True,9.0,4.0,34.0,13.0,286.0,4.0,34.0,活化利用,Revitalization and use,True,True,2021.0,2.0,34.0,2021|干预决策|__aggregate__,9.0,True,True,True,True,48.7951600308978,False,,
+2021|干预决策|预防保护,复合议程增强期,"Compound agenda
+intensification stage",2021,干预决策,Intervention and decision,预防保护,Preventive conservation,3,4,2021.42,1.68,#1BA6C9,27,13,1,2010,2022,13,27.274613391789288,4,True,True,3.0,4.0,34.0,13.0,286.0,4.0,34.0,活化利用,Revitalization and use,True,True,2021.0,2.0,34.0,2021|干预决策|__aggregate__,3.0,True,True,True,True,25.835382907247958,False,,
+2021|工具平台|信息平台,复合议程增强期,"Compound agenda
+intensification stage",2021,工具平台,Tools and platforms,信息平台,Information platform,10,1,2021.0,0.6799999999999999,#2E73D2,61,12,1,2008,2021,13,55.484349546269314,1,True,True,10.0,3.0,19.0,10.0,115.0,2.0,17.0,信息平台,Information platform,True,True,2021.0,1.0,19.0,2021|工具平台|__aggregate__,10.0,True,True,True,True,50.67229961108798,True,1,top_tag_within_stage_function
+2021|工具平台|数字孪生,复合议程增强期,"Compound agenda
+intensification stage",2021,工具平台,Tools and platforms,数字孪生,Digital twin,7,2,2020.58,0.6799999999999999,#2E73D2,29,9,1,2012,2021,13,39.33923072998831,2,True,True,7.0,3.0,19.0,10.0,115.0,2.0,17.0,信息平台,Information platform,True,True,2021.0,1.0,19.0,2021|工具平台|__aggregate__,7.0,True,True,True,True,36.062197768561404,True,2,top_tag_within_stage_function
+2021|工具平台|智能识别,复合议程增强期,"Compound agenda
+intensification stage",2021,工具平台,Tools and platforms,智能识别,Intelligent recognition,2,3,2021.42,0.6799999999999999,#2E73D2,25,13,1,2008,2022,13,23.4,3,True,False,0.0,3.0,19.0,10.0,115.0,2.0,17.0,信息平台,Information platform,True,True,2021.0,1.0,19.0,2021|工具平台|__aggregate__,2.0,False,True,False,True,22.4,False,,
+2021|综合|Integrated synthesis,复合议程增强期,"Compound agenda
+intensification stage",2021,综合,Integrated,Integrated synthesis,Integrated synthesis,5,1,2021.0,0.0,#6F58C9,12,6,1,2014,2021,13,27.499742261192857,1,True,False,0.0,1.0,5.0,5.0,12.0,0.0,0.0,,,False,False,2021.0,0.0,5.0,2021|综合|Integrated synthesis,5.0,False,True,False,False,25.256921938165302,True,1,top_tag_within_stage_function
+2022|记录描述|文献档案,复合议程增强期,"Compound agenda
+intensification stage",2022,记录描述,Recording and description,文献档案,Literature and archives,3,1,2022.0,6.68,#D65F5F,113,14,1,2008,2022,13,35.53220413782851,1,True,True,3.0,2.0,4.0,3.0,142.0,1.0,3.0,文献档案,Literature and archives,False,False,2022.0,6.68,3.0,2022|记录描述|文献档案,3.0,True,True,True,True,33.05617497528158,False,,
+2022|记录描述|历史图像,复合议程增强期,"Compound agenda
+intensification stage",2022,记录描述,Recording and description,历史图像,Historical imagery,1,2,2021.58,6.68,#D65F5F,29,11,1,2010,2022,13,19.039230729988304,2,True,False,0.0,2.0,4.0,3.0,142.0,1.0,3.0,文献档案,Literature and archives,False,False,2021.58,6.68,1.0,2022|记录描述|历史图像,1.0,False,False,False,False,18.262197768561403,False,,
+2022|意义阐释|意义阐释,复合议程增强期,"Compound agenda
+intensification stage",2022,意义阐释,Meaning interpretation,意义阐释,Meaning interpretation,3,1,2022.0,5.68,#E68A2E,101,14,1,2008,2022,13,34.71982586956925,1,True,True,3.0,3.0,7.0,3.0,242.0,2.0,6.0,意义阐释,Meaning interpretation,False,False,2022.0,5.68,3.0,2022|意义阐释|意义阐释,3.0,True,True,True,True,32.359850745345064,False,,
+2022|意义阐释|理论阐释,复合议程增强期,"Compound agenda
+intensification stage",2022,意义阐释,Meaning interpretation,理论阐释,Theoretical interpretation,3,2,2021.58,5.68,#E68A2E,78,14,1,2008,2022,13,33.01446521285899,2,True,True,3.0,3.0,7.0,3.0,242.0,2.0,6.0,意义阐释,Meaning interpretation,False,False,2021.58,5.68,3.0,2022|意义阐释|理论阐释,3.0,True,True,True,True,30.89811303959341,False,,
+2022|意义阐释|公众感知,复合议程增强期,"Compound agenda
+intensification stage",2022,意义阐释,Meaning interpretation,公众感知,Public perception,1,3,2022.42,5.68,#E68A2E,63,15,1,2008,2022,13,25.21215550647128,3,True,False,0.0,3.0,7.0,3.0,242.0,2.0,6.0,意义阐释,Meaning interpretation,False,False,2022.42,5.68,1.0,2022|意义阐释|公众感知,1.0,False,False,False,False,24.124704719832526,False,,
+2022|诊断评价|价值评价,复合议程增强期,"Compound agenda
+intensification stage",2022,诊断评价,Diagnosis and evaluation,价值评价,Value assessment,2,1,2022.14,4.68,#D7C600,91,15,1,2008,2022,13,31.05514881983724,2,True,False,0.0,7.0,10.0,2.0,312.0,0.0,0.0,,,True,False,2022.0,5.0,10.0,2022|诊断评价|__aggregate__,2.0,False,True,False,False,29.247270417003346,False,,
+2022|诊断评价|指标评价,复合议程增强期,"Compound agenda
+intensification stage",2022,诊断评价,Diagnosis and evaluation,指标评价,Indicator evaluation,2,2,2022.14,5.32,#D7C600,100,15,1,2008,2022,13,31.7,1,True,False,0.0,7.0,10.0,2.0,312.0,0.0,0.0,,,True,False,2022.0,5.0,10.0,2022|诊断评价|__aggregate__,2.0,False,True,False,False,29.799999999999997,False,,
+2022|诊断评价|结构环境检测,复合议程增强期,"Compound agenda
+intensification stage",2022,诊断评价,Diagnosis and evaluation,结构环境检测,Structural-environmental testing,2,3,2021.86,4.68,#D7C600,24,12,1,2010,2022,13,22.608571279792898,3,True,False,0.0,7.0,10.0,2.0,312.0,0.0,0.0,,,True,False,2022.0,5.0,10.0,2022|诊断评价|__aggregate__,2.0,False,True,False,False,21.578775382679623,False,,
+2022|诊断评价|本体安全,复合议程增强期,"Compound agenda
+intensification stage",2022,诊断评价,Diagnosis and evaluation,本体安全,Fabric safety,1,4,2021.86,5.32,#D7C600,23,13,1,2010,2022,13,19.51416413263781,5,True,False,0.0,7.0,10.0,2.0,312.0,0.0,0.0,,,True,False,2022.0,5.0,10.0,2022|诊断评价|__aggregate__,1.0,False,False,False,False,18.954997827975262,False,,
+2022|诊断评价|材料检测,复合议程增强期,"Compound agenda
+intensification stage",2022,诊断评价,Diagnosis and evaluation,材料检测,Material testing,1,5,2021.58,4.68,#D7C600,16,12,1,2010,2022,13,17.75,7,True,False,0.0,7.0,10.0,2.0,312.0,0.0,0.0,,,True,False,2022.0,5.0,10.0,2022|诊断评价|__aggregate__,1.0,False,False,False,False,17.299999999999997,False,,
+2022|诊断评价|病害监测,复合议程增强期,"Compound agenda
+intensification stage",2022,诊断评价,Diagnosis and evaluation,病害监测,Deterioration monitoring,1,6,2022.42,4.68,#D7C600,26,12,1,2010,2022,13,19.2886273190299,6,True,False,0.0,7.0,10.0,2.0,312.0,0.0,0.0,,,True,False,2022.0,5.0,10.0,2022|诊断评价|__aggregate__,1.0,False,False,False,False,18.618823416311336,False,,
+2022|诊断评价|风险评价,复合议程增强期,"Compound agenda
+intensification stage",2022,诊断评价,Diagnosis and evaluation,风险评价,Risk assessment,1,7,2021.58,5.32,#D7C600,32,14,1,2009,2022,13,21.369595949289334,4,True,False,0.0,7.0,10.0,2.0,312.0,0.0,0.0,,,True,False,2022.0,5.0,10.0,2022|诊断评价|__aggregate__,1.0,False,False,False,False,20.688225099390856,False,,
+2022|机制解释|公众参与,复合议程增强期,"Compound agenda
+intensification stage",2022,机制解释,Mechanism explanation,公众参与,Public participation,3,1,2022.14,3.68,#3DAA3D,80,15,1,2008,2022,13,33.82198067399882,1,True,True,3.0,7.0,11.0,3.0,474.0,1.0,3.0,公众参与,Public participation,True,True,2022.0,4.0,11.0,2022|机制解释|__aggregate__,3.0,True,True,True,True,31.733126291998992,False,,
+2022|机制解释|文旅融合,复合议程增强期,"Compound agenda
+intensification stage",2022,机制解释,Mechanism explanation,文旅融合,Culture-tourism integration,2,2,2022.14,4.32,#3DAA3D,62,14,1,2009,2022,13,28.073611023616536,3,True,False,0.0,7.0,11.0,3.0,474.0,1.0,3.0,公众参与,Public participation,True,True,2022.0,4.0,11.0,2022|机制解释|__aggregate__,2.0,False,True,False,True,26.54880944881417,False,,
+2022|机制解释|社区治理,复合议程增强期,"Compound agenda
+intensification stage",2022,机制解释,Mechanism explanation,社区治理,Community governance,2,3,2021.86,3.68,#3DAA3D,65,15,1,2008,2022,13,28.987160847617968,2,True,False,0.0,7.0,11.0,3.0,474.0,1.0,3.0,公众参与,Public participation,True,True,2022.0,4.0,11.0,2022|机制解释|__aggregate__,2.0,False,True,False,True,27.474709297958256,False,,
+2022|机制解释|参与式调查,复合议程增强期,"Compound agenda
+intensification stage",2022,机制解释,Mechanism explanation,参与式调查,Participatory survey,1,4,2021.86,4.32,#3DAA3D,11,8,1,2009,2022,13,14.193274706497558,7,True,False,0.0,7.0,11.0,3.0,474.0,1.0,3.0,公众参与,Public participation,True,True,2022.0,4.0,11.0,2022|机制解释|__aggregate__,1.0,False,False,False,True,13.679949748426479,False,,
+2022|机制解释|空间形态,复合议程增强期,"Compound agenda
+intensification stage",2022,机制解释,Mechanism explanation,空间形态,Spatial morphology,1,5,2021.58,3.68,#3DAA3D,88,14,1,2009,2022,13,26.583164127505604,5,True,False,0.0,7.0,11.0,3.0,474.0,1.0,3.0,公众参与,Public participation,True,True,2022.0,4.0,11.0,2022|机制解释|__aggregate__,1.0,False,False,False,True,25.156997823576226,False,,
+2022|机制解释|空间治理,复合议程增强期,"Compound agenda
+intensification stage",2022,机制解释,Mechanism explanation,空间治理,Spatial governance,1,6,2022.42,3.68,#3DAA3D,80,14,1,2009,2022,13,25.97198067399882,6,True,False,0.0,7.0,11.0,3.0,474.0,1.0,3.0,公众参与,Public participation,True,True,2022.0,4.0,11.0,2022|机制解释|__aggregate__,1.0,False,False,False,True,24.63312629199899,False,,
+2022|机制解释|问卷访谈,复合议程增强期,"Compound agenda
+intensification stage",2022,机制解释,Mechanism explanation,问卷访谈,Questionnaires and interviews,1,7,2021.58,4.32,#3DAA3D,88,15,1,2008,2022,13,27.233164127505603,4,True,False,0.0,7.0,11.0,3.0,474.0,1.0,3.0,公众参与,Public participation,True,True,2022.0,4.0,11.0,2022|机制解释|__aggregate__,1.0,False,False,False,True,25.85699782357623,False,,
+2022|预测模拟|情景模拟,复合议程增强期,"Compound agenda
+intensification stage",2022,预测模拟,Prediction and simulation,情景模拟,Scenario simulation,1,1,2022.0,2.68,#10B981,35,14,1,2009,2022,13,21.73251169633946,1,True,False,0.0,3.0,3.0,1.0,77.0,0.0,0.0,,,False,False,2022.0,2.68,1.0,2022|预测模拟|情景模拟,1.0,False,False,False,False,20.999295739719535,False,,
+2022|预测模拟|机器学习,复合议程增强期,"Compound agenda
+intensification stage",2022,预测模拟,Prediction and simulation,机器学习,Machine learning,1,2,2021.58,2.68,#10B981,14,11,1,2008,2022,13,16.73832034148352,3,True,False,0.0,3.0,3.0,1.0,77.0,0.0,0.0,,,False,False,2021.58,2.68,1.0,2022|预测模拟|机器学习,1.0,False,False,False,False,16.289988864128727,False,,
+2022|预测模拟|风险预警,复合议程增强期,"Compound agenda
+intensification stage",2022,预测模拟,Prediction and simulation,风险预警,Risk warning,1,3,2022.42,2.68,#10B981,28,12,1,2009,2022,13,19.558103670980856,2,True,False,0.0,3.0,3.0,1.0,77.0,0.0,0.0,,,False,False,2022.42,2.68,1.0,2022|预测模拟|风险预警,1.0,False,False,False,False,18.849803146555015,False,,
+2022|干预决策|保护修复,复合议程增强期,"Compound agenda
+intensification stage",2022,干预决策,Intervention and decision,保护修复,Conservation and restoration,3,1,2022.0,1.68,#1BA6C9,97,14,1,2008,2022,13,34.438400922514546,2,True,True,3.0,4.0,8.0,3.0,286.0,2.0,6.0,活化利用,Revitalization and use,False,False,2022.0,1.68,3.0,2022|干预决策|保护修复,3.0,True,True,True,True,32.118629362155325,False,,
+2022|干预决策|活化利用,复合议程增强期,"Compound agenda
+intensification stage",2022,干预决策,Intervention and decision,活化利用,Revitalization and use,3,2,2022.0,2.32,#1BA6C9,102,15,1,2008,2022,13,35.43930691370691,1,True,True,3.0,4.0,8.0,3.0,286.0,2.0,6.0,活化利用,Revitalization and use,False,False,2022.0,2.32,3.0,2022|干预决策|活化利用,3.0,True,True,True,True,33.119405926034496,False,,
+2022|干预决策|区域保护,复合议程增强期,"Compound agenda
+intensification stage",2022,干预决策,Intervention and decision,区域保护,Regional conservation,1,3,2021.58,1.68,#1BA6C9,60,14,1,2009,2022,13,24.294353369380765,3,True,False,0.0,4.0,8.0,3.0,286.0,2.0,6.0,活化利用,Revitalization and use,False,False,2021.58,1.68,1.0,2022|干预决策|区域保护,1.0,False,False,False,False,23.195160030897796,False,,
+2022|干预决策|预防保护,复合议程增强期,"Compound agenda
+intensification stage",2022,干预决策,Intervention and decision,预防保护,Preventive conservation,1,4,2022.42,1.68,#1BA6C9,27,13,1,2010,2022,13,20.074613391789285,4,True,False,0.0,4.0,8.0,3.0,286.0,2.0,6.0,活化利用,Revitalization and use,False,False,2022.42,1.68,1.0,2022|干预决策|预防保护,1.0,False,False,False,False,19.435382907247956,False,,
+2022|工具平台|智能识别,复合议程增强期,"Compound agenda
+intensification stage",2022,工具平台,Tools and platforms,智能识别,Intelligent recognition,1,1,2022.0,1.0,#2E73D2,25,13,1,2008,2022,13,19.8,1,True,False,0.0,1.0,1.0,1.0,25.0,0.0,0.0,,,False,False,2022.0,1.0,1.0,2022|工具平台|智能识别,1.0,False,False,False,False,19.199999999999996,False,,
