@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these data or coding materials, please cite this repository and the associated manuscript."
+type: dataset
+title: "From Conservation to Activation: How Research Funding Reorganizes Heritage Knowledge in China: Data and Coding"
+authors:
+  - family-names: Ji
+    given-names: Qian
+  - family-names: Zhou
+    given-names: Shengbei
+  - family-names: Wang
+    given-names: Lei
+  - family-names: Yang
+    given-names: Kaiting
+version: 1.0.0
+date-released: 2026-10-17
+url: "https://github.com/shengbei4980/conservation-to-activation-nsfc-heritage"
+repository-code: "https://github.com/shengbei4980/conservation-to-activation-nsfc-heritage"
+abstract: "Original data and LLM-assisted coding for 142 included NSFC-funded heritage projects initiated in China during 2008-2022, with all 144 screened source records retained."
+keywords:
+  - heritage research
+  - research funding
+  - NSFC
+  - China
+  - research agenda
